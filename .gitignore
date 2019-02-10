@@ -1,0 +1,14 @@
+# Ren'Py
+/characters
+/game/cache
+/game/python-packages
+/lib
+/renpy
+*.rpa
+*.rpyc
+log.txt
+README.html
+
+# Doki Doki Literature Club
+/game/firstrun
+DDLC.*

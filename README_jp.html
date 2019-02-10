@@ -1,0 +1,166 @@
+<html>
+
+<head>
+  <title>Doki Doki Literature Club! Readme(日本語訳版)</title>
+  <style>
+    BODY {
+      width: 100%;
+      background: #fef;
+      color: #444;
+      margin: 0;
+      font-family: 'Lato', sans-serif;
+      line-height: 1.6em;
+    }
+
+    DT {
+      font-weight: bold;
+      margin-top: .33em;
+      margin-left: 2.5em;
+    }
+
+    H2 {
+      color: #000;
+      margin-left: 0em;
+    }
+
+    H3 {
+      color: #000;
+      margin-left: 1em;
+    }
+
+    p {
+      margin-left: 2.5em;
+    }
+
+    .banner-divider {
+      position: relative;
+      background: #ffbde1;
+      height: 40px;
+    }
+
+    .content {
+      width: 960px;
+      margin: 0px auto;
+      box-sizing: border-box;
+      background: #fff;
+      box-shadow: 0px 0px 15px rgba(0, 0, 0, .3);
+    }
+
+    .inner-content {
+      padding: 0px 20px 40px 20px;
+    }
+
+    .editsection {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="content">
+    <div class="banner-divider"></div>
+    <div class="inner-content">
+      <h2>操作方法</h2>
+      <p>
+        ゲームを読み進めるには、<tt>左クリック</tt>か、<tt>スペースキー</tt>、<tt>
+          エンターキー</tt>を押してください。メニューが表示された場合、<br><tt>左クリック
+        </tt>で選択するか、方向キーで選択して<tt>エンターキー</tt>で決定してくださ
+        い。
+      </p>
+
+      <h3>ゲームメニュー</h3>
+      <p>
+        ゲーム中に右クリックか<tt>Esc</tt> を押すとゲームメニューが開きます。ゲームメニューでは以下の操作をすることができます。:
+      </p>
+
+      <dl>
+        <dt>戻る</dt>
+        <dd>ゲームに戻ります。</dd>
+        <dt>セーブゲーム</dt>
+        <dd>セーブスロットをクリックすることでセーブすることができます。</dd>
+        <dt>ロードゲーム</dt>
+        <dd>セーブスロットをクリックすることでロードすることができます。<br> ”オート”をクリックするとオートセーブされたデータをロードすることができます。</dd><br>
+        <dt>設定</dt>
+        <dd>
+          ゲームの設定を変更します。(options/configuration):
+          <dl>
+            <dt>ディスプレイ</dt>
+            <dd>フルスクリーンモードとウィンドウモードを切り替えます。</dd>
+            <dt>文字表示速度</dt>
+            <dd>文字表示速度を変更します。スライダーを右に動かすほど早く、左に動かすほど遅く表示されます。<br>
+              右端に動かすと、瞬間的に表示されます。</dd>
+            <dt>スキップ - 未読テキスト</dt>
+            <dd>既に見たメッセージ(プレイ中に)をスキップするか、全てのメッセージをスキップするか選択できます。</dd>
+            <dt>スキップ - 選択肢の後</dt>
+            <dd>スキップがメニューに達すると停止します。</dd>
+            <dt>オート待ち時間</dt>
+            <dd>オートで読み進める待ち時間を設定します。スライダーを左に動かすほど、読み進める待ち時間が短くなります。
+              <br>右端に動かすと、オートで読み進めるのを止めます。</dd>
+            <dt>音楽と効果音の音量</dt>
+            <dd>音楽と効果音の音量の調整をします。スライダーを右へ動かすほど、音が大きくなります。
+            </dd>
+            <dt>言語</dt>
+            <dd>日本語と英語の切り替えをします。<br>
+              <font color="red">
+                ※現在、言語を切り替えるとヒストリーの内容がうまく切り替わらない現象が起きます。もしかしたらRen'pyの仕様の可能性があります。あと本編中に切り替える場合は、一度DDLCを終了してから再び起動するか、セーブしてメインメニューに戻り、ロードすれば反映されます。
+              </font>
+            </dd>
+          </dl>
+        </dd>
+        <dt>メインメニュー</dt>
+        <dd>現在のゲームを終了して、メインメニューに戻ります。</dd>
+        <dt>終了</dt>
+        <dd>ゲームを全て終了して、ウインドウを閉じます。</dd>
+      </dl>
+
+      <h3>キーボードとマウスの割り当て</h3>
+      <dl>
+        <dt>左クリック、 Enterキー</dt>
+        <dd>ゲームを進めたり、メニューやボタン、スライダーを決定します。</dd>
+        <dt>Spaceキー</dt>
+        <dd>ゲームを進めますが、メニューやボタン、スライダーを決定できません。</dd>
+        <dt>矢印キー</dt>
+        <dd>メニューやボタン、スライダーを選択します。</dd>
+        <dt>Ctrlキー</dt>
+        <dd>キーを押している間、ゲームをスキップします。</dd>
+        <dt>Escapeキー</dt>
+        <dd>ゲームメニューを表示します。ゲームメニュー表示中は、ゲームに戻ります。</dd>
+        <dt>右クリック、 H</dt>
+        <dd>テキストウィンドウやその他の表示を隠します。</dd>
+        <dt>F</dt>
+        <dd>フルスクリーンモードに切り替えます。</dd>
+        <dt>S</dt>
+        <dd>スクリーンショットを撮ります。スクリーンショットは screenshotxxxx.png というファイル名で保存されます。</dd>
+        <dt>Alt＋M, Command＋H</dt>
+        <dd>ウインドウを最小化（アイコン化）します。</dd>
+        <dt>Alt＋F4, Command＋Q</dt>
+        <dd>ゲームを終了します。</dd>
+        <dt>Deleteキー</dt>
+        <dd>選択しているセーブスロットを消去します。</dd>
+      </dl>
+
+      <h2>セーブデータの削除とファイルのアクセス</h2>
+      <p>
+        状況によっては、初めからプレイするためにセーブデータを完全に削除したい方がいると思います。これをするには、<br><tt>game</tt>フォルダにアクセスして<tt>firstrun</tt>というファイルを削除しなければなりません。次回起動時にセーブデータを削除するかどうか聞かれます。
+        <tt>はい、既存のセーブデータを削除します</tt>を選ぶことで、初めからプレイすることができます。
+
+      </p>
+      <h3>Steam</h3>
+      <p>
+        Steamで起動している方は、ライブラリの中のDDLCを右クリックして、<tt>プロパティ</tt>を選択します。<br><tt>ローカルファイル</tt>タブの中の、<tt>ローカルファイルの閲覧...</tt>ボタンをクリックしてください。<br>ゲームディレクトリがエクスプローラ(Macの場合はFinder)で表示されます。
+        <h3>Mac(Steamではない場合)</h3>
+        <p>
+          Macユーザーの方は、DDLC.appを右クリックして<tt>パッケージの内容を表示</tt>を選択します。そうすると、ゲームのディレクトリが<tt>Contents/Resources/autorun</tt>というところにあります。
+        </p>
+        <h2>法定通知</h2>
+        <p>
+          本ゲームは様々なオープンソースプロジェクトのソースコードを使用しています。(GNU Lesser Public Licenseを含む)。<br>
+          そのリストとコード入手先は、Ren'py ディレクトリにある LICENSE.txt または<a
+            href="http://www.renpy.org/doc/html/license.html">http://www.renpy.org/doc/html/license.html</a>(全文英語)を参照してください。
+        </p>
+    </div>
+    <div class="banner-divider"></div>
+  </div>
+</body>
+
+</html>
