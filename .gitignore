@@ -12,3 +12,7 @@ README.html
 # Doki Doki Literature Club
 /game/firstrun
 DDLC.*
+
+# VSCode
+.history
+.vscode
