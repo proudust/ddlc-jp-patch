@@ -811,6 +811,7 @@ translate None label:
         call say_tl("ch5_main_414399e6")
         $ persistent.playthrough = 1
         $ persistent.anticheat = renpy.random.randint(100000, 999999)
+        $ renpy.save_persistent()
         $ delete_character("sayori")
         $ in_sayori_kill = True
         window hide(None)
@@ -820,13 +821,13 @@ translate None label:
         show s_kill2
         show s_kill_bg as s_kill_bg at s_kill_bg_start
         show s_kill as s_kill at s_kill_start
-        pause 3.75
+        $ pause(3.75)
         show s_kill_bg2 as s_kill_bg
         show s_kill2 as s_kill
-        pause 0.01
+        $ pause(0.01)
         show screen tear(20, 0.1, 0.1, 0, 40)
         play sound "sfx/s_kill_glitch1.ogg"
-        pause 0.25
+        $ pause(0.25)
         stop sound
         hide screen tear
         hide s_kill_bg
@@ -841,26 +842,26 @@ translate None label:
             zoom 2.0 xalign 0.5 yalign 0.05
             pause 0.5
             dizzy(1, 1.0)
-        pause 2.0
+        $ pause(2.0)
         show noise zorder 3:
             alpha 0.0
             linear 3.0 alpha 0.25
         show vignette zorder 3:
             alpha 0.0
             linear 3.0 alpha 0.75
-        pause 1.5
+        $ pause(1.5)
         show white zorder 2
         show splash_glitch zorder 2
-        pause 1.5
+        $ pause(1.5)
         show screen tear(20, 0.1, 0.1, 0, 40)
         play sound "sfx/s_kill_glitch1.ogg"
-        pause 0.2
+        $ pause(0.2)
         stop sound
         hide screen tear
-        pause 4.0
+        $ pause(4.0)
         show screen tear(20, 0.1, 0.1, 0, 40)
         play sound "sfx/s_kill_glitch1.ogg"
-        pause 0.2
+        $ pause(0.2)
         stop sound
         hide screen tear
         hide splash_glitch
@@ -868,7 +869,7 @@ translate None label:
         show splash_glitch_m zorder 2
         show splash_glitch_n zorder 2
         show splash_glitch_y zorder 2
-        pause 0.75
+        $ pause(0.75)
         hide white
         hide splash_glitch2
         hide splash_glitch_m
@@ -882,7 +883,7 @@ translate None label:
         python:
             try: sys.modules['renpy.error'].report_exception(error_report, False)
             except: pass
-        pause 6.0
+        $ pause(6.0)
 
 
         call say_tl("ch5_main_a20cefa7")

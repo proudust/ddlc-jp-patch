@@ -602,6 +602,7 @@ translate None label:
         $ persistent.monika_reload = 0
         $ persistent.yuri_kill = 0
         $ persistent.monika_kill = False
+        $ renpy.save_persistent()
         $ m.display_args["callback"] = slow_nodismiss
         $ m.what_args["slow_abortable"] = config.developer
         if not config.developer:
@@ -610,9 +611,9 @@ translate None label:
         $ delete_all_saves()
         scene white
         play music "bgm/monika-start.ogg" noloop
-        pause 0.5
+        $ pause(0.5)
         show splash-glitch2 with Dissolve(0.5, alpha=True)
-        pause 2.0
+        $ pause(2.0)
         hide splash-glitch2 with Dissolve(0.5, alpha=True)
         scene black
         stop music
@@ -620,6 +621,7 @@ translate None label:
         call say_tl("ch30_main_afac6db9")
         call say_tl("ch30_main_6b270196")
         $ persistent.clear[9] = True
+        $ renpy.save_persistent()
         show mask_2
         show mask_3
         show room_mask as rm:
@@ -640,7 +642,7 @@ translate None label:
         call say_tl("ch30_main_a56807f6")
         call say_tl("ch30_main_575e9f1f")
         call say_tl("ch30_main_77655935")
-        $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "nicoliveenc.exe"]
+        $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "livehime.exe", "pandatool.exe", "yymixer.exe", "douyutool.exe", "huomaotool.exe", "nicoliveenc.exe"]
         if not list(set(process_list).intersection(stream_list)):
             if currentuser != "" and currentuser.lower() != player.lower():
                 call say_tl("ch30_main_699e222b")
@@ -724,23 +726,27 @@ translate None label:
 
 translate None label:
     label ch30_main2:
-        $ config.allow_skipping = False
-        $ m.display_args["callback"] = slow_nodismiss
-        $ m.what_args["slow_abortable"] = config.developer
-        if not config.developer:
-            $ style.say_dialogue = style.default_monika
-        $ persistent.autoload = "ch30_main2"
-        show mask_2
-        show mask_3
-        show room_mask as rm:
-            size (320,180)
-            pos (30,200)
-        show room_mask2 as rm2:
-            size (320,180)
-            pos (935,200)
-        show monika_bg
-        show monika_bg_highlight
-        play music m1
+        if persistent.autoload == "ch30_main2":
+            $ config.allow_skipping = False
+            $ m.display_args["callback"] = slow_nodismiss
+            $ m.what_args["slow_abortable"] = config.developer
+            if not config.developer:
+                $ style.say_dialogue = style.default_monika
+            $ persistent.autoload = "ch30_main2"
+            show mask_2
+            show mask_3
+            show room_mask as rm:
+                size (320,180)
+                pos (30,200)
+            show room_mask2 as rm2:
+                size (320,180)
+                pos (935,200)
+            show monika_bg
+            show monika_bg_highlight
+            play music m1
+        else:
+            $ persistent.autoload = "ch30_main2"
+            $ renpy.save_persistent()
         menu:
             "Yes.":
                 pass

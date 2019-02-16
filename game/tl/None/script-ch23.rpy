@@ -698,7 +698,7 @@ translate None label:
             stop music
             scene white
             show yuripupils zorder 10
-            pause 3.0
+            $ pause(3.0)
             show bg club_day:
                 alpha 0.05
                 yoffset 0 ytile 2
@@ -857,7 +857,7 @@ translate None label:
         $ quick_menu = False
         window hide(None)
         stop music
-        pause 1.0
+        $ pause(1.0)
 
 
         window auto
@@ -870,6 +870,7 @@ translate None label:
     label yuri_kill_1:
         window auto
         $ persistent.autoload = "yuri_kill_1"
+        $ renpy.save_persistent()
         $ quick_menu = False
         stop music
         scene bg club_day
@@ -886,35 +887,46 @@ translate None label:
         $ style.say_dialogue = style.normal
 
         play sound "sfx/yuri-kill.ogg"
-        pause 1.43
+        $ starttime = datetime.datetime.now()
+
+        $ pause(1.43 - (datetime.datetime.now() - starttime).total_seconds())
         show yuri stab_1
-        pause 0.75
+
+        $ pause(2.18 - (datetime.datetime.now() - starttime).total_seconds())
         show yuri stab_2
         show blood:
             pos (610,485)
-        pause 1.25
+
+        $ pause(3.43 - (datetime.datetime.now() - starttime).total_seconds())
         show yuri stab_3
-        pause 0.75
+
+        $ pause(4.18 - (datetime.datetime.now() - starttime).total_seconds())
         show yuri stab_2
         show blood:
             pos (610,485)
         show yuri stab_4 with ImageDissolve("images/yuri/stab/4_wipe.png", 0.25)
-        pause 1.25
+
+        $ pause(5.68 - (datetime.datetime.now() - starttime).total_seconds())
         show yuri stab_5
-        pause 0.70
+
+        $ pause(6.38 - (datetime.datetime.now() - starttime).total_seconds())
         show yuri stab_6:
             2.55
             easeout_cubic 0.5 yoffset 300
         show blood as blood2:
             pos (635,335)
-        pause 2.55
+
+        $ pause(8.93 - (datetime.datetime.now() - starttime).total_seconds())
         hide blood
         hide blood2
-        pause 0.25
+
+        $ pause(9.18 - (datetime.datetime.now() - starttime).total_seconds())
         play sound fall
-        pause 0.25
+
+        $ pause(9.43 - (datetime.datetime.now() - starttime).total_seconds())
         scene black
-        pause 2.0
+
+        $ pause(11.43 - (datetime.datetime.now() - starttime).total_seconds())
 
         scene black
         show y_kill
@@ -926,6 +938,7 @@ translate None label:
     label yuri_kill_2:
         $ quick_menu = True
         $ persistent.autoload = "yuri_kill_2"
+        $ renpy.save_persistent()
         python:
             _history_list = []
             m.add_history(None, "", history_yuri_kill)

@@ -104,6 +104,7 @@ image lyrics:
 translate None label:
     label credits:
         $ persistent.autoload = "credits"
+        $ renpy.save_persistent()
         $ config.keymap['game_menu'] = []
         $ config.keymap['hide_windows'] = []
         $ renpy.display.behavior.clear_keymap_cache()
@@ -381,6 +382,7 @@ translate None label:
         show poem_end with Dissolve(1)
         label postcredits_loop:
             $ persistent.autoload = "postcredits_loop"
+            $ renpy.save_persistent()
             $ config.keymap['game_menu'] = []
             $ config.keymap['hide_windows'] = []
             $ renpy.display.behavior.clear_keymap_cache()
