@@ -1549,7 +1549,7 @@ translate Japanese ch30_9_87b526b8:
     m "「ここにピアノがあればよかったのに……」"
 
 translate Japanese ch30_9_58dfa483:
-    m "「せっかく作ってた歌を完成できなかっんだもの」"
+    m "「せっかく作ってた歌を完成できなかったんだもの」"
 
 translate Japanese ch30_9_90d379b5:
     m "「すっごく頑張ってたのに……」"

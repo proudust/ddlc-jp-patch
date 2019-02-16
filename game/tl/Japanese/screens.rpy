@@ -1,4 +1,4 @@
-﻿define config.default_language = "Japanese"
+define config.default_language = "Japanese"
 
 translate Japanese python:
     gui.default_font = "gui/font/VL-Gothic-Regular.ttf"
@@ -168,7 +168,7 @@ translate Japanese strings:
     new "ヘルプファイルがブラウザで開かれました"
 
     old "File error: \"characters/sayori.chr\"\n\nThe file is missing or corrupt."
-    new "ファイルエラー: \"characters/sayori.chr\"\n\nが見つからないか破損しています。"
+    new "ファイルエラー: \"characters/sayori.chr\"\n\nが存在しないか破損しています。"
 
     old "The save file is corrupt. Starting a new game."
     new "セーブデータが破損しています。\n新しいゲームを開始します。"

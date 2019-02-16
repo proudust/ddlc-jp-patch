@@ -2,22 +2,22 @@
     s "「おーはーよーーー！」"
 
 translate Japanese ch0_main_bcc5bb00:
-    "遠くからうるさい女の子が、宙に手を振りながら周囲の目をまったく気にせずに、こっちに走ってくる。"
+    "遠くから鬱陶しい女の子が、宙に手を振りながら周囲の目をまったく気にしない様子で、こちらに走ってくる。"
 
 translate Japanese ch0_main_80f1ba46:
-    "彼女の名前はサヨリ、近所に住んでいる幼馴染だ。"
+    "あの子はサヨリといって、近所に住んでいる幼馴染だ。"
 
 translate Japanese ch0_main_40dc33e4:
-    "今となっては作らないタイプの友達だが、昔からの知り合いだからこその交友関係とでもいえばいいのだろうか？"
+    "今友達にしたいとはとても思わないだろうが、それでもうまくいっているのは幼馴染だからなのか。"
 
 translate Japanese ch0_main_fc8dd6bc:
-    "こんな日はよく一緒に登校していたが、高校生になってから彼女の寝坊が多くなり、俺は待つのをやめた。"
+    "こんな日にはよく一緒に登校していたが、高校生になってから彼女の寝坊が多くなり、俺は待つのがだるくなってきた。"
 
 translate Japanese ch0_main_0117e949:
     "こんな風に追いかけて来るなら、もういっそのこと逃げてしまおうかと思う。"
 
 translate Japanese ch0_main_a0aaf316:
-    "でも俺はやれやれと横断歩道の前で彼女を待った。"
+    "でも俺はやれやれと横断歩道の前でサヨリを待った。"
 
 translate Japanese ch0_main_cf958be9:
     s 4p "「はあ……はぁ……」"
@@ -71,10 +71,10 @@ translate Japanese ch0_main_0855e33f:
     mc "「部活？」"
 
 translate Japanese ch0_main_514f6cec:
-    mc "「部活は興味ないって前から言っていたはずだが」"
+    mc "「マジで部活には興味ないって前から言っていたはずだが」"
 
 translate Japanese ch0_main_57434f02:
-    mc "「それに探してすらいないよ」"
+    mc "「それに探してもいないよ」"
 
 translate Japanese ch0_main_510bdda9:
     s 4h "「えぇぇぇ、そんなぁ！」"
@@ -89,13 +89,13 @@ translate Japanese ch0_main_2317207b:
     "いつものように彼女の話に合わせて適当に返事していた時にでも言ってしまった可能性は十分にある。"
 
 translate Japanese ch0_main_988d7054:
-    "暇な時間は大抵アニメかゲームに費やして、平穏な生活が送れればそれで満足なのに、彼女はそれを心配しすぎる節がある。"
+    "暇な時間は大抵アニメかゲームをやって、平穏な生活が送れればもうそれで満足なのに、彼女はそれを心配しすぎる節がある。"
 
 translate Japanese ch0_main_06a80352:
     s 4j "「ああ、もう！」"
 
 translate Japanese ch0_main_b2ade169:
-    s "「わたしは[player]が大学に行く前に社会性もスキルも身につかないんじゃないかって心配なの！」"
+    s "「わたしは[player]が大学に行く前に社会性もスキルも身につかないんじゃないかって心配だっていってるの！」"
 
 translate Japanese ch0_main_61fb4fdb:
     s "「[player]の幸せはわたしにとっても大事なんだから！」"
@@ -134,7 +134,7 @@ translate Japanese ch0_main_427c8d3d:
     "それどころか、こうやって従ってしまう事に驚きだ。"
 
 translate Japanese ch0_main_86001771:
-    "俺のことを過剰に心配している様子をみていると、少しくらいは安心させてやりたくなるのだろう――ちょっと物事を大げさにとらえる癖があっても。"
+    "俺のことを過剰に心配している様子をみていると、少しくらいは安心させてやりたくなるのだろう――ちょっと脳内のことを大げさにとらえる癖があっても。"
 
 translate Japanese ch0_main_d234f771:
     "普段通りの学校生活は、いつの間にか終わっていた。"
@@ -197,16 +197,16 @@ translate Japanese ch0_main_24c0c28c:
     "サヨリは文芸部の副部長をやっている。"
 
 translate Japanese ch0_main_3b431c20:
-    "文学に関心を持っていたなんて知らなかったが。"
+    "文学に関心を持っていただなどかつて気づいたこともない。"
 
 translate Japanese ch0_main_a89001e9:
-    "実際、部設立の手伝いをするのが楽しそうだからというだけでそこにいると99％思っている。"
+    "実際、部の新設の手伝いをするのが楽しそうだからというだけで参加したのだと99％確信している。"
 
 translate Japanese ch0_main_bf60a48d:
     "部を提案した人の初めての賛同者だったから、『副部長』の座に就いたみたいだ。"
 
 translate Japanese ch0_main_dad2209a:
-    "それに、俺の文学への興味は彼女以下だろう。"
+    "とはいえ、文学になんて彼女より興味ないこと請け合いだ。"
 
 translate Japanese ch0_main_67a570cc:
     mc "「そうか、じゃあアニメ部に行ってくる」"
@@ -224,7 +224,7 @@ translate Japanese ch0_main_d72b517e:
     s "「だって昨日みんなに新入部員連れてくるって言っちゃったし……」"
 
 translate Japanese ch0_main_dc74dc48:
-    s "「それにナツキちゃんがカップケーキとか作ってきてるし……」"
+    s "「それにナツキちゃんがカップケーキとか色々作ってきてるし……」"
 
 translate Japanese ch0_main_cc3db8cd:
     s "「えへへ……」"
@@ -245,20 +245,20 @@ translate Japanese ch0_main_56df6485:
     s 4r "「やった！ よし行こう～！」"
 
 translate Japanese ch0_main_d005514b:
-    "というわけで、俺はカップケーキに魂を売ったのだ。"
+    "というわけで、今日は俺がカップケーキに魂を売った日だと記録されるだろう。"
 
 translate Japanese ch0_main_cb634d94:
     "やれやれと思いながらサヨリの後について校舎をわたり階段を上っていく。"
     "着いたのは、学校の中でも普段は３年生の授業や活動で使用され、自分は滅多に行くことがない場所だった。"
 
 translate Japanese ch0_main_01a899d9:
-    "サヨリは元気いっぱいに教室のドアを開けた。"
+    "サヨリは元気いっぱいに勢いよく教室のドアを開けた。"
 
 translate Japanese ch0_main_fcd53725:
-    s "「みんな！ 新入部員を連れてきたよ～！」"
+    s "「みんな！ 新入部員がきたよ～！」"
 
 translate Japanese ch0_main_a17485df:
-    mc "「新入部員って呼ぶなって――」"
+    mc "「おい、俺を新入部員って呼ぶなって――」"
 
 translate Japanese ch0_main_6c94972f:
     "えっ？ 教室をひと目見回した。"
@@ -285,7 +285,7 @@ translate Japanese ch0_main_2b35b6fe:
     mc "「……」"
 
 translate Japanese ch0_main_00244a6d:
-    "つい言葉を失ってしまった。"
+    "この光景に二の句を継げなくなった。"
 
 translate Japanese ch0_main_7903e6e7:
     "この部活は……"
@@ -294,7 +294,7 @@ translate Japanese ch0_main_4c13a14b:
     "{i}最高にかわいい子だらけじゃないか！{/i}"
 
 translate Japanese ch0_main_b2022684:
-    n 2c "「あんた何見てんのよ？」"
+    n 2c "「あんたどこを見てんのよ？」"
 
 translate Japanese ch0_main_89e5120b:
     n "「言いたいことがあるなら言いなさいよ」"
@@ -333,7 +333,7 @@ translate Japanese ch0_main_084001f0:
     y 4b "「そ、そんな風に言わないでください……」"
 
 translate Japanese ch0_main_4ccfaeda:
-    "おどおどして、他の子に比べやや大人っぽいこの子はユリというらしい。サヨリやナツキのようなタイプと一緒にやっていくのに苦労していそうだ。"
+    "他の子に比べやや大人っぽく、また臆病そうなこの子はユリというらしい。サヨリやナツキのようなタイプと一緒にやっていくのに苦労していそうだ。"
 
 translate Japanese ch0_main_13900021:
     mc "「ええと、二人ともよろしく」"
@@ -351,10 +351,10 @@ translate Japanese ch0_main_3049c3ae:
     "モニカは優しくほほ笑む。"
 
 translate Japanese ch0_main_7c7cb783:
-    "去年クラスメイトだったので、お互いに顔は知っている。まあ、話したことはほとんどなかったが。"
+    "お互いに顔は知っている。まあ、話したことはほとんどなかったが、去年クラスメイトだったから。"
 
 translate Japanese ch0_main_f583350f:
-    "モニカは眉目秀麗・文武両道。おそらくクラスで一番人気だった女の子だ。"
+    "モニカは容姿端麗・文武両道。おそらくクラスで一番人気だった女の子だ。"
 
 translate Japanese ch0_main_e3e8565d:
     "要するに、高嶺の花だ。"
@@ -381,7 +381,7 @@ translate Japanese ch0_main_4c9bc219:
     y "「それでは、私はお茶を淹れますね」"
 
 translate Japanese ch0_main_9f8ec8cb:
-    "机が並べられて作られたテーブルがある。"
+    "いくつかの机を並べて、一つのテーブルにしている。"
 
 translate Japanese ch0_main_8c49885c:
     "サヨリの言った通り、モニカとサヨリの隣が一つずつ空いている。"
@@ -390,7 +390,7 @@ translate Japanese ch0_main_dd182ef4:
     "ナツキとユリは教室の隅に向かった。ナツキはホイルで包まれたトレイを取り、ユリはクローゼットを開けている。"
 
 translate Japanese ch0_main_7b148be6:
-    "なんだか未だ気まずさを感じて、俺はとりあえずサヨリの隣の席に座る。"
+    "それでも気まずさを感じて、俺はとりあえずサヨリの隣の席に座る。"
 
 translate Japanese ch0_main_f4e1d6dd:
     "ナツキはトレイを持って、誇らしげにテーブルへやって来た。"
@@ -405,10 +405,10 @@ translate Japanese ch0_main_496daacd:
     s "「うっわああぁぁ～～っ！！」"
 
 translate Japanese ch0_main_f7578acc:
-    "ナツキがアルミホイルをめくると白くてかわいい、子猫のようなカップケーキが12個顔を見せた。"
+    "ナツキがアルミホイルをめくると白くてかわいい、子猫のような1ダースのカップケーキが顔を見せた。"
 
 translate Japanese ch0_main_96ece77f:
-    "猫のひげはアイシングで、耳はチョコで作られているようだ。"
+    "猫のひげはアイシングで描き、耳は少量のチョコで作られているようだ。"
 
 translate Japanese ch0_main_697c694e:
     s 4r "「すっごくかわいいぃ～！」"
@@ -429,7 +429,7 @@ translate Japanese ch0_main_5fdd7380:
     s 4q "「おいしい！」"
 
 translate Japanese ch0_main_2e786edb:
-    "サヨリはカップケーキを口いっぱいにして話し、顔にアイシングがついてしまっている。"
+    "サヨリはカップケーキで口をいっぱいにして話し、顔にアイシングがついてしまっている。"
 
 translate Japanese ch0_main_9137625a:
     "俺は食べやすい向きを探してカップケーキを回す。"

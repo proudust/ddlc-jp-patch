@@ -71,7 +71,7 @@ label ch5_main_869ed546_Japanese:
     "モニカは小冊子を教室の机１つ１つの上に並べている。"
     return
 
-label ch5_main_6d27bca4_Japanese:
+label ch5_main_158d922b_Japanese:
     "おそらく俺たちが発表する詩が載っているのだろう。"
     return
 
@@ -440,7 +440,7 @@ label ch5_main_b0993b5c_Japanese:
     return
 
 label ch5_main_414399e6_Japanese:
-    mc "{cps=30}……サヨ{/cps}{nw}"
+    mc "{cps=30}「……サヨ{/cps}{nw}"
     return
 
 label ch5_main_a20cefa7_Japanese:

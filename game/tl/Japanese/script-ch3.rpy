@@ -1453,7 +1453,7 @@ translate Japanese ch3_end_monika_f0139694_1:
     m "「ええと……」"
 
 translate Japanese ch3_end_monika_79ddc100:
-    n "「それであなたは賢明な判断をしてくれるのかしら、{i}部長さん{/i}？」"
+    n "「それであんたは賢明な判断をしてくれるのかしら、{i}部長さん{/i}？」"
 
 translate Japanese ch3_end_monika_a5c16eef:
     m "「分かった、分かったわ！」"
@@ -2293,4 +2293,3 @@ translate Japanese strings:
 
     old "Sayori..."
     new "サヨリ……"
-

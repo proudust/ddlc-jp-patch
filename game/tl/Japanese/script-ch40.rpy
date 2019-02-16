@@ -14,7 +14,7 @@ translate Japanese ch40_main_3c88e505:
     "……まあ、女の子なら身近に一人いる。"
 
 translate Japanese ch40_main_80f1ba46:
-    "彼女の名前はサヨリ、近所に住んでいる幼馴染だ。"
+    "あの子はサヨリといって、近所に住んでいる幼馴染だ。"
 
 translate Japanese ch40_main_1c9ccf9b:
     "昔はよく一緒に登校していたが……"
@@ -707,7 +707,7 @@ translate Japanese ch40_main_58cb3132:
     mc "「ああ、そうみたいだな……」"
 
 translate Japanese ch40_main_d6720cce:
-    mc "「みんな仲良くなっていってるようで良かったよ」"
+    mc "「みんな仲良くやってるみたいで良かったよ」"
 
 translate Japanese ch40_main_55daf1df:
     s 1q "「そうだよねぇ～」"

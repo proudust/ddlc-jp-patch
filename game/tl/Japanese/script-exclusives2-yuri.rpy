@@ -814,59 +814,59 @@ translate Japanese yuri_exclusive2_2_ch22_c934e5a0:
 translate Japanese yuri_exclusive2_2_ch22_8bb5a442:
     y "「はっ――！」"
 
-translate Japanese yuri_exclusive2_2_ch22_45f515cf:
-    mc "「{cps=*3}ユリ……？{/cps}{nw}」"
+translate Japanese yuri_exclusive2_2_ch22_d1bae097:
+    mc "「{cps=150}ユリ……？{/cps}{nw}」"
 
-translate Japanese yuri_exclusive2_2_ch22_2dba7fd4:
-    "{cps=*3}角を曲がった先を覗く。{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_e6152f36:
+    "{cps=150}角を曲がった先を覗く。{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_311841d2:
-    "{cps=*3}苦しんでいるのか……？{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_32ca75d9:
+    "{cps=150}苦しんでいるのか……？{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_a3261aed:
-    "{cps=*3}歯を食いしばりながら息を吸い込むかのような鋭い呼吸。{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_4bb5f0fa:
+    "{cps=150}歯を食いしばりながら息を吸い込むかのような鋭い呼吸。{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_35b8f683:
-    y "「{cps=*3}シィーーーッ……{/cps}{nw}」"
+translate Japanese yuri_exclusive2_2_ch22_58bb6295:
+    y "「{cps=150}シィーーーッ……{/cps}{nw}」"
 
-translate Japanese yuri_exclusive2_2_ch22_808ddb1f:
-    "{cps=*3}誰かの呼吸のようだ。{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_08f21ca7:
+    "{cps=150}誰かの呼吸のようだ。{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_bdd9b0dc:
-    "{cps=*3}角を曲がったところから聞こえてくる……{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_8cbb7ddd:
+    "{cps=150}角を曲がったところから聞こえてくる……{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_1cb35fdb:
-    "{cps=*3}……何の音だ？{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_9efe41bb:
+    "{cps=150}……何の音だ？{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_fccbcd9f:
-    y "「{cps=*3}……はぁーっ……はぁーっ……{/cps}{nw}」"
+translate Japanese yuri_exclusive2_2_ch22_2170fe8c:
+    y "「{cps=150}……はぁーっ……はぁーっ……{/cps}{nw}」"
 
-translate Japanese yuri_exclusive2_2_ch22_c9a86836:
-    y "「{cps=*3}はぁーっ……はぁーっ……{/cps}{nw}」"
+translate Japanese yuri_exclusive2_2_ch22_931edd08:
+    y "「{cps=150}はぁーっ……はぁーっ……{/cps}{nw}」"
 
-translate Japanese yuri_exclusive2_2_ch22_2d8b4bf0:
-    "{cps=*3}俺は廊下を歩き始める。{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_88faba50:
+    "{cps=150}俺は廊下を歩き始める。{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_4eb8180d:
-    "{cps=*3}ユリはここから一番近い水飲み場に向かったと考えるのが合理的だ……{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_e4fb0c07:
+    "{cps=150}ユリはここから一番近い水飲み場に向かったと考えるのが合理的だ……{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_6056bfd3:
-    mc "「{cps=*3}さてと……{/cps}{nw}」"
+translate Japanese yuri_exclusive2_2_ch22_bd04a622:
+    mc "「{cps=150}さてと……{/cps}{nw}」"
 
-translate Japanese yuri_exclusive2_2_ch22_7de44af2:
-    "{cps=*3}待ってるばかりも退屈なので、探しに行くことにした。{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_6e4de4a6:
+    "{cps=150}待ってるばかりも退屈なので、探しに行くことにした。{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_a19a6241:
-    "{cps=*3}何かあったのだろうか？{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_023a44ec:
+    "{cps=150}何かあったのだろうか？{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_e5b982d7:
-    "{cps=*3}ユリはそんなにかからないと言っていたが……{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_e4a41be3:
+    "{cps=150}ユリはそんなにかからないと言っていたが……{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_79bd98ff:
-    "{cps=*3}10分が過ぎた。{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_aba8093d:
+    "{cps=150}10分が過ぎた。{/cps}{nw}"
 
-translate Japanese yuri_exclusive2_2_ch22_e1a64dfd:
-    "{cps=*3}……{/cps}{nw}"
+translate Japanese yuri_exclusive2_2_ch22_231f46ba:
+    "{cps=150}……{/cps}{nw}"
 
 translate Japanese yuri_exclusive2_2_ch22_deebf71c:
     y "「ただいま戻りました」"
@@ -1291,8 +1291,8 @@ translate Japanese yuri_exclusive2_2_ch22_d0015b90:
 translate Japanese yuri_exclusive2_2_ch22_5f395221:
     m "「そ……そろそろ詩の読み合いを……」"
 
-translate Japanese yuri_exclusive2_2_ch23_deef79f2:
-    y "「[gtext]{nw}」"
+translate Japanese yuri_exclusive2_2_ch23_7461c080:
+    y "「{cps=70}[gtext]{nw}」"
 
 translate Japanese yuri_exclusive2_2_ch23_a1300026:
     y "「えっと……」"

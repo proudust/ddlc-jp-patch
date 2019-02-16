@@ -5,7 +5,7 @@ define error_report = ""
 translate None python:
     error_title = "An exception has occurred."
     error_message = "File \"game/script-ch5.rpy\", line 307\nSee traceback.txt for details."
-    error_report = "Oh jeez...I didn't break anything, did I? Hold on a sec, I can probably fix this...I think...\nActually, you know what? This would probably be a lot easier if I just deleted her. She's the one who's making this so difficult. Ahaha! Well, here's goes nothing."
+    error_report = "Oh jeez...I didn't break anything, did I? Hold on a sec, I can probably fix this...I think...\nActually, you know what? This would probably be a lot easier if I just deleted her. She's the one who's making this so difficult. Ahaha! Well, here goes nothing."
 
 label ch5_main_291cd73e:
     "It's the day of the festival."
@@ -75,8 +75,8 @@ label ch5_main_869ed546:
     "Monika is placing little booklets on each of the desks in the classroom."
     return
 
-label ch5_main_6d27bca4:
-    "They must be the ones she prepared that has all the poems we're performing."
+label ch5_main_158d922b:
+    "They must be the ones she prepared that have all the poems we're performing."
     return
 
 label ch5_main_1fd6873b:
@@ -699,7 +699,7 @@ translate None label:
         call say_tl("ch5_main_cbd0885b")
         call say_tl("ch5_main_b16212d3")
         call say_tl("ch5_main_869ed546")
-        call say_tl("ch5_main_6d27bca4")
+        call say_tl("ch5_main_158d922b")
         call say_tl("ch5_main_1fd6873b")
         call say_tl("ch5_main_8185735f")
         call say_tl("ch5_main_185b9181")

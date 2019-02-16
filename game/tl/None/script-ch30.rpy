@@ -829,7 +829,7 @@ translate None label:
         call say_tl("ch30_postpoem_b8745c94")
         call say_tl("ch30_postpoem_5aeffd49")
         call say_tl("ch30_postpoem_32ab177c")
-        $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "nicoliveenc.exe"]
+        $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "livehime.exe", "pandatool.exe", "yymixer.exe", "douyutool.exe", "huomaotool.exe", "nicoliveenc.exe"]
         if list(set(process_list).intersection(stream_list)):
             call ch30_stream
         call say_tl("ch30_postpoem_09f4a4a3")

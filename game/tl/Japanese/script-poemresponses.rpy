@@ -385,6 +385,12 @@ translate Japanese ch3_y_end_91b76390:
 translate Japanese ch3_y_end_a7bcf340:
     mc "「なるほどな……」"
 
+translate Japanese ch3_y_end_9fc21808:
+    "ナツキは俺に詩を見せてもくれないからなあ。コメントしようもない。"
+
+translate Japanese ch3_y_end_a7bcf340_1:
+    mc "「なるほどな……」"
+
 translate Japanese ch3_y_end_d516d084:
     "ナツキが俺に見せた詩は、みんなに見せる予定ではなかったのか……"
 
@@ -881,6 +887,12 @@ translate Japanese ch3_n_end_9c8cb24c:
     n "「あいつが思いついたテーマについて、わたしたちがそれぞれ書くということになったの」"
 
 translate Japanese ch3_n_end_a7bcf340:
+    mc "「そうなのか……」"
+
+translate Japanese ch3_n_end_f69d1672:
+    "ユリの詩ちゃんと読んだことないんだよな……。だから今のところ何も言えない。"
+
+translate Japanese ch3_n_end_a7bcf340_1:
     mc "「そうなのか……」"
 
 translate Japanese ch3_n_end_c5c52c14:
@@ -5579,6 +5591,24 @@ translate Japanese ch1_m_start_32258afa:
 translate Japanese ch2_m_start_88abc401:
     m 1b "「やっほー、[player]君！」"
 
+translate Japanese ch2_m_start_b0c674af:
+    m "「最初の頃はナツキも思慮に欠いていたところがあったわよね？」"
+
+translate Japanese ch2_m_start_b6b9632c:
+    m 1j "「ふたりがずいぶん仲良くしてて嬉しいわ。」"
+
+translate Japanese ch2_m_start_2b35b6fe:
+    mc "「……」"
+
+translate Japanese ch2_m_start_a02765f7:
+    "そういう言い方もあるかな……"
+
+translate Japanese ch2_m_start_dd03a39d:
+    m 2a "「ともかく、私はもうあなたの詩を読んだから、次はあなたが私のを読む番よ。」"
+
+translate Japanese ch2_m_start_bd7f69ac:
+    m 1a "「私はこういう書き方好きだから、あなたにも気に入ってもらえるといいな～」"
+
 translate Japanese ch2_m_start_3b003159:
     m "「執筆は順調かしら？」"
 
@@ -5656,6 +5686,9 @@ translate Japanese ch3_m_start_e6d6f04f:
 
 translate Japanese ch3_m_start_1459477f:
     m 2k "「あはは！」"
+
+translate Japanese ch3_m_start_707101ed:
+    m 1a "「ともかく、私はもうあなたの詩を読んだから、次はあなたが私のを読む番よ。」"
 
 translate Japanese ch3_m_start_871ff519:
     m 1a "「それじゃあ、今日の詩を見てみましょうか！」"

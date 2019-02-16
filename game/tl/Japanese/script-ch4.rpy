@@ -2932,7 +2932,7 @@ translate Japanese ch4_exclusive_yuri_69cc8240:
 translate Japanese ch4_exclusive_yuri_583843dd:
     mc "「こんなもんだな……」"
 
-translate Japanese ch4_exclusive_yuri_d178f9a4:
+translate Japanese ch4_exclusive_yuri_3e5faaa7:
     "俺は横幕に描かれた夜空を星に見立てた白い点でいっぱいにした。"
 
 translate Japanese ch4_exclusive_yuri_590b6e62:

@@ -227,7 +227,7 @@ translate Japanese ch20_main2_df96810e:
     m 1a "「それじゃあ、行きましょうか？」"
 
 translate Japanese ch20_main2_b21a8ccf:
-    mc "「道具は別の時間に探しに行くわ、あなたのほうが大切だもの」"
+    m "「道具は別の時間に探しに行くわ、あなたのほうが大切だもの」"
 
 translate Japanese ch20_main2_fe6b0db2:
     "というわけで、俺はモニカとその笑顔に魂を売ったのだ。"
