@@ -556,7 +556,7 @@ translate Japanese ch40_main_9e4443a7:
 translate Japanese ch40_main_57eceffe:
     s 1l "「だって……」"
 
-translate Japanese ch40_main_66735e71:
+translate Japanese ch40_main_87a214fd:
     s "「文芸部って……そういう部活でしょ？」"
 
 translate Japanese ch40_main_5e741960:
