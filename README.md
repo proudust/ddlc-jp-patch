@@ -22,42 +22,42 @@
 
 
 ## 既知の不具合
-- オプションや詩などが正常に表示されない
+### オプションや詩などが正常に表示されない
   以下の手順で直るようです。
   1. DDLCを通常起動
   2. Shift+Gキーでグラフィックアクセラレーションを起動
   3. Angle/DirectXを選択
 
-- 言語を切り替えてもバックログが真っ白or英語のまま
-  Ren’Pyの仕様です。
+### 言語を切り替えてもバックログが真っ白or英語のまま
+Ren’Pyの仕様です。
 
-- 言語を切り替えても反映されない箇所がある
-  このパッチの仕様です。次の台詞はちゃんと現在の言語で表示されます。
-  作詞の場合はセーブ＆ロードで切り替えが反映されます。
-  " "が付かないのとナツキ＆ユリの名前欄は仕様です。ごめんなさい。
+### 言語を切り替えても反映されない箇所がある
+このパッチの仕様です。次の台詞はちゃんと現在の言語で表示されます。
+作詞の場合はセーブ＆ロードで切り替えが反映されます。
+" "が付かないのとナツキ＆ユリの名前欄は仕様です。ごめんなさい。
 
-- 中途半端な場所でタイトルに戻される
-  日本語化パッチを更新した後、古いセーブデータから再開すると起こることがあります。
-  申し訳ありませんが、ニューゲームからやり直して下さい。
+### 中途半端な場所でタイトルに戻される
+日本語化パッチを更新した後、古いセーブデータから再開すると起こることがあります。
+申し訳ありませんが、ニューゲームからやり直して下さい。
 
-- 翻訳が反映されない箇所がある
-  原因不明です。Steam ガイドに原文と翻訳を載せてあります。
-  またそれ以外の台詞で未翻訳箇所がありましたらガイドコメントや Discord、GitHub などでご連絡下さい。
+### 翻訳が反映されない箇所がある
+原因不明です。Steam ガイドに原文と翻訳を載せてあります。
+またそれ以外の台詞で未翻訳箇所がありましたらガイドコメントや Discord、GitHub などでご連絡下さい。
 
-- Linux環境での不具合
-  ガイドに載せてあります。終盤のネタバレ注意。
+### Linux環境での不具合
+ガイドに載せてあります。終盤のネタバレ注意。
 
 
 ## 使用フォント
-VLゴシック[UI](http://vlgothic.dicey.org/license.html)
-みかちゃん[UI](http://www001.upp.so-net.ne.jp/mikachan/)
-ホリデイMDJP03[サヨリ](http://mksd.jp/Holiday_Kanji.html)
-851手書き雑フォント[ユリ](http://www39.atpages.jp/yagoinienie/851fontpage.html)
-草書フォント[ユリ](https://booth.pm/ja/items/318557)
-さなフォン[ナツキ](http://sana.s12.xrea.com/2_sanafon.html)
-るりいろフォント[モニカ](http://sapphirecrown.xxxxxxxx.jp/)
-xano明朝フォント[特別な詩](http://www.asahi-net.or.jp/~sd5a-ucd/freefonts/XANO-mincho/)
-えり字フォント[特別な詩](http://v7.mine.nu/pysco/gallery/font/06.html)
+- [VLゴシック (UI)](http://vlgothic.dicey.org/license.html)
+- [みかちゃん (UI)](http://www001.upp.so-net.ne.jp/mikachan/)
+- [ホリデイMDJP03 (サヨリ)](http://mksd.jp/Holiday_Kanji.html)
+- [851手書き雑フォント (ユリ)](http://www39.atpages.jp/yagoinienie/851fontpage.html)
+- [草書フォント (ユリ)](https://booth.pm/ja/items/318557)
+- [さなフォン (ナツキ)](http://sana.s12.xrea.com/2_sanafon.html)
+- [るりいろフォント (モニカ)](http://sapphirecrown.xxxxxxxx.jp/)
+- [xano明朝フォント (特別な詩)](http://www.asahi-net.or.jp/~sd5a-ucd/freefonts/XANO-mincho/)
+- [えり字フォント (特別な詩)](http://v7.mine.nu/pysco/gallery/font/06.html)
 
 
 ## 関連リンク
