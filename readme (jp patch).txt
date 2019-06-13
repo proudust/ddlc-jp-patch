@@ -3,14 +3,18 @@ Doki Doki Literature Club 日本語化パッチ(19/05/04)
 
 
 
-使用方法：
-1. GitHubから日本語化パッチをダウンロードします
+インストール方法：
+詳細は Steam ガイドを参照してください
+https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205
 
-2. DDLCのインストールディレクトリ(Steam\steamapps\common\Doki Doki Literature Club)を開きます
+1. Steam または公式サイトから Doki Doki Literature Club! 本体 をダウンロードします
+
+2. DDLCのインストールディレクトリを開きます
 
 3. インストールディレクトリ内のgameフォルダを日本語化パッチ内のgameフォルダで上書きします
 
 4. 起動してメッセージやタイトルが日本語になっていれば成功です
+   英語のままの場合は Setting の Language を Japanese に変更することで日本語になります
 
 
 
@@ -46,11 +50,12 @@ Doki Doki Literature Club 日本語化パッチ(19/05/04)
   申し訳ありませんが、ニューゲームからやり直して下さい。
 
 ・翻訳が反映されない箇所がある
-  原因不明です。ガイドに原文と翻訳を載せてあります。
-  またそれ以外の台詞で未翻訳箇所がありましたらガイドコメントやDiscord、GitHubなどでご連絡下さい。
+  原因不明です。Steam ガイドに原文と翻訳を載せてあります。
+  またそれ以外の台詞で未翻訳箇所がありましたらガイドコメントや Discord、GitHub などでご連絡下さい。
 
 ・Linux環境での不具合
   ガイドに載せてあります。終盤のネタバレ注意。
+
 
 
 使用フォント：
@@ -66,9 +71,25 @@ xano明朝フォント[特別な詩](http://www.asahi-net.or.jp/~sd5a-ucd/freefo
 
 
 
+関連リンク：
+配布ページ(Steam ガイド)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205
+
+Doki Doki Literature Club! 日本語化 作業所
+https://docs.google.com/spreadsheets/d/1uqyB7x-8x_QSFKV8Um-rCwcLVUduf-FMhAZjocUGmJY/edit?usp=sharing
+
+DDLC翻訳部 (Discord)
+https://discordapp.com/invite/9U9QCN2
+
+日本語化パッチのソースコード (GitHub)
+https://github.com/proudust/ddlc-jp-patch
+
+
+
 更新履歴：
 190504
 ・Act4で翻訳が反映されない台詞があったのを修正
+・READMEを更新 (06/13)
 
 190216
 ・DDLC v1.1.1で追加・修正された台詞に対応
