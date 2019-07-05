@@ -187,3 +187,9 @@ translate Japanese strings:
 
     old "Poem"
     new "詩"
+
+    old "Uninstall"
+    new "アンインストール"
+
+    old "Would you like to uninstall jp patch and quit?"
+    new "非公式日本語化パッチをアンインストールして終了します。\nよろしいですか？"
