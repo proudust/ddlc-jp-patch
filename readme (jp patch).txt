@@ -72,10 +72,10 @@ xano明朝フォント[特別な詩](http://www.asahi-net.or.jp/~sd5a-ucd/freefo
 
 
 関連リンク：
-配布ページ(Steam ガイド)
+配布ページ (Steam ガイド)
 https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205
 
-Doki Doki Literature Club! 日本語化 作業所
+Doki Doki Literature Club! 日本語化 作業所 (Google スプレッドシート)
 https://docs.google.com/spreadsheets/d/1uqyB7x-8x_QSFKV8Um-rCwcLVUduf-FMhAZjocUGmJY/edit?usp=sharing
 
 DDLC翻訳部 (Discord)
@@ -87,6 +87,10 @@ https://github.com/proudust/ddlc-jp-patch
 
 
 更新履歴：
+190705
+・ヘルプファイルが文字化けすることがある不具合を修正
+・日本語化パッチのアンインストール機能を追加
+
 190504
 ・Act4で翻訳が反映されない台詞があったのを修正
 ・READMEを更新 (06/13)
