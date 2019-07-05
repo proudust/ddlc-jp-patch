@@ -8,6 +8,9 @@
 *.rpyc
 log.txt
 README.html
+errors.txt
+traceback.txt
+persistent
 
 # Doki Doki Literature Club
 /game/firstrun
