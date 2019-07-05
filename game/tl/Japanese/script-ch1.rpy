@@ -1,4 +1,4 @@
-﻿translate Japanese ch1_main_0f077782:
+translate Japanese ch1_main_0f077782:
     m "「[player]君、今日も来たのね！」"
 
 translate Japanese ch1_main_95ea4bac:
@@ -1465,4 +1465,3 @@ translate Japanese strings:
 
     old "Help me, Sayori!!"
     new "助けて、サヨリ！！"
-

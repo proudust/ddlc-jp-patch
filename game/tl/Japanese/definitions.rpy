@@ -1,4 +1,4 @@
-﻿init python:
+init python:
     mc = DynamicCharacter('player', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     s = DynamicCharacter('s_name', image='sayori', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     m = DynamicCharacter('m_name', image='monika', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
@@ -30,4 +30,3 @@ translate Japanese strings:
 
     old "Girl 3"
     new "女子Ｃ"
-
