@@ -1,20 +1,22 @@
 # Ren'Py
-/characters
-/game/cache
-/game/python-packages
-/lib
-/renpy
+game/python-packages/
+lib/
+renpy/
 *.rpa
-*.rpyc
+*.rpy[bc]
+*.save
 log.txt
-README.html
 errors.txt
 traceback.txt
 persistent
 
 # Doki Doki Literature Club
-/game/firstrun
+characters/
+DDLC Fan Pack/
 DDLC.*
+firstrun
+hxppy thxughts.png
+README.html
 
 # VSCode
 .history
