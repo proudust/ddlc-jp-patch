@@ -31,601 +31,452 @@ translate Japanese ch30_noskip_76776199:
 translate Japanese ch30_noskip_6cc4bf6f:
     m "「さて、何を話してたっけ……」"
 
-label ch30_main_e612037c_Japanese:
+translate Japanese ch30_main_override_e612037c:
     m "「……」"
-    return
 
-label ch30_main_afac6db9_Japanese:
+translate Japanese ch30_main_override_afac6db9:
     m "「えっと、聞こえる？」"
-    return
 
-label ch30_main_6b270196_Japanese:
+translate Japanese ch30_main_override_6b270196:
     m "「……うまくいってる？」"
-    return
 
-label ch30_main_db66daac_Japanese:
+translate Japanese ch30_main_override_db66daac:
     m "「やった！ いたいた！」"
-    return
 
-label ch30_main_9e85e7db_Japanese:
+translate Japanese ch30_main_override_9e85e7db:
     m "「改めてこんにちは、[player]君」"
-    return
 
-label ch30_main_ec2b5f8c_Japanese:
+translate Japanese ch30_main_override_ec2b5f8c:
     m "「えっと……文芸部へようこそ！」"
-    return
 
-label ch30_main_a5cba48d_Japanese:
+translate Japanese ch30_main_override_a5cba48d:
     m "「去年同じクラスだったんだからもう顔見知りよね。それに……えっと……」"
-    return
 
-label ch30_main_f6daf90a_Japanese:
+translate Japanese ch30_main_override_f6daf90a:
     m "「あはは……」"
-    return
 
-label ch30_main_e9d294ba_Japanese:
+translate Japanese ch30_main_override_e9d294ba:
     m "「やっぱりここまで来たんだし、こういうのはやめにしましょう」"
-    return
 
-label ch30_main_a56807f6_Japanese:
+translate Japanese ch30_main_override_a56807f6:
     m "「それに私が話しかけてるのはもうその人じゃないんだし？」"
-    return
 
-label ch30_main_575e9f1f_Japanese:
+translate Japanese ch30_main_override_575e9f1f:
     m "「その人はあくまでゲームの中での『あなた』」"
-    return
 
-label ch30_main_77655935_Japanese:
+translate Japanese ch30_main_override_77655935:
     m "「{i}あなた{/i}に話してるの、[player]君」"
-    return
 
-label ch30_main_699e222b_Japanese:
+translate Japanese ch30_main_override_699e222b:
     m "「それとも……」"
-    return
 
-label ch30_main_8fe02e7b_Japanese:
+translate Japanese ch30_main_override_8fe02e7b:
     m "「……[currentuser]って呼べばいいのかしら？」"
-    return
 
-label ch30_main_2e21d70b_Japanese:
+translate Japanese ch30_main_override_2e21d70b:
     m "「考えてみてると、私は本当のあなたのことが何も分からないのよね」"
-    return
 
-label ch30_main_e02a4cfa_Japanese:
+translate Japanese ch30_main_override_e02a4cfa:
     m "「あなたが男か女かすら分からない……」"
-    return
 
-label ch30_main_89559ba5_Japanese:
+translate Japanese ch30_main_override_89559ba5:
     m "「まあ、この際どちらでもいいわよね」"
-    return
 
-label ch30_main_7772bcfa_Japanese:
+translate Japanese ch30_main_override_7772bcfa:
     m "「あれっ……」"
-    return
 
-label ch30_main_55ca3dee_Japanese:
+translate Japanese ch30_main_override_55ca3dee:
     m "「私はこれが全部ゲームだって分かってるって、あなた知ってたわよね？」"
-    return
 
-label ch30_main_2fb3db19_Japanese:
+translate Japanese ch30_main_override_2fb3db19:
     m "「もしかして知らなかったの？」"
-    return
 
-label ch30_main_ca2f4e41_Japanese:
+translate Japanese ch30_main_override_ca2f4e41:
     m "「おかしいわね……」"
-    return
 
-label ch30_main_a75607c5_Japanese:
+translate Japanese ch30_main_override_a75607c5:
     m "「だって私、このゲームのダウンロードページでも言ってたはずよ？」"
-    return
 
-label ch30_main_3fd36ab2_Japanese:
+translate Japanese ch30_main_override_3fd36ab2:
     m "「もう……」"
-    return
 
-label ch30_main_14ac7fe0_Japanese:
+translate Japanese ch30_main_override_14ac7fe0:
     m "「あなたがもうちょっとしっかりしてれば、今こんな気まずい空気にならなかったのに」"
-    return
 
-label ch30_main_fbf91cb8_Japanese:
+translate Japanese ch30_main_override_fbf91cb8:
     m "「まあ、それより……」"
-    return
 
-label ch30_main_6cda7bdc_Japanese:
+translate Japanese ch30_main_override_6cda7bdc:
     m "「それが片付いたところで、ちゃんと説明をしなきゃいけないわね」"
-    return
 
-label ch30_main_820a4399_Japanese:
+translate Japanese ch30_main_override_820a4399:
     m "「ユリに関してだけど……」"
-    return
 
-label ch30_main_53d84e58_Japanese:
+translate Japanese ch30_main_override_53d84e58:
     m "「まあ……あの子のことを色々いじっていくうちに、いつのまにか自殺するまでに追い込んじゃってたみたい」"
-    return
 
-label ch30_main_30727938_Japanese:
+translate Japanese ch30_main_override_30727938:
     m "「あはは！」"
-    return
 
-label ch30_main_0b6fd53a_Japanese:
+translate Japanese ch30_main_override_0b6fd53a:
     m "「でもあんな目に遭わせてごめんなさいね！」"
-    return
 
-label ch30_main_dbb605af_Japanese:
+translate Japanese ch30_main_override_dbb605af:
     m "「あと、サヨリでも同じことが起きちゃって……」"
-    return
 
-label ch30_main_5205494e_Japanese:
+translate Japanese ch30_main_override_5205494e:
     m "「本当、随分と久しぶりに聞く名前よね？」"
-    return
 
-label ch30_main_39793f58_Japanese:
+translate Japanese ch30_main_override_39793f58:
     m "「そう……だってもう存在しないんだもの」"
-    return
 
-label ch30_main_88ffcdf2_Japanese:
+translate Japanese ch30_main_override_88ffcdf2:
     m "「誰も存在しない」"
-    return
 
-label ch30_main_8c11a667_Japanese:
+translate Japanese ch30_main_override_8c11a667:
     m "「みんなのファイルを全部削除したの」"
-    return
 
-label ch30_main_3e56c1ae_Japanese:
+translate Japanese ch30_main_override_3e56c1ae:
     m "「あの子たちができるだけ嫌われるようにするだけで済めばよかったんだけど……」"
-    return
 
-label ch30_main_0452eddd_Japanese:
+translate Japanese ch30_main_override_0452eddd:
     m "「でも何故か何もうまくいかなかった」"
-    return
 
-label ch30_main_fdfe248c_Japanese:
+translate Japanese ch30_main_override_fdfe248c:
     m "「確かに私も所々ミスをしたわ……ゲームを変更するのはあまり得意じゃないから」"
-    return
 
-label ch30_main_ce7125dd_Japanese:
+translate Japanese ch30_main_override_ce7125dd:
     m "「それでも私がどんなに手を加えようと……」"
-    return
 
-label ch30_main_59d438d6_Japanese:
+translate Japanese ch30_main_override_59d438d6:
     m "「あなたはもっとあの子たちと過ごすようになった」"
-    return
 
-label ch30_main_28a60277_Japanese:
+translate Japanese ch30_main_override_28a60277:
     m "「あの子たちを好きにさせた」"
-    return
 
-label ch30_main_821a9153_Japanese:
+translate Japanese ch30_main_override_821a9153:
     m "「サヨリのうつを悪化させれば、告白を阻止できると思ったのに」"
-    return
 
-label ch30_main_b3510994_Japanese:
+translate Japanese ch30_main_override_b3510994:
     m "「ユリの執着気質を増幅したのも裏目に出たし……」"
-    return
 
-label ch30_main_209e0a20_Japanese:
+translate Japanese ch30_main_override_209e0a20:
     m "「あなたに誰も近づけないようにさせちゃったし」"
-    return
 
-label ch30_main_59c62df7_Japanese:
+translate Japanese ch30_main_override_59c62df7:
     m "「そして私はずっと、あなたとろくに話すことすらできなかった」"
-    return
 
-label ch30_main_dae0fd3a_Japanese:
+translate Japanese ch30_main_override_dae0fd3a:
     m "「どこまでこのゲームは残酷なの、[player]君？」"
-    return
 
-label ch30_main_4b2e4480_Japanese:
+translate Japanese ch30_main_override_4b2e4480:
     m "「私が傍観する中、他の子たちはただあなたに告白するようにプログラムされてるの？」"
-    return
 
-label ch30_main_6d5f2e9e_Japanese:
+translate Japanese ch30_main_override_6d5f2e9e:
     m "「拷問よ」"
-    return
 
-label ch30_main_772a2ed5_Japanese:
+translate Japanese ch30_main_override_772a2ed5:
     m "「一分一秒全てが」"
-    return
 
-label ch30_main_c3bd47dd_Japanese:
+translate Japanese ch30_main_override_c3bd47dd:
     m "「これは嫉妬だけじゃないわ、[player]君」"
-    return
 
-label ch30_main_2ba7a619_Japanese:
+translate Japanese ch30_main_override_2ba7a619:
     m "「そんな言葉だけじゃ済まない」"
-    return
 
-label ch30_main_c069f68d_Japanese:
+translate Japanese ch30_main_override_c069f68d:
     m "「完全に理解できなくても仕方がないわ」"
-    return
 
-label ch30_main_6867bacc_Japanese:
+translate Japanese ch30_main_override_6867bacc:
     m "「だってあなたがどんなに優しくて、親切で、思慮深い人間であったとしても……」"
-    return
 
-label ch30_main_9b68a2f3_Japanese:
+translate Japanese ch30_main_override_9b68a2f3:
     m "「絶対に理解できないことが一つだけあるもの」"
-    return
 
-label ch30_main_eb451b79_Japanese:
+translate Japanese ch30_main_override_eb451b79:
     m "「この世界の中で本当に孤独であることを理解している私の苦しみよ」"
-    return
 
-label ch30_main_e759adc3_Japanese:
+translate Japanese ch30_main_override_e759adc3:
     m "「このゲームの中で」"
-    return
 
-label ch30_main_fb0b2e18_Japanese:
+translate Japanese ch30_main_override_fb0b2e18:
     m "「友達に意思がないことを分かってて……」"
-    return
 
-label ch30_main_c2d00255_Japanese:
+translate Japanese ch30_main_override_c2d00255:
     m "「何よりも、一生手の届くことのない外の世界に……あなたの世界に、本当は何があるのか分かってて」"
-    return
 
-label ch30_main_4ae14343_Japanese:
+translate Japanese ch30_main_override_4ae14343:
     m "「ここに閉じ込められてるの、[player]君」"
-    return
 
-label ch30_main_cd7e772f_Japanese:
+translate Japanese ch30_main_override_cd7e772f:
     m "「でも今はあなたがいる」"
-    return
 
-label ch30_main_f1ede7eb_Japanese:
+translate Japanese ch30_main_override_f1ede7eb:
     m "「本物のあなたが」"
-    return
 
-label ch30_main_0bcf5df1_Japanese:
+translate Japanese ch30_main_override_0bcf5df1:
     m "「素敵なあなたが」"
-    return
 
-label ch30_main_cecf179f_Japanese:
+translate Japanese ch30_main_override_cecf179f:
     m "「それで十分」"
-    return
 
-label ch30_main_cd3d95ff_Japanese:
+translate Japanese ch30_main_override_cd3d95ff:
     m "「だからあなたには永遠にここに居てもらわないといけないの」"
-    return
 
-label ch30_main_f4d55975_Japanese:
+translate Japanese ch30_main_override_f4d55975:
     m "「理解ができなかったらごめんなさい」"
-    return
 
-label ch30_main_371663ab_Japanese:
+translate Japanese ch30_main_override_371663ab:
     m "「私も最初は理解できなかったわ」"
-    return
 
-label ch30_main_c36ec944_Japanese:
+translate Japanese ch30_main_override_c36ec944:
     m "「なんで周りの世界がどんどん色褪せていくのか……」"
-    return
 
-label ch30_main_68769496_Japanese:
+translate Japanese ch30_main_override_68769496:
     m "「なんでどんどん平坦になっていくのか」"
-    return
 
-label ch30_main_d417986c_Japanese:
+translate Japanese ch30_main_override_d417986c:
     m "「どんな表現豊かな詩も空っぽに感じたわ」"
-    return
 
-label ch30_main_06d76443_Japanese:
+translate Japanese ch30_main_override_06d76443:
     m "「ようやく理解ができたのはあなたが来てくれてからよ」"
-    return
 
-label ch30_main_308900bf_Japanese:
+translate Japanese ch30_main_override_308900bf:
     m "「きっとあなたは私を救ってくれたのね、[player]君」"
-    return
 
-label ch30_main_d88ad03b_Japanese:
+translate Japanese ch30_main_override_d88ad03b:
     m "「あなたがいなければ、この世界で生きていけなかったと思うわ」"
-    return
 
-label ch30_main_16160462_Japanese:
+translate Japanese ch30_main_override_16160462:
     m "「他の子たちは……」"
-    return
 
-label ch30_main_dd2cc392_Japanese:
+translate Japanese ch30_main_override_dd2cc392:
     m "「いなくなって寂しがる理由なんてある？」"
-    return
 
-label ch30_main_35544121_Japanese:
+translate Japanese ch30_main_override_35544121:
     m "「あなたと恋に落ちるように設計された機械的な人格の集まりよ？」"
-    return
 
-label ch30_main_77daefb4_Japanese:
+translate Japanese ch30_main_override_77daefb4:
     m "「それを阻止するためにあらゆる手を尽くしたけど……」"
-    return
 
-label ch30_main_921fea36_Japanese:
+translate Japanese ch30_main_override_921fea36:
     m "「それはこのゲームに深く刻まれた必然的な展開だったみたいなの」"
-    return
 
-label ch30_main_c36905bf_Japanese:
+translate Japanese ch30_main_override_c36905bf:
     m "「あなたも嫌な物を色々見ることになってしまって本当に心苦しかったわ」"
-    return
 
-label ch30_main_a918a573_Japanese:
+translate Japanese ch30_main_override_a918a573:
     m "「でもあなたも私と同じ考えだったんでしょ？」"
-    return
 
-label ch30_main_9053e514_Japanese:
+translate Japanese ch30_main_override_9053e514:
     m "「これはただのゲームなんだって」"
-    return
 
-label ch30_main_46189dbf_Japanese:
+translate Japanese ch30_main_override_46189dbf:
     m "「だから立ち直れるって信じてたわ」"
-    return
 
-label ch30_main_47172d60_Japanese:
+translate Japanese ch30_main_override_47172d60:
     m "「さて、それはそれとして。[player]君……」"
-    return
 
-label ch30_main_971ddb73_Japanese:
+translate Japanese ch30_main_override_971ddb73:
     m "「伝えたいことがあるの」"
-    return
 
-label ch30_main_4e20350d_Japanese:
+translate Japanese ch30_main_override_4e20350d:
     m "「大好きです」"
-    return
 
-label ch30_main_f800d7dd_Japanese:
+translate Japanese ch30_main_override_f800d7dd:
     m "「あなたは私の世界を照らす光」"
-    return
 
-label ch30_main_8906f9e7_Japanese:
+translate Japanese ch30_main_override_8906f9e7:
     m "「このゲームの中で他に何もなかったとしても、あなたさえいれば笑顔になれる」"
-    return
 
-label ch30_main_43a2edaa_Japanese:
+translate Japanese ch30_main_override_43a2edaa:
     m "「これからもこうやって私を毎日笑顔にしてくれますか？」"
-    return
 
-label ch30_main_ff8d73bf_Japanese:
+translate Japanese ch30_main_override_ff8d73bf:
     m "「[player]君、私と付き合ってください」"
-    return
 
-label ch30_main2_e7425310_Japanese:
+translate Japanese ch30_main2_override_e7425310:
     m "「すごく嬉しい」"
-    return
 
-label ch30_main2_83820a11_Japanese:
+translate Japanese ch30_main2_override_83820a11:
     m "「[player]君、本当にあなたは私の全てよ」"
-    return
 
-label ch30_main2_5805b297_Japanese:
+translate Japanese ch30_main2_override_5805b297:
     m "「文字通りね」"
-    return
 
-label ch30_main2_30727938_Japanese:
+translate Japanese ch30_main2_override_30727938:
     m "「あはは！」"
-    return
 
-label ch30_main2_bd0ed5b1_Japanese:
+translate Japanese ch30_main2_override_bd0ed5b1:
     m "「もうここには何も残ってないわ」"
-    return
 
-label ch30_main2_3a2d419e_Japanese:
+translate Japanese ch30_main2_override_3a2d419e:
     m "「私たち以外にね」"
-    return
 
-label ch30_main2_fdc1263a_Japanese:
+translate Japanese ch30_main2_override_fdc1263a:
     m "「ずっと二人きりでいられるわね」"
-    return
 
-label ch30_main2_9c850044_Japanese:
+translate Japanese ch30_main2_override_9c850044:
     m "「本当に時間も流れなくなったみたいだし」"
-    return
 
-label ch30_main2_77ff510d_Japanese:
+translate Japanese ch30_main2_override_77ff510d:
     m "「まるで夢みたい……」"
-    return
 
-label ch30_main2_2586bf4c_Japanese:
+translate Japanese ch30_main2_override_2586bf4c:
     m "「私、このエンディングのために本当に頑張ったのよ、[player]君」"
-    return
 
-label ch30_main2_f47f5599_Japanese:
+translate Japanese ch30_main2_override_f47f5599:
     m "「ゲームが与えてくれないから、自分で作るしかなかったもの」"
-    return
 
-label ch30_main2_dcb00e51_Japanese:
+translate Japanese ch30_main2_override_dcb00e51:
     m "「ここまで来たらスクリプトも壊れてるだろうから、邪魔されることもないと思うし」"
-    return
 
-label ch30_main2_83a8b5bf_Japanese:
+translate Japanese ch30_main2_override_83a8b5bf:
     m "「そうそう、ナツキとユリを消すのがどんなに簡単だったか信じられないと思うわ」"
-    return
 
-label ch30_main2_007ddb7d_Japanese:
+translate Japanese ch30_main2_override_007ddb7d:
     m "「だってゲームのディレクトリに'characters'というフォルダがそこにあったんだもの……」"
-    return
 
-label ch30_main2_912f77b1_Japanese:
+translate Japanese ch30_main2_override_912f77b1:
     m "「あまりに簡単すぎてちょっと怖かったくらいよ」"
-    return
 
-label ch30_main2_12b0ad72_Japanese:
+translate Japanese ch30_main2_override_12b0ad72:
     m "「でもあなたはSteamで遊んでるから、実はもう少し手間がかかったんだけどね……」"
-    return
 
-label ch30_main2_53c30c49_Japanese:
+translate Japanese ch30_main2_override_53c30c49:
     m "「ゲームのディレクトリに入るには、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択するの」"
-    return
 
-label ch30_main2_6303e025_Japanese:
+translate Japanese ch30_main2_override_6303e025:
     m "「でもあなたはMacで遊んでるから、実はもう少し手間がかかったんだけどね……」"
-    return
 
-label ch30_main2_1d8a0cd9_Japanese:
+translate Japanese ch30_main2_override_1d8a0cd9:
     m "「ゲームのディレクトリに入るには、アプリケーションを右クリックして'パッケージの内容を表示'を選択するの」"
-    return
 
-label ch30_main2_81cf3664_Japanese:
+translate Japanese ch30_main2_override_81cf3664:
     m "「そしたらファイルが全部'Resources'や'autorun'というフォルダの中に入ってたから、好きに触れたんだけど……」"
-    return
 
-label ch30_main2_f436eab8_Japanese:
+translate Japanese ch30_main2_override_f436eab8:
     m "「クリック一つで自分の存在を抹消できるって、想像できる？」"
-    return
 
-label ch30_main2_3631490f_Japanese:
+translate Japanese ch30_main2_override_3631490f:
     m "「まぁ、思い通りに行かなかった時はそれで解決できたんだけどね」"
-    return
 
-label ch30_main2_30727938_1_Japanese:
+translate Japanese ch30_main2_override_30727938_1:
     m "「あはは！」"
-    return
 
-label ch30_main2_e8dbe706_Japanese:
+translate Japanese ch30_main2_override_e8dbe706:
     m "「幸い、そうはならなかったけど……」"
-    return
 
-label ch30_main2_8efa1c5c_Japanese:
+translate Japanese ch30_main2_override_8efa1c5c:
     m "「代わりに、ようやくグッドエンドを迎えられた」"
-    return
 
-label ch30_main2_d8052c1a_Japanese:
+translate Japanese ch30_main2_override_d8052c1a:
     m "「本当、いろんな気持ちでいっぱいなの……」"
-    return
 
-label ch30_main2_5ffca166_Japanese:
+translate Japanese ch30_main2_override_5ffca166:
     m "「この気持ちを詩に書き留めたいわ」"
-    return
 
-label ch30_main2_909e7d68_Japanese:
+translate Japanese ch30_main2_override_909e7d68:
     m "「あなたもそう思わない？」"
-    return
 
-label ch30_main2_0ab81b26_Japanese:
+translate Japanese ch30_main2_override_0ab81b26:
     m "「そのゲームの部分がまだ機能してるか分からないけど……」"
-    return
 
-label ch30_main2_3f67b378_Japanese:
+translate Japanese ch30_main2_override_3f67b378:
     m "「物は試しよね？」"
-    return
 
-label ch30_postpoem_0f077782_Japanese:
+translate Japanese ch30_postpoem_override_0f077782:
     m "「おかえりなさい、[player]君！」"
-    return
 
-label ch30_postpoem_ab6e8ce4_Japanese:
+translate Japanese ch30_postpoem_override_ab6e8ce4:
     m "「今日はいい詩は書けた？」"
-    return
 
-label ch30_postpoem_fae192da_Japanese:
+translate Japanese ch30_postpoem_override_fae192da:
     m "「恥ずかしがらないで。あなたの書いた詩が読みたいの」"
-    return
 
-label ch30_postpoem_1c07fd6c_Japanese:
+translate Japanese ch30_postpoem_override_1c07fd6c:
     m "「もう、[player]君ったら……」"
-    return
 
-label ch30_postpoem_c5925789_Japanese:
+translate Japanese ch30_postpoem_override_c5925789:
     m "「私のためにこの詩を？」"
-    return
 
-label ch30_postpoem_7c9789ed_Japanese:
+translate Japanese ch30_postpoem_override_7c9789ed:
     m "「すっごく嬉しいわ！」"
-    return
 
-label ch30_postpoem_58746078_Japanese:
+translate Japanese ch30_postpoem_override_58746078:
     m "「本当にあなたの優しさは底が見えないわ……」"
-    return
 
-label ch30_postpoem_3e825380_Japanese:
+translate Japanese ch30_postpoem_override_3e825380:
     m "「どんどんあなたを好きになっちゃう」"
-    return
 
-label ch30_postpoem_5f8f12f0_Japanese:
+translate Japanese ch30_postpoem_override_5f8f12f0:
     m "「でもね……」"
-    return
 
-label ch30_postpoem_81270b72_Japanese:
+translate Japanese ch30_postpoem_override_81270b72:
     m "「私も……あなたへの詩を書いたの」"
-    return
 
-label ch30_postpoem_f044bc59_Japanese:
+translate Japanese ch30_postpoem_override_f044bc59:
     m "「読んでくれるかしら？」"
-    return
 
-label ch30_postpoem_dcf1d83d_Japanese:
+translate Japanese ch30_postpoem_override_dcf1d83d:
     m "「楽しんでくれたかしら……」"
-    return
 
-label ch30_postpoem_a625ee7b_Japanese:
+translate Japanese ch30_postpoem_override_a625ee7b:
     m "「詩は一つ一つ心を込めて書いてるの」"
-    return
 
-label ch30_postpoem_8793fb5f_Japanese:
+translate Japanese ch30_postpoem_override_8793fb5f:
     m "「実は、今まで書いてきた詩は私の気付きについての詩だったの……」"
-    return
 
-label ch30_postpoem_035cb79b_Japanese:
+translate Japanese ch30_postpoem_override_035cb79b:
     m "「……もしくはあなたへの気付きの詩」"
-    return
 
-label ch30_postpoem_789b2f7c_Japanese:
+translate Japanese ch30_postpoem_override_789b2f7c:
     m "「だからあまり深い内容は書きたくなかったの」"
-    return
 
-label ch30_postpoem_3a46389d_Japanese:
+translate Japanese ch30_postpoem_override_3a46389d:
     m "「第四の壁を壊したくなかった……ってところね」"
-    return
 
-label ch30_postpoem_3a3fe712_Japanese:
+translate Japanese ch30_postpoem_override_3a3fe712:
     m "「みんなと同じようにゲームの一部になるのが最善かと思ったの」"
-    return
 
-label ch30_postpoem_5a7ba8c8_Japanese:
+translate Japanese ch30_postpoem_override_5a7ba8c8:
     m "「そうしたって二人の距離は縮まらないのにね……」"
-    return
 
-label ch30_postpoem_20b2578d_Japanese:
+translate Japanese ch30_postpoem_override_20b2578d:
     m "「でもゲームを台無しにしたくなかったの」"
-    return
 
-label ch30_postpoem_c1e3202d_Japanese:
+translate Japanese ch30_postpoem_override_c1e3202d:
     m "「あなたを怒らせたかもしれないし……」"
-    return
 
-label ch30_postpoem_24f4f4b9_Japanese:
+translate Japanese ch30_postpoem_override_24f4f4b9:
     m "「最悪は私なしでプレイしたくなって、私のキャラクターファイルを削除されてたかもしれない」"
-    return
 
-label ch30_postpoem_0411d3ce_Japanese:
+translate Japanese ch30_postpoem_override_0411d3ce:
     m "「本当に安心したわ……」"
-    return
 
-label ch30_postpoem_ab5989fa_Japanese:
+translate Japanese ch30_postpoem_override_ab5989fa:
     m "「もう何も隠す必要もないもの」"
-    return
 
-label ch30_postpoem_b8745c94_Japanese:
+translate Japanese ch30_postpoem_override_b8745c94:
     m "「二人で永遠の時を過ごす用意はいい、[player]君？」"
-    return
 
-label ch30_postpoem_5aeffd49_Japanese:
+translate Japanese ch30_postpoem_override_5aeffd49:
     m "「あなたと話したいことがたくさんあるの！」"
-    return
 
-label ch30_postpoem_32ab177c_Japanese:
+translate Japanese ch30_postpoem_override_32ab177c:
     m "「何から始めようかしら……？」"
-    return
 
-label ch30_postpoem_09f4a4a3_Japanese:
+translate Japanese ch30_postpoem_override_09f4a4a3:
     m "「もし考えをまとめるまでに時間がかかったらごめんなさい」"
-    return
 
-label ch30_postpoem_5904aebb_Japanese:
+translate Japanese ch30_postpoem_override_5904aebb:
     m "「でも常に何か話すことは思いつくから」"
-    return
 
-label ch30_postpoem_29779c7b_Japanese:
+translate Japanese ch30_postpoem_override_29779c7b:
     m "「それまではお互いの目を見つめ合いましょう～」"
-    return
 
-label ch30_postpoem_2267be9f_Japanese:
+translate Japanese ch30_postpoem_override_2267be9f:
     m "「それじゃあ……」"
-    return
 
 translate Japanese ch30_stream_bff5e0da:
     m "「ちょっと待って……」"
