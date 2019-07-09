@@ -3,658 +3,501 @@ translate Japanese python:
     error_message = "ファイル \"game/script-ch5.rpy\"、307行\n詳しくはtraceback.txt を確認してください。"
     error_report = "あらまあ……何か壊れちゃったりしたかしら？ちょっと待って、これなら多分……直せそう……\nでもこれって、あの子を削除した方がよっぽど簡単じゃない？ややこしい事態にしたのはあの子なんだし。あははっ！それじゃあ、ちょっと試してみましょうか。"
 
-label ch5_main_291cd73e_Japanese:
+translate Japanese ch5_main_override_291cd73e:
     "今日はとうとう文化祭の日だ。"
-    return
 
-label ch5_main_f55f58cd_Japanese:
+translate Japanese ch5_main_override_f55f58cd:
     "今日こそはサヨリと一緒に学校に登校できるだろうと思っていた。"
-    return
 
-label ch5_main_5f35e367_Japanese:
+translate Japanese ch5_main_override_5f35e367:
     "しかし、サヨリは電話には出ない。"
-    return
 
-label ch5_main_aa057f44_Japanese:
+translate Japanese ch5_main_override_aa057f44:
     "俺はサヨリを起こしに彼女の家に行くことも考えたが、それは少しやりすぎかと思い遠慮した。"
-    return
 
-label ch5_main_66ad1f62_Japanese:
+translate Japanese ch5_main_override_66ad1f62:
     "一方、文化祭の準備はほとんど出来ている。"
-    return
 
-label ch5_main_e71f443a_Japanese:
+translate Japanese ch5_main_override_e71f443a:
     "なんとかトレイを重ねて慎重に運び、一人で全てのカップケーキを運ぶ。"
-    return
 
-label ch5_main_5f772eb6_Japanese:
+translate Japanese ch5_main_override_5f772eb6:
     "ナツキからは何件もメッセージが届いているが、両手がふさがっていて返信できない。"
-    return
 
-label ch5_main_01a9488e_Japanese:
+translate Japanese ch5_main_override_01a9488e:
     "俺は昨日ユリと描いた横幕を丁寧に丸めて持って来た。"
-    return
 
-label ch5_main_6156c542_Japanese:
+translate Japanese ch5_main_override_6156c542:
     "ユリから何も忘れないように、と丁寧なメッセージが届いたので大丈夫だ、と送り返した。"
-    return
 
-label ch5_main_12c35a24_Japanese:
+translate Japanese ch5_main_override_12c35a24:
     "おかしなことに、俺はもしかすると文化祭についてナツキと同じ事を考えているのかもしれない。"
-    return
 
-label ch5_main_201144fc_Japanese:
+translate Japanese ch5_main_override_201144fc:
     "どちらかと言えば、さっさと文芸部の方を終わらせてサヨリや[ch4_name!t]と一緒に文化祭を楽しみたいのだ。"
-    return
 
-label ch5_main_8ede78be_Japanese:
+translate Japanese ch5_main_override_8ede78be:
     "まあモニカのことだから、きっと文芸部の出し物も良いものなんだろうけど。"
-    return
 
-label ch5_main_f6a40c3b_Japanese:
+translate Japanese ch5_main_override_f6a40c3b:
     m "「[player]君！」"
-    return
 
-label ch5_main_83e6198b_Japanese:
+translate Japanese ch5_main_override_83e6198b:
     m "「あなたが一番乗りなのね」"
-    return
 
-label ch5_main_cbd0885b_Japanese:
+translate Japanese ch5_main_override_cbd0885b:
     m "「早めに来てくれて嬉しいわ！」"
-    return
 
-label ch5_main_b16212d3_Japanese:
+translate Japanese ch5_main_override_b16212d3:
     mc "「変だな、少なくともユリはもう来てると思ってたんだが」"
-    return
 
-label ch5_main_869ed546_Japanese:
+translate Japanese ch5_main_override_869ed546:
     "モニカは小冊子を教室の机１つ１つの上に並べている。"
-    return
 
-label ch5_main_158d922b_Japanese:
+translate Japanese ch5_main_override_158d922b:
     "おそらく俺たちが発表する詩が載っているのだろう。"
-    return
 
-label ch5_main_1fd6873b_Japanese:
+translate Japanese ch5_main_override_1fd6873b:
     "結局、俺はモニカが好きそうな詩を適当にネットから見つけてきて、それを提出した。"
-    return
 
-label ch5_main_8185735f_Japanese:
+translate Japanese ch5_main_override_8185735f:
     "だから俺はそれを発表することになっている。"
-    return
 
-label ch5_main_185b9181_Japanese:
+translate Japanese ch5_main_override_185b9181:
     m 1d "「サヨリと一緒に来ると思ってたんだけど意外ね」"
-    return
 
-label ch5_main_c458dfb9_Japanese:
+translate Japanese ch5_main_override_c458dfb9:
     mc "「ああ、あいつまた寝坊しちまって」"
-    return
 
-label ch5_main_b260a3a6_Japanese:
+translate Japanese ch5_main_override_b260a3a6:
     mc "「あのバカ」"
-    return
 
-label ch5_main_81fc5eee_Japanese:
+translate Japanese ch5_main_override_81fc5eee:
     mc "「今日は大事な文化祭の日なんだし、ちょっとは頑張ると思ったんだけどなあ……」"
-    return
 
-label ch5_main_e8c60bf9_Japanese:
+translate Japanese ch5_main_override_e8c60bf9:
     "そう口に出してすぐ、サヨリが昨日言っていたことを思い出した。"
-    return
 
-label ch5_main_bfc9484c_Japanese:
+translate Japanese ch5_main_override_bfc9484c:
     "そして彼女にとってはそう単純な問題ではないことに気づき、ひどい罪悪感に苛まれる。"
-    return
 
-label ch5_main_804f14c9_Japanese:
+translate Japanese ch5_main_override_804f14c9:
     "俺はただいつもそういう風に捉えていたからそう発言してしまったのだ。"
-    return
 
-label ch5_main_bf0874e3_Japanese:
+translate Japanese ch5_main_override_bf0874e3:
     "でも……"
-    return
 
-label ch5_main_b06045eb_Japanese:
+translate Japanese ch5_main_override_b06045eb:
     "もしかしたら起こしに行った方が良かったのだろうか？"
-    return
 
-label ch5_main_716c1a0f_Japanese:
+translate Japanese ch5_main_override_716c1a0f:
     m 1k "「ふふっ」"
-    return
 
-label ch5_main_39018d06_Japanese:
+translate Japanese ch5_main_override_39018d06:
     m 4b "「[player]君はもうちょっと責任を持った方がいいかもしれないわ！」"
-    return
 
-label ch5_main_a7c132be_Japanese:
+translate Japanese ch5_main_override_a7c132be:
     m "「昨日あんなやり取りも交わしたばかりなのに……」"
-    return
 
-label ch5_main_8ad57878_Japanese:
+translate Japanese ch5_main_override_8ad57878:
     m "「今朝まであの子を宙ぶらりんにさせちゃって」"
-    return
 
-label ch5_main_2a8e5cd8_Japanese:
+translate Japanese ch5_main_override_2a8e5cd8:
     mc "「やり取り……？」"
-    return
 
-label ch5_main_fae1792d_Japanese:
+translate Japanese ch5_main_override_fae1792d:
     mc "「モニカ――まさかお前知ってるのか？」"
-    return
 
-label ch5_main_22f1452d_Japanese:
+translate Japanese ch5_main_override_22f1452d:
     m 2a "「もちろんよ！」"
-    return
 
-label ch5_main_bad6f1a7_Japanese:
+translate Japanese ch5_main_override_bad6f1a7:
     m "「なんてったってこの文芸部の部長なんだから」"
-    return
 
-label ch5_main_bcfeb37f_Japanese:
+translate Japanese ch5_main_override_bcfeb37f:
     mc "「で、でも――！」"
-    return
 
-label ch5_main_13e443ec_Japanese:
+translate Japanese ch5_main_override_13e443ec:
     "恥ずかしくなって、言葉に詰まってしまう。"
-    return
 
-label ch5_main_14d59814_Japanese:
+translate Japanese ch5_main_override_14d59814:
     "サヨリはもうモニカに言ったのか？"
-    return
 
-label ch5_main_7b4085e0_Japanese:
+translate Japanese ch5_main_override_7b4085e0:
     "俺たちが付き合い始めたことを……？"
-    return
 
-label ch5_main_e98494a0_Japanese:
+translate Japanese ch5_main_override_e98494a0:
     "俺はまだ、誰にも言うつもりなんか無かったのに……"
-    return
 
-label ch5_main_7078ecec_Japanese:
+translate Japanese ch5_main_override_7078ecec:
     "どうやって彼女を振ったのかも？"
-    return
 
-label ch5_main_841118bf_Japanese:
+translate Japanese ch5_main_override_841118bf:
     "そうだとしたら俺はかなり悪い立場にいることになる。"
-    return
 
-label ch5_main_bea221f2_Japanese:
+translate Japanese ch5_main_override_bea221f2:
     "でもあいつにとって何が最善かは俺が一番知っているはずだ。"
-    return
 
-label ch5_main_9098da49_Japanese:
+translate Japanese ch5_main_override_9098da49:
     mc "「えっと……」"
-    return
 
-label ch5_main_c012ccb9_Japanese:
+translate Japanese ch5_main_override_c012ccb9:
     mc "「それでも全部知ってるわけじゃないよな、なら……」"
-    return
 
-label ch5_main_61ca7335_Japanese:
+translate Japanese ch5_main_override_61ca7335:
     m 2j "「心配しないで」"
-    return
 
-label ch5_main_8a0a254a_Japanese:
+translate Japanese ch5_main_override_8a0a254a:
     m "「あなたが思ってるより色々知ってるのよ？ 私」"
-    return
 
-label ch5_main_bbe4458e_Japanese:
+translate Japanese ch5_main_override_bbe4458e:
     mc "「えっ……？」"
-    return
 
-label ch5_main_0ad66631_Japanese:
+translate Japanese ch5_main_override_0ad66631:
     "いつものように気さくなモニカだが、その言葉を聞いて何故か背筋が寒くなった。"
-    return
 
-label ch5_main_115550e4_Japanese:
+translate Japanese ch5_main_override_115550e4:
     m 5 "「ねえ、パンフレット確認しない？」"
-    return
 
-label ch5_main_3dd8757c_Japanese:
+translate Japanese ch5_main_override_3dd8757c:
     m "「とってもいい感じに仕上がったから！」"
-    return
 
-label ch5_main_b1ac94f7_Japanese:
+translate Japanese ch5_main_override_b1ac94f7:
     mc "「ああ、そうするよ」"
-    return
 
-label ch5_main_cf774ef8_Japanese:
+translate Japanese ch5_main_override_cf774ef8:
     "机にある小冊子を一部取る。"
-    return
 
-label ch5_main_c358e345_Japanese:
+translate Japanese ch5_main_override_c358e345:
     mc "「ほんとだ、いい感じだ」"
-    return
 
-label ch5_main_2dd533a0_Japanese:
+translate Japanese ch5_main_override_2dd533a0:
     mc "「これなら、みんなもっとこの部活のことを真剣に見てくれるだろうな」"
-    return
 
-label ch5_main_9d72086a_Japanese:
+translate Japanese ch5_main_override_9d72086a:
     m "「ええ、私もそう思うわ！」"
-    return
 
-label ch5_main_e9739dad_Japanese:
+translate Japanese ch5_main_override_e9739dad:
     "ページをぱらぱらとめくっていく。"
-    return
 
-label ch5_main_dcc9e068_Japanese:
+translate Japanese ch5_main_override_dcc9e068:
     "それぞれのメンバーの詩が、まるでプロの仕事のような鮮やかさで印刷されている。"
-    return
 
-label ch5_main_d58b0f7f_Japanese:
+translate Japanese ch5_main_override_d58b0f7f:
     "ナツキとユリの詩は、二人が練習の時に読んだものと同じみたいだ。"
-    return
 
-label ch5_main_4ad8684c_Japanese:
+translate Japanese ch5_main_override_4ad8684c:
     mc "「ん？ なんだこれ……」"
-    return
 
-label ch5_main_781439d4_Japanese:
+translate Japanese ch5_main_override_781439d4:
     "俺はサヨリのページを開いた。"
-    return
 
-label ch5_main_48cf059d_Japanese:
+translate Japanese ch5_main_override_48cf059d:
     "そこには彼女が練習で読んでいたものとは違う詩が載っていた。"
-    return
 
-label ch5_main_d1acea01_Japanese:
+translate Japanese ch5_main_override_d1acea01:
     "それに俺が今まで読んだことのない……"
-    return
 
-label ch5_main_f9d65918_Japanese:
+translate Japanese ch5_main_override_f9d65918:
     mc "「なっ――」"
-    return
 
-label ch5_main_ce9ffd82_Japanese:
+translate Japanese ch5_main_override_ce9ffd82:
     "これは何だ……？"
-    return
 
-label ch5_main_f8df116d_Japanese:
+translate Japanese ch5_main_override_f8df116d:
     "この詩を読むと、とても胸がざわつく。"
-    return
 
-label ch5_main_de87a206_Japanese:
+translate Japanese ch5_main_override_de87a206:
     m "「[player]君？」"
-    return
 
-label ch5_main_6a3f2020_Japanese:
+translate Japanese ch5_main_override_6a3f2020:
     m "「どうかしたの？」"
-    return
 
-label ch5_main_ef5f85f4_Japanese:
+translate Japanese ch5_main_override_ef5f85f4:
     mc "「いや、なんでも……」"
-    return
 
-label ch5_main_db0952f0_Japanese:
+translate Japanese ch5_main_override_db0952f0:
     "この詩はどう考えても、いつものサヨリの詩と何もかも違っている。"
-    return
 
-label ch5_main_38f127a1_Japanese:
+translate Japanese ch5_main_override_38f127a1:
     "だが、それよりも……"
-    return
 
-label ch5_main_d0abb0e9_Japanese:
+translate Japanese ch5_main_override_d0abb0e9:
     mc "「ご、ごめん、ちょっと気が変わった」"
-    return
 
-label ch5_main_45476ba9_Japanese:
+translate Japanese ch5_main_override_45476ba9:
     mc "「やっぱりサヨリのこと迎えに行ってくるから……」"
-    return
 
-label ch5_main_4db600d5_Japanese:
+translate Japanese ch5_main_override_4db600d5:
     m "「あー……」"
-    return
 
-label ch5_main_0ceabd85_Japanese:
+translate Japanese ch5_main_override_0ceabd85:
     m 1b "「分かったわ」"
-    return
 
-label ch5_main_69a061e2_Japanese:
+translate Japanese ch5_main_override_69a061e2:
     m "「あんまり遅くならないでね？」"
-    return
 
-label ch5_main_80ea11e1_Japanese:
+translate Japanese ch5_main_override_80ea11e1:
     "俺は急いで教室から出た。"
-    return
 
-label ch5_main_08b7a135_Japanese:
+translate Japanese ch5_main_override_08b7a135:
     m "「無理しないでね～」"
-    return
 
-label ch5_main_e2a4926d_Japanese:
+translate Japanese ch5_main_override_e2a4926d:
     "モニカが呼びかけるのが聞こえる。"
-    return
 
-label ch5_main_a2c82474_Japanese:
+translate Japanese ch5_main_override_a2c82474:
     "どんどんペースを上げていく。"
-    return
 
-label ch5_main_1642a559_Japanese:
+translate Japanese ch5_main_override_1642a559:
     "俺は何を考えていたんだ？"
-    return
 
-label ch5_main_b22de3d6_Japanese:
+translate Japanese ch5_main_override_b22de3d6:
     "もう少しサヨリのために頑張るべきだった。"
-    return
 
-label ch5_main_bf20ec7b_Japanese:
+translate Japanese ch5_main_override_bf20ec7b:
     "あいつを待つことや、朝起こしてやることなんて簡単なことじゃないか。"
-    return
 
-label ch5_main_e601aa4e_Japanese:
+translate Japanese ch5_main_override_e601aa4e:
     "単に一緒に学校に行くだけでもサヨリは幸せになるのに。"
-    return
 
-label ch5_main_70e7cabf_Japanese:
+translate Japanese ch5_main_override_70e7cabf:
     "しかも……"
-    return
 
-label ch5_main_68430306_Japanese:
+translate Japanese ch5_main_override_68430306:
     "俺はつい昨日、いつも通りの日常を共に過ごすとあいつに言ったばかりじゃないか。"
-    return
 
-label ch5_main_e35fe926_Japanese:
+translate Japanese ch5_main_override_e35fe926:
     "彼女にはそれが必要で、俺もそうしてやりたかった。"
-    return
 
-label ch5_main_558b962d_Japanese:
+translate Japanese ch5_main_override_558b962d:
     "俺はサヨリの家に着いて、ドアをノックした。"
-    return
 
-label ch5_main_b8d78e77_Japanese:
+translate Japanese ch5_main_override_b8d78e77:
     "電話にも出ていないから、返事がないのも当然だろう。"
-    return
 
-label ch5_main_a19898c6_Japanese:
+translate Japanese ch5_main_override_a19898c6:
     "昨日のようにドアを開けて入った。"
-    return
 
-label ch5_main_e766b9e2_Japanese:
+translate Japanese ch5_main_override_e766b9e2:
     mc "「サヨリ？」"
-    return
 
-label ch5_main_4f4ec354_Japanese:
+translate Japanese ch5_main_override_4f4ec354:
     "あいつ、本当にぐっすり寝てるな……"
-    return
 
-label ch5_main_17df0a8d_Japanese:
+translate Japanese ch5_main_override_17df0a8d:
     "唾を飲む。"
-    return
 
-label ch5_main_5166b167_Japanese:
+translate Japanese ch5_main_override_5166b167:
     "こんな事をしている自分が信じられない。"
-    return
 
-label ch5_main_66baf796_Japanese:
+translate Japanese ch5_main_override_66baf796:
     "彼女の家に上がり込んで起こすとか……"
-    return
 
-label ch5_main_7e7f0370_Japanese:
+translate Japanese ch5_main_override_7e7f0370:
     "そんなのまさに彼氏のすることじゃないか。"
-    return
 
-label ch5_main_d39780a5_Japanese:
+translate Japanese ch5_main_override_d39780a5:
     "彼氏がするようなことじゃないか……？"
-    return
 
-label ch5_main_cc4d5947_Japanese:
+translate Japanese ch5_main_override_cc4d5947:
     "なんにせよ……"
-    return
 
-label ch5_main_eff61fd1_Japanese:
+translate Japanese ch5_main_override_eff61fd1:
     "こうするのが正しい気がする。"
-    return
 
-label ch5_main_b771a755_Japanese:
+translate Japanese ch5_main_override_b771a755:
     "サヨリの部屋の前に着いた俺はドアをノックした。"
-    return
 
-label ch5_main_e766b9e2_1_Japanese:
+translate Japanese ch5_main_override_e766b9e2_1:
     mc "「サヨリ？」"
-    return
 
-label ch5_main_2d697678_Japanese:
+translate Japanese ch5_main_override_2d697678:
     mc "「早く起きろよ、ねぼすけ」"
-    return
 
-label ch5_main_4f673053_Japanese:
+translate Japanese ch5_main_override_4f673053:
     "反応は無い。"
-    return
 
-label ch5_main_e55755b1_Japanese:
+translate Japanese ch5_main_override_e55755b1:
     "こんな感じであいつの部屋には入りたくなかったんだが……"
-    return
 
-label ch5_main_5f524499_Japanese:
+translate Japanese ch5_main_override_5f524499:
     "なんだか、プライバシーの侵害みたいじゃないか？"
-    return
 
-label ch5_main_92ad08b5_Japanese:
+translate Japanese ch5_main_override_92ad08b5:
     "でも他に選択はない。"
-    return
 
-label ch5_main_b0993b5c_Japanese:
+translate Japanese ch5_main_override_b0993b5c:
     "俺はゆっくりとドアを開ける。"
-    return
 
-label ch5_main_414399e6_Japanese:
+translate Japanese ch5_main_override_414399e6:
     mc "{cps=30}「……サヨ{/cps}{nw}"
-    return
 
-label ch5_main_a20cefa7_Japanese:
+translate Japanese ch5_main_override_a20cefa7:
     "……"
-    return
 
-label ch5_main_d9da181d_Japanese:
+translate Japanese ch5_main_override_d9da181d:
     "なんだよこれ……？"
-    return
 
-label ch5_main_3f892db7_Japanese:
+translate Japanese ch5_main_override_3f892db7:
     "{i}なんなんだよこれ？？{/i}"
-    return
 
-label ch5_main_3e132bf6_Japanese:
+translate Japanese ch5_main_override_3e132bf6:
     "これは悪夢なのか？"
-    return
 
-label ch5_main_bee33b8a_Japanese:
+translate Japanese ch5_main_override_bee33b8a:
     "そうに……そうに違いない。"
-    return
 
-label ch5_main_b79b8271_Japanese:
+translate Japanese ch5_main_override_b79b8271:
     "こんなの現実じゃない。"
-    return
 
-label ch5_main_f7d3bace_Japanese:
+translate Japanese ch5_main_override_f7d3bace:
     "こんなこと現実のはずがない。"
-    return
 
-label ch5_main_d463aeb5_Japanese:
+translate Japanese ch5_main_override_d463aeb5:
     "サヨリがこんなことするわけない。"
-    return
 
-label ch5_main_80b8347e_Japanese:
+translate Japanese ch5_main_override_80b8347e:
     "ほんの数日前まで、何もかもいつも通りだったじゃないか。"
-    return
 
-label ch5_main_bcc0cf21_Japanese:
+translate Japanese ch5_main_override_bcc0cf21:
     "だからこそ、今目の前に広がってる光景が信じられない。"
-    return
 
-label ch5_main_14052544_Japanese:
+translate Japanese ch5_main_override_14052544:
     "吐きそうになるのを必死に堪える。"
-    return
 
-label ch5_main_83c08dc6_Japanese:
+translate Japanese ch5_main_override_83c08dc6:
     "つい昨日……"
-    return
 
-label ch5_main_63d916b6_Japanese:
+translate Japanese ch5_main_override_63d916b6:
     "ずっと傍にいてやるって言ったばかりなのに。"
-    return
 
-label ch5_main_60eed88f_Japanese:
+translate Japanese ch5_main_override_60eed88f:
     "サヨリの望みはわかってるから何も問題ないって言ったばかりなのに。"
-    return
 
-label ch5_main_d7afa724_Japanese:
+translate Japanese ch5_main_override_d7afa724:
     "だったら何で……？"
-    return
 
-label ch5_main_b65618dd_Japanese:
+translate Japanese ch5_main_override_b65618dd:
     "何であいつはこんなことを……？"
-    return
 
-label ch5_main_914b926a_Japanese:
+translate Japanese ch5_main_override_914b926a:
     "なんて俺は無力なんだ？"
-    return
 
-label ch5_main_ef4dcc76_Japanese:
+translate Japanese ch5_main_override_ef4dcc76:
     "俺は何を間違えたんだ？"
-    return
 
-label ch5_main_be3441df_Japanese:
+translate Japanese ch5_main_override_be3441df:
     "あいつに告白したこと……か？"
-    return
 
-label ch5_main_5d397de2_Japanese:
+translate Japanese ch5_main_override_5d397de2:
     "俺は告白なんてするべきじゃなかったんだ。"
-    return
 
-label ch5_main_28eecbc0_Japanese:
+translate Japanese ch5_main_override_28eecbc0:
     "あいつはそんなこと望んでなかった……"
-    return
 
-label ch5_main_83b32ad7_Japanese:
+translate Japanese ch5_main_override_83b32ad7:
     "他人から気にかけられる事がどれだけ苦しいか言ってたじゃないか！"
-    return
 
-label ch5_main_866f2bae_Japanese:
+translate Japanese ch5_main_override_866f2bae:
     "じゃあなんで俺は、告白なんかしてあいつの心をさらに傷つけてしまったんだ？"
-    return
 
-label ch5_main_c298f032_Japanese:
+translate Japanese ch5_main_override_c298f032:
     "告白を受け入れなかったこと……"
-    return
 
-label ch5_main_43f22dd0_Japanese:
+translate Japanese ch5_main_override_43f22dd0:
     "それがあいつの心を壊してしまったんだ。"
-    return
 
-label ch5_main_ed1a20bb_Japanese:
+translate Japanese ch5_main_override_ed1a20bb:
     "あいつの苦悶の叫びがいまだに耳の中に残る。"
-    return
 
-label ch5_main_390af3d1_Japanese:
+translate Japanese ch5_main_override_390af3d1:
     "サヨリは本当に俺のことを必要としていたのに、なんであんな事をしてしまったんだ？"
-    return
 
-label ch5_main_52adb6dd_Japanese:
+translate Japanese ch5_main_override_52adb6dd:
     "なんて俺は自分勝手だったんだ。"
-    return
 
-label ch5_main_b8970560_Japanese:
+translate Japanese ch5_main_override_b8970560:
     "全部俺のせいじゃないか……！"
-    return
 
-label ch5_main_784c9188_Japanese:
+translate Japanese ch5_main_override_784c9188:
     "どうすればこんなことにならなかったのか。頭の中で思考が駆けめぐる。"
-    return
 
-label ch5_main_38a05e13_Japanese:
+translate Japanese ch5_main_override_38a05e13:
     "もし、もっと一緒に過ごしていたら。"
-    return
 
-label ch5_main_61323b0a_Japanese:
+translate Japanese ch5_main_override_61323b0a:
     "一緒に学校に行っていれば。"
-    return
 
-label ch5_main_fafa7f27_Japanese:
+translate Japanese ch5_main_override_fafa7f27:
     "そして、今までのようにあいつと友達のままだったら……"
-    return
 
-label ch5_main_40330930_Japanese:
+translate Japanese ch5_main_override_40330930:
     "そして、あいつが二人の関係から期待していたことをしてあげられたなら。"
-    return
 
-label ch5_main_b500c19c_Japanese:
+translate Japanese ch5_main_override_b500c19c:
     "……そうすればこんなことには……"
-    return
 
-label ch5_main_3fb68386_Japanese:
+translate Japanese ch5_main_override_3fb68386:
     "こんなことにはならなかったはずだ！"
-    return
 
-label ch5_main_dbc1a352_Japanese:
+translate Japanese ch5_main_override_dbc1a352:
     "文芸部なんてもう知るか。"
-    return
 
-label ch5_main_6ca38f65_Japanese:
+translate Japanese ch5_main_override_6ca38f65:
     "文化祭なんてもう知るか。"
-    return
 
-label ch5_main_9e6ea412_Japanese:
+translate Japanese ch5_main_override_9e6ea412:
     "俺は今、一番の友達を失ったんだ。"
-    return
 
-label ch5_main_bf83b2a4_Japanese:
+translate Japanese ch5_main_override_bf83b2a4:
     "小さいころからずっと一緒だった友達を。"
-    return
 
-label ch5_main_8166b65b_Japanese:
+translate Japanese ch5_main_override_8166b65b:
     "サヨリは死んでしまったんだ。"
-    return
 
-label ch5_main_1346d49e_Japanese:
+translate Japanese ch5_main_override_1346d49e:
     "あいつを取り戻す方法なんて何もない。"
-    return
 
-label ch5_main_47810304_Japanese:
+translate Japanese ch5_main_override_47810304:
     "ゲームのようにリセットしてやり直すなんてこともできやしないんだ。"
-    return
 
-label ch5_main_061507cc_Japanese:
+translate Japanese ch5_main_override_061507cc:
     "たった一度しかないチャンスだったのに、うかつだったんだ。"
-    return
 
-label ch5_main_34819040_Japanese:
+translate Japanese ch5_main_override_34819040:
     "そして死ぬまでこの罪を背負っていくんだ。"
-    return
 
-label ch5_main_aa24ed84_Japanese:
+translate Japanese ch5_main_override_aa24ed84:
     "俺の人生なんかサヨリほどの価値はない……"
-    return
 
-label ch5_main_96fa7cd8_Japanese:
+translate Japanese ch5_main_override_96fa7cd8:
     "でもあいつがして欲しかったことができなかった。"
-    return
 
-label ch5_main_226d890f_Japanese:
+translate Japanese ch5_main_override_226d890f:
     "そして今……"
-    return
 
-label ch5_main_ad63a323_Japanese:
+translate Japanese ch5_main_override_ad63a323:
     "もう取り戻すことはできない。"
-    return
 
-label ch5_main_b8dc6375_Japanese:
+translate Japanese ch5_main_override_b8dc6375:
     "絶対に。"
-    return
 
-label ch5_main_b8dc6375_1_Japanese:
+translate Japanese ch5_main_override_b8dc6375_1:
     "絶対に。"
-    return
 
-label ch5_main_b8dc6375_2_Japanese:
+translate Japanese ch5_main_override_b8dc6375_2:
     "絶対に。"
-    return
 
-label ch5_main_b8dc6375_3_Japanese:
+translate Japanese ch5_main_override_b8dc6375_3:
     "絶対に。"
-    return
 
-label ch5_main_e650a699_Japanese:
+translate Japanese ch5_main_override_e650a699:
     "絶対に……"
-    return
+
+translate Japanese strings:
+    old "File \"game/script-ch5.rpy\", line 307\nSee traceback.txt for details."
+    new "ファイル \"game/script-ch5.rpy\"、307行\n詳しくはtraceback.txt を確認してください。"
+
+    old "Oh jeez...I didn't break anything, did I? Hold on a sec, I can probably fix this...I think...\nActually, you know what? This would probably be a lot easier if I just deleted her. She's the one who's making this so difficult. Ahaha! Well, here goes nothing."
+    new "あらまあ……何か壊れちゃったりしたかしら？ちょっと待って、これなら多分……直せそう……\nでもこれって、あの子を削除した方がよっぽど簡単じゃない？ややこしい事態にしたのはあの子なんだし。あははっ！それじゃあ、ちょっと試してみましょうか。"
