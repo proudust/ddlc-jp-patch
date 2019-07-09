@@ -1,9 +1,7 @@
 define file_message_have_a_nice_weekend = ""
-define history_yuri_kill = """"""
 
 translate None python:
     file_message_have_a_nice_weekend = "G2pilVJccjJiQZ1poiM3iYZhj3I0IRbvj3wxomnoeOatVHUxZ2ozGKJgjXMzj2LgoOitBOM1dSDzHMatdRpmQZpidNehG29mkTxwmDJbGJxsjnVeQT9mTPSwSAOwnuWhSE50ByMpcuJoqGstJOCxqHCtdvG3HJV0TOGuwOIyoOGhwOHgm2GhlZpyISJik3J/"
-    history_yuri_kill = """Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with"""
 
 label ch23_end_90de9c4d:
     m "Okay, everyone!"
@@ -533,22 +531,6 @@ label ch23_end_ce414874:
     y "Do you accept my confession?"
     return
 
-label yuri_kill_1_4d4c9c12:
-    y "...Ahahaha."
-    return
-
-label yuri_kill_1_3d40b880:
-    y "Ahahahahahaha!"
-    return
-
-label yuri_kill_1_4ddc816c:
-    y 3y5 "Ahahahahahahahaha!"
-    return
-
-label yuri_kill_1_76475273:
-    y 3y3 "AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA{nw}"
-    return
-
 translate None label:
     label ch23_end:
         stop music fadeout 1.0
@@ -851,116 +833,3 @@ translate None label:
                 jump yuri_kill
             "No.":
                 jump yuri_kill
-
-translate None label:
-    label yuri_kill:
-        $ quick_menu = False
-        window hide(None)
-        stop music
-        $ pause(1.0)
-
-
-        window auto
-        $ persistent.yuri_kill = 1
-        $ in_yuri_kill = True
-
-        jump yuri_kill_1
-
-translate None label:
-    label yuri_kill_1:
-        window auto
-        $ persistent.autoload = "yuri_kill_1"
-        $ renpy.save_persistent()
-        $ quick_menu = False
-        stop music
-        scene bg club_day
-        show yuri 3d at i11
-        call say_tl("yuri_kill_1_4d4c9c12")
-        call say_tl("yuri_kill_1_3d40b880")
-        $ style.say_dialogue = style.normal
-        call say_tl("yuri_kill_1_4ddc816c")
-        $ style.say_dialogue = style.edited
-        call say_tl("yuri_kill_1_76475273")
-
-        window hide(None)
-        window auto
-        $ style.say_dialogue = style.normal
-
-        play sound "sfx/yuri-kill.ogg"
-        $ starttime = datetime.datetime.now()
-
-        $ pause(1.43 - (datetime.datetime.now() - starttime).total_seconds())
-        show yuri stab_1
-
-        $ pause(2.18 - (datetime.datetime.now() - starttime).total_seconds())
-        show yuri stab_2
-        show blood:
-            pos (610,485)
-
-        $ pause(3.43 - (datetime.datetime.now() - starttime).total_seconds())
-        show yuri stab_3
-
-        $ pause(4.18 - (datetime.datetime.now() - starttime).total_seconds())
-        show yuri stab_2
-        show blood:
-            pos (610,485)
-        show yuri stab_4 with ImageDissolve("images/yuri/stab/4_wipe.png", 0.25)
-
-        $ pause(5.68 - (datetime.datetime.now() - starttime).total_seconds())
-        show yuri stab_5
-
-        $ pause(6.38 - (datetime.datetime.now() - starttime).total_seconds())
-        show yuri stab_6:
-            2.55
-            easeout_cubic 0.5 yoffset 300
-        show blood as blood2:
-            pos (635,335)
-
-        $ pause(8.93 - (datetime.datetime.now() - starttime).total_seconds())
-        hide blood
-        hide blood2
-
-        $ pause(9.18 - (datetime.datetime.now() - starttime).total_seconds())
-        play sound fall
-
-        $ pause(9.43 - (datetime.datetime.now() - starttime).total_seconds())
-        scene black
-
-        $ pause(11.43 - (datetime.datetime.now() - starttime).total_seconds())
-
-        scene black
-        show y_kill
-        with dissolve_cg
-
-        jump yuri_kill_2
-
-translate None label:
-    label yuri_kill_2:
-        $ quick_menu = True
-        $ persistent.autoload = "yuri_kill_2"
-        $ renpy.save_persistent()
-        python:
-            _history_list = []
-            m.add_history(None, "", history_yuri_kill)
-
-        $ style.say_dialogue = style.edited
-        scene black
-        window show(None)
-        if not renpy.music.get_playing(channel='music') == audio.t6s:
-            $ audiostart = str(renpy.random.random() * 360)
-            $ audio.t6s = "<from " + audiostart + " loop 43.572>bgm/6s.ogg"
-            play music t6s
-        show y_kill
-        label yuri_kill_loop:
-            $ persistent.yuri_kill += 1
-            if persistent.yuri_kill < 1440:
-                $ gtext = glitchtext(renpy.random.randint(8, 80))
-                if config.developer:
-                    y "[persistent.yuri_kill] [gtext]"
-                else:
-                    y "[gtext]"
-                $ _history_list.pop()
-                jump yuri_kill_loop
-            else:
-                $ delete_all_saves()
-                jump yuri_kill_3

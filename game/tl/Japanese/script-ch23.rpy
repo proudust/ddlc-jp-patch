@@ -1,6 +1,5 @@
 translate Japanese python:
     file_message_have_a_nice_weekend = "5pyq5p2l44Gu6LGK44GL44Gq6Jar6aaZ44KS55+l44KJ44Gq44GE55S344Gv5L2V44GgOyDnj77lnKjjga7nhrHjgY/jgIHopIfpm5HjgarlnYfooaE7IOOBneOBl+OBpumBjuWOu+OBruOBu+OCjeiLpuOBhOW+jOWRs++8nw/"
-    history_yuri_kill = """文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束して"""
 
 translate Japanese ch23_main_7050b825:
     y "「こんにちは、[player]さん」"
@@ -866,21 +865,17 @@ label ch23_end_ce414874_Japanese:
     y "「私の告白を受け入れてくれますか？」"
     return
 
-label yuri_kill_1_4d4c9c12_Japanese:
+translate Japanese yuri_kill_1_4d4c9c12:
     y "「……ハハ」"
-    return
 
-label yuri_kill_1_3d40b880_Japanese:
+translate Japanese yuri_kill_1_3d40b880:
     y "「アハハハハハ！」"
-    return
 
-label yuri_kill_1_4ddc816c_Japanese:
+translate Japanese yuri_kill_1_4ddc816c:
     y 3y5 "「アハハハハハハハハハ！」"
-    return
 
-label yuri_kill_1_76475273_Japanese:
+translate Japanese yuri_kill_1_76475273:
     y 3y3 "「アハハハハハハハハハハハハハハハハハハハハハハハハ{nw}」"
-    return
 
 translate Japanese yuri_kill_loop_18a69774:
     y "「[persistent.yuri_kill] [gtext]」"
@@ -990,3 +985,6 @@ translate Japanese strings:
 
     old "No."
     new "いいえ"
+
+    old "Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with"
+    new "文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束して"
