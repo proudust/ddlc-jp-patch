@@ -1,8 +1,3 @@
-translate Japanese python:
-    error_title = "例外が発生しました。"
-    error_message = "ファイル \"game/script-ch5.rpy\"、307行\n詳しくはtraceback.txt を確認してください。"
-    error_report = "あらまあ……何か壊れちゃったりしたかしら？ちょっと待って、これなら多分……直せそう……\nでもこれって、あの子を削除した方がよっぽど簡単じゃない？ややこしい事態にしたのはあの子なんだし。あははっ！それじゃあ、ちょっと試してみましょうか。"
-
 translate Japanese ch5_main_override_291cd73e:
     "今日はとうとう文化祭の日だ。"
 
