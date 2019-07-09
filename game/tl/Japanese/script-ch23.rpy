@@ -1,6 +1,3 @@
-translate Japanese python:
-    file_message_have_a_nice_weekend = "5pyq5p2l44Gu6LGK44GL44Gq6Jar6aaZ44KS55+l44KJ44Gq44GE55S344Gv5L2V44GgOyDnj77lnKjjga7nhrHjgY/jgIHopIfpm5HjgarlnYfooaE7IOOBneOBl+OBpumBjuWOu+OBruOBu+OCjeiLpuOBhOW+jOWRs++8nw/"
-
 translate Japanese ch23_main_7050b825:
     y "「こんにちは、[player]さん」"
 
