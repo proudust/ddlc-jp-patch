@@ -1,6 +1,4 @@
 translate Japanese python:
-    monika_name = "モニカ"
-
     full_wordlist = []
 
     #Sayori's winning words
