@@ -1,7 +1,4 @@
-define monika_name = "Monika"
-
 translate None python:
-    monika_name = "Monika"
     full_wordlist = []
     with renpy.file('poemwords.txt') as wordfile:
         for line in wordfile:
@@ -87,7 +84,7 @@ translate None label:
                     ui.vbox()
                     for i in range(5):
                         if persistent.playthrough == 3:
-                            s = list(monika_name)
+                            s = list(__("Monika"))
                             for k in range(len(s)):
                                 if random.randint(0, 4) == 0:
                                     s[k] = ' '
@@ -173,16 +170,17 @@ translate None label:
             $ quick_menu = False
             play sound "sfx/eyes.ogg"
             $ persistent.seen_eyes = True
+            $ renpy.save_persistent()
             stop music
             scene black with None
             show bg eyes_move
-            pause 1.2
+            $ pause(1.2)
             hide bg eyes_move
             show bg eyes
-            pause 0.5
+            $ pause(0.5)
             hide bg eyes
             show bg eyes_move
-            pause 1.25
+            $ pause(1.25)
             hide bg eyes with None
             $ quick_menu = True
         $ config.allow_skipping = True
@@ -192,5 +190,5 @@ translate None label:
         show black as fadeout:
             alpha 0
             linear 1.0 alpha 1.0
-        pause 1.0
+        $ pause(1.0)
         return

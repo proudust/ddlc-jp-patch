@@ -1,7 +1,3 @@
-translate Japanese python:
-    file_message_have_a_nice_weekend = "5pyq5p2l44Gu6LGK44GL44Gq6Jar6aaZ44KS55+l44KJ44Gq44GE55S344Gv5L2V44GgOyDnj77lnKjjga7nhrHjgY/jgIHopIfpm5HjgarlnYfooaE7IOOBneOBl+OBpumBjuWOu+OBruOBu+OCjeiLpuOBhOW+jOWRs++8nw/"
-    history_yuri_kill = """文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束して"""
-
 translate Japanese ch23_main_7050b825:
     y "「こんにちは、[player]さん」"
 
@@ -338,549 +334,413 @@ translate Japanese ch23_main_13ff9bc7:
 translate Japanese ch23_main_727caeb4:
     y 2u "「ええ……分かってくれてありがとうございます、モニカちゃん」"
 
-label ch23_end_90de9c4d_Japanese:
+translate Japanese ch23_end_override_90de9c4d:
     m "「よし、みんな！」"
-    return
 
-label ch23_end_0993759e_Japanese:
+translate Japanese ch23_end_override_0993759e:
     m "「文化祭の準備をする時間よ」"
-    return
 
-label ch23_end_772ec4c7_Japanese:
+translate Japanese ch23_end_override_772ec4c7:
     m 1i "「急いでさっさと片付けてしまいましょ」"
-    return
 
-label ch23_end_bb2cf764_Japanese:
+translate Japanese ch23_end_override_bb2cf764:
     n "「……」"
-    return
 
-label ch23_end_a8557d5c_Japanese:
+translate Japanese ch23_end_override_a8557d5c:
     n "「もう……」"
-    return
 
-label ch23_end_2035e967_Japanese:
+translate Japanese ch23_end_override_2035e967:
     n "「なんで今日は全体的に妙な雰囲気なのよ？」"
-    return
 
-label ch23_end_42c8edbf_Japanese:
+translate Japanese ch23_end_override_42c8edbf:
     n "「ほら、ユリですら影響を受けちゃってるし」"
-    return
 
-label ch23_end_6559e79e_Japanese:
+translate Japanese ch23_end_override_6559e79e:
     y "「うぅ……」"
-    return
 
-label ch23_end_3d9092ae_Japanese:
+translate Japanese ch23_end_override_3d9092ae:
     y "「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」"
-    return
 
-label ch23_end_08590660_Japanese:
+translate Japanese ch23_end_override_08590660:
     m 2r "「ほら、いいから終わらせましょう？」"
-    return
 
-label ch23_end_5a08f549_Japanese:
+translate Japanese ch23_end_override_5a08f549:
     m 2d "「私は詩を集めて印刷してパンフレットにするわ」"
-    return
 
-label ch23_end_dd665f4a_Japanese:
+translate Japanese ch23_end_override_dd665f4a:
     m 2i "「ナツキ、あなたカップケーキを作れるでしょ？」"
-    return
 
-label ch23_end_18c7cbb6_Japanese:
+translate Japanese ch23_end_override_18c7cbb6:
     m "「それだけは得意だものね」"
-    return
 
-label ch23_end_07a96f6a_Japanese:
+translate Japanese ch23_end_override_07a96f6a:
     n 5u "「……」"
-    return
 
-label ch23_end_770e4677_Japanese:
+translate Japanese ch23_end_override_770e4677:
     m "「ナツキ、私が思うに――」"
-    return
 
-label ch23_end_b0ad33ab_Japanese:
+translate Japanese ch23_end_override_b0ad33ab:
     n 2d "「わたし、カップケーキ作りたい！」"
-    return
 
-label ch23_end_b02e47f8_Japanese:
+translate Japanese ch23_end_override_b02e47f8:
     m 2a "「……その意気よ」"
-    return
 
-label ch23_end_58304296_Japanese:
+translate Japanese ch23_end_override_58304296:
     m "「分かってもらえて嬉しいわ」"
-    return
 
-label ch23_end_31d39fd0_Japanese:
+translate Japanese ch23_end_override_31d39fd0:
     m 1m "「ユリ、あなたは……」"
-    return
 
-label ch23_end_bed9d866_Japanese:
+translate Japanese ch23_end_override_bed9d866:
     m 1r "「……まあ、何をしたって構わないわ」"
-    return
 
-label ch23_end_222e42cb_Japanese:
+translate Japanese ch23_end_override_222e42cb:
     m 1i "「手伝いになりそうなことなら何でもして」"
-    return
 
-label ch23_end_a17b13bf_Japanese:
+translate Japanese ch23_end_override_a17b13bf:
     y 2h "「モニカちゃん……」"
-    return
 
-label ch23_end_c0d26207_Japanese:
+translate Japanese ch23_end_override_c0d26207:
     y "「私は役立たずではありません！」"
-    return
 
-label ch23_end_acf82de7_Japanese:
+translate Japanese ch23_end_override_acf82de7:
     m 2p "「そ、それくらい分かってるわよ！」"
-    return
 
-label ch23_end_78d0b4fa_Japanese:
+translate Japanese ch23_end_override_78d0b4fa:
     y 1l "「私が何をしたいかはもう決めてます」"
-    return
 
-label ch23_end_364de31c_Japanese:
+translate Japanese ch23_end_override_364de31c:
     y 1h "「詩の朗読会はそれに適したムードの中でないと成功しません」"
-    return
 
-label ch23_end_e9660d91_Japanese:
+translate Japanese ch23_end_override_e9660d91:
     y "「だから、飾り付けをして、雰囲気を作る照明を取り付けるんです」"
-    return
 
-label ch23_end_19a8f971_Japanese:
+translate Japanese ch23_end_override_19a8f971:
     m 2j "「ほらね？」"
-    return
 
-label ch23_end_2d145eae_Japanese:
+translate Japanese ch23_end_override_2d145eae:
     m "「良いアイデアが出てきたじゃない！」"
-    return
 
-label ch23_end_2ef36761_Japanese:
+translate Japanese ch23_end_override_2ef36761:
     m 1a "「これでみんなの役割が決まったわね」"
-    return
 
-label ch23_end_5f1028e8_Japanese:
+translate Japanese ch23_end_override_5f1028e8:
     y 2f "「え？」"
-    return
 
-label ch23_end_69b689b0_Japanese:
+translate Japanese ch23_end_override_69b689b0:
     y "「[player]さんは何をするのですか？」"
-    return
 
-label ch23_end_f12d9d00_Japanese:
+translate Japanese ch23_end_override_f12d9d00:
     m 2b "「[player]君は私のお手伝いよ」"
-    return
 
-label ch23_end_03042821_Japanese:
+translate Japanese ch23_end_override_03042821:
     n 4e "「待って、モニカの？」"
-    return
 
-label ch23_end_1cff0263_Japanese:
+translate Japanese ch23_end_override_1cff0263:
     n "「モニカはいっちばん簡単な仕事じゃない！」"
-    return
 
-label ch23_end_ec97ece1_Japanese:
+translate Japanese ch23_end_override_ec97ece1:
     m 1i "「ごめんなさいね、でもそういうことよ」"
-    return
 
-label ch23_end_1cadb8f9_Japanese:
+translate Japanese ch23_end_override_1cadb8f9:
     n 1f "「最悪！」"
-    return
 
-label ch23_end_8c2e73b8_Japanese:
+translate Japanese ch23_end_override_8c2e73b8:
     n "「何をするつもりなのよ？」"
-    return
 
-label ch23_end_2d1ca9bc_Japanese:
+translate Japanese ch23_end_override_2d1ca9bc:
     y 3h "「な、ナツキちゃんに同意です！」"
-    return
 
-label ch23_end_2fcdee48_Japanese:
+translate Japanese ch23_end_override_2fcdee48:
     y "「一人でも十分にこなせる仕事ですし……」"
-    return
 
-label ch23_end_916ef5f0_Japanese:
+translate Japanese ch23_end_override_916ef5f0:
     y 3l "「私のする作業は猫の手を借りたいほどですもの」"
-    return
 
-label ch23_end_613a8351_Japanese:
+translate Japanese ch23_end_override_613a8351:
     n 4c "「わたしもよ！」"
-    return
 
-label ch23_end_55f6cc17_Japanese:
+translate Japanese ch23_end_override_55f6cc17:
     y 1h "「えっ、カップケーキが？」"
-    return
 
-label ch23_end_43eb3793_Japanese:
+translate Japanese ch23_end_override_43eb3793:
     y "「本気ですか……？」"
-    return
 
-label ch23_end_6c43f72e_Japanese:
+translate Japanese ch23_end_override_6c43f72e:
     n 1o "「{i}あんたに{/i}何が分かるのよ！ 」"
-    return
 
-label ch23_end_337d9e3a_Japanese:
+translate Japanese ch23_end_override_337d9e3a:
     n 1x "「あんたは自分の読書に[player]を巻き込むことしか頭にないんだから」"
-    return
 
-label ch23_end_65c4d2ca_Japanese:
+translate Japanese ch23_end_override_65c4d2ca:
     n 1f "「あんた{i}と{/i}モニカよ！」"
-    return
 
-label ch23_end_302246ea_Japanese:
+translate Japanese ch23_end_override_302246ea:
     m 2g "「ちょっと！」"
-    return
 
-label ch23_end_c61da5ee_Japanese:
+translate Japanese ch23_end_override_c61da5ee:
     m "「私は何もしてないじゃない！」"
-    return
 
-label ch23_end_83974bd9_Japanese:
+translate Japanese ch23_end_override_83974bd9:
     n 3e "「分かったわ。モニカが権力を悪用しないように、[player]に誰を手伝うか決めさせない？」"
-    return
 
-label ch23_end_53e2984b_Japanese:
+translate Japanese ch23_end_override_53e2984b:
     m 1p "「私は……権力を悪用なんてしてないわ」"
-    return
 
-label ch23_end_5c462463_Japanese:
+translate Japanese ch23_end_override_5c462463:
     y 2h "「していますよ、モニカちゃん」"
-    return
 
-label ch23_end_6cda4708_Japanese:
+translate Japanese ch23_end_override_6cda4708:
     y "「[player]さんに選ばせましょう、それでいいですよね？」"
-    return
 
-label ch23_end_c26d6924_Japanese:
+translate Japanese ch23_end_override_c26d6924:
     m 1r "「ええ、良いわ！」"
-    return
 
-label ch23_end_34212887_Japanese:
+translate Japanese ch23_end_override_34212887:
     m "「もちろん」"
-    return
 
-label ch23_end_cc188cde_Japanese:
+translate Japanese ch23_end_override_cc188cde:
     n 3w "「まったく……」"
-    return
 
-label ch23_end_73b7482c_Japanese:
+translate Japanese ch23_end_override_73b7482c:
     n "「[player]、あんたが二人にどれだけうんざりしてるかよく分かるわ」"
-    return
 
-label ch23_end_c9ec79af_Japanese:
+translate Japanese ch23_end_override_c9ec79af:
     n 3c "「わたしたちはただ――」"
-    return
 
-label ch23_end_f1c1e0f4_Japanese:
+translate Japanese ch23_end_override_f1c1e0f4:
     y 2r "「ナツキちゃん、今すぐそのふざけた口をつぐんで彼に選択させましょう」"
-    return
 
-label ch23_end_01f5b930_Japanese:
+translate Japanese ch23_end_override_01f5b930:
     n 1o "「あんたこそ黙りなさいよ！」"
-    return
 
-label ch23_end_9976091a_Japanese:
+translate Japanese ch23_end_override_9976091a:
     m 1r "「ああもう……」"
-    return
 
-label ch23_end_bf2e6adc_Japanese:
+translate Japanese ch23_end_override_bf2e6adc:
     m 1i "「このままじゃ終わらないわ。いいから選ぶのよ、分かった？」"
-    return
 
-label ch23_end_9128784d_Japanese:
+translate Japanese ch23_end_override_9128784d:
     m 5a "「やったー！ 私を選んでくれるのね」"
-    return
 
-label ch23_end_8c48ee6a_Japanese:
+translate Japanese ch23_end_override_8c48ee6a:
     m "「週末はあなたの家で会いましょう」"
-    return
 
-label ch23_end_bb9bc753_Japanese:
+translate Japanese ch23_end_override_bb9bc753:
     m "「きっと楽しいわよ」"
-    return
 
-label ch23_end_67ca5074_Japanese:
+translate Japanese ch23_end_override_67ca5074:
     m "「日曜日は空いているかしら？ 」"
-    return
 
-label ch23_end_308070ea_Japanese:
+translate Japanese ch23_end_override_308070ea:
     n "「冗談でしょ？」"
-    return
 
-label ch23_end_77a6e6ae_Japanese:
+translate Japanese ch23_end_override_77a6e6ae:
     n "「ぜんっぜん不公平だから！」"
-    return
 
-label ch23_end_08045a7c_Japanese:
+translate Japanese ch23_end_override_08045a7c:
     m 2i "「公平よ、ナツキ」"
-    return
 
-label ch23_end_a5a60aa3_Japanese:
+translate Japanese ch23_end_override_a5a60aa3:
     m "「これは彼の選択だもの」"
-    return
 
-label ch23_end_c092a8ae_Japanese:
+translate Japanese ch23_end_override_c092a8ae:
     y "「いえ、不公平です！」"
-    return
 
-label ch23_end_c3761d87_Japanese:
+translate Japanese ch23_end_override_c3761d87:
     y "「私たちに仕事を押し付けておいて、自分は[player]さんを取るだなんて」"
-    return
 
-label ch23_end_de7db816_Japanese:
+translate Japanese ch23_end_override_de7db816:
     y "「恥ずべきことをしています！」"
-    return
 
-label ch23_end_eb1ce579_Japanese:
+translate Japanese ch23_end_override_eb1ce579:
     m 2r "「ユリ、私は今まであなたに仕事を一つも押し付けてなんかないわ」"
-    return
 
-label ch23_end_882dcfe0_Japanese:
+translate Japanese ch23_end_override_882dcfe0:
     m 2i "「あなた自身で決めたことでしょ」"
-    return
 
-label ch23_end_0f02c58e_Japanese:
+translate Japanese ch23_end_override_0f02c58e:
     m "「それは少し不合理なんじゃない？」"
-    return
 
-label ch23_end_ab03ad61_Japanese:
+translate Japanese ch23_end_override_ab03ad61:
     y 2y4 "「不合理ですって？」"
-    return
 
-label ch23_end_f0b3f2ff_Japanese:
+translate Japanese ch23_end_override_f0b3f2ff:
     y 2y3 "「アハハハ！」"
-    return
 
-label ch23_end_18e83623_Japanese:
+translate Japanese ch23_end_override_18e83623:
     y "「モニカちゃん、あなたのその妄想と偉そうな態度が信じられません！」"
-    return
 
-label ch23_end_545f48d9_Japanese:
+translate Japanese ch23_end_override_545f48d9:
     y "「部外者になるたびに毎回毎回[player]さんを私から奪い取って」"
-    return
 
-label ch23_end_97fd4494_Japanese:
+translate Japanese ch23_end_override_97fd4494:
     y 1y1 "「妬んでるのですか？」"
-    return
 
-label ch23_end_c6ade6c2_Japanese:
+translate Japanese ch23_end_override_c6ade6c2:
     y "「いかれてるのですか？」"
-    return
 
-label ch23_end_d50febc8_Japanese:
+translate Japanese ch23_end_override_d50febc8:
     y 1y3 "「それとも自己嫌悪で周りに八つ当たりしてるだけですか？」"
-    return
 
-label ch23_end_c3d21cd4_Japanese:
+translate Japanese ch23_end_override_c3d21cd4:
     y 1y4 "「一つ提案があります。あなた自殺を考えたことはありますか？」"
-    return
 
-label ch23_end_07331406_Japanese:
+translate Japanese ch23_end_override_07331406:
     y "「あなたの精神衛生に役立つんではないですか」"
-    return
 
-label ch23_end_930a0609_Japanese:
+translate Japanese ch23_end_override_930a0609:
     n 5u "「ユリ、ちょっと怖がらせないでよ……」"
-    return
 
-label ch23_end_f56c7ce9_Japanese:
+translate Japanese ch23_end_override_f56c7ce9:
     m 1r "「ナツキ、行くわよ」"
-    return
 
-label ch23_end_21e3a942_Japanese:
+translate Japanese ch23_end_override_21e3a942:
     m 1i "「ユリは私たちにここにいて欲しくないみたいだし」"
-    return
 
-label ch23_end_7dedcc9b_Japanese:
+translate Japanese ch23_end_override_7dedcc9b:
     y 2y3 "「ほら、難しいことではないでしょう」"
-    return
 
-label ch23_end_3556f8ae_Japanese:
+translate Japanese ch23_end_override_3556f8ae:
     y "「私は[player]さんとしばらく一緒にいたいだけなのです」"
-    return
 
-label ch23_end_24e5486c_Japanese:
+translate Japanese ch23_end_override_24e5486c:
     y "「そんなに大変なお願いでしたか？」"
-    return
 
-label ch23_end_745f0277_Japanese:
+translate Japanese ch23_end_override_745f0277:
     "ユリはモニカとナツキをドアへと進ませる。"
-    return
 
-label ch23_end_a6fb49ba_Japanese:
+translate Japanese ch23_end_override_a6fb49ba:
     m "「ねえ、[player]君……」"
-    return
 
-label ch23_end_289f2833_Japanese:
+translate Japanese ch23_end_override_289f2833:
     m "「ユリったらどうしちゃったのかしらね？」"
-    return
 
-label ch23_end_1bd53e19_Japanese:
+translate Japanese ch23_end_override_1bd53e19:
     "ユリにドアの外に追いやられながら、モニカはくすくす笑う。"
-    return
 
-label ch23_end_48472cac_Japanese:
+translate Japanese ch23_end_override_48472cac:
     y "「やっと」"
-    return
 
-label ch23_end_6f7becde_Japanese:
+translate Japanese ch23_end_override_6f7becde:
     y 2y1 "「やっと！」"
-    return
 
-label ch23_end_0ea00341_Japanese:
+translate Japanese ch23_end_override_0ea00341:
     y 2s "「この時を待ち望んでいました！」"
-    return
 
-label ch23_end_e0675fad_Japanese:
+translate Japanese ch23_end_override_e0675fad:
     y 1y6 "「[player]さん、モニカちゃんと週末を過ごす必要なんてありません！」"
-    return
 
-label ch23_end_1c42a8cc_Japanese:
+translate Japanese ch23_end_override_1c42a8cc:
     y "「あんなのなんて無視して……」"
-    return
 
-label ch23_end_8b46655e_Japanese:
+translate Japanese ch23_end_override_8b46655e:
     y 1y5 "「代わりに私の家に来てください」"
-    return
 
-label ch23_end_0c29b271_Japanese:
+translate Japanese ch23_end_override_0c29b271:
     y 3y5 "「一日中、ただ二人きりで……」"
-    return
 
-label ch23_end_def926ca_Japanese:
+translate Japanese ch23_end_override_def926ca:
     y "「素敵だと思いませんか……？」"
-    return
 
-label ch23_end_fd7f98ce_Japanese:
+translate Japanese ch23_end_override_fd7f98ce:
     y 3y1 "「アハハハ！」"
-    return
 
-label ch23_end_90d54275_Japanese:
+translate Japanese ch23_end_override_90d54275:
     y 3y4 "「ああ……本当に私ったらどうかしてしまったのでしょうか？」"
-    return
 
-label ch23_end_84558ab0_Japanese:
+translate Japanese ch23_end_override_84558ab0:
     y "「でもね」"
-    return
 
-label ch23_end_5b7c6a6a_Japanese:
+translate Japanese ch23_end_override_5b7c6a6a:
     y 1y3 "「そんなこともうどうでもいいんです」"
-    return
 
-label ch23_end_7c8fd563_Japanese:
+translate Japanese ch23_end_override_7c8fd563:
     y "「今までの人生でこんなにも良い気分になったことはありません」"
-    return
 
-label ch23_end_112ff60f_Japanese:
+translate Japanese ch23_end_override_112ff60f:
     y 1y4 "「あなたと一緒にいることは私の最高の喜びなんです」"
-    return
 
-label ch23_end_1362d6af_Japanese:
+translate Japanese ch23_end_override_1362d6af:
     y "「私はあなたに夢中なんです」"
-    return
 
-label ch23_end_5e6ebd2a_Japanese:
+translate Japanese ch23_end_override_5e6ebd2a:
     y 3y4 "「あなたと同じ空気を吸っていないと死んでしまいそう」"
-    return
 
-label ch23_end_14185dfe_Japanese:
+translate Japanese ch23_end_override_14185dfe:
     y 4a "「誰かからひどく慕われるのは気持ちが良いでしょう？」"
-    return
 
-label ch23_end_9de8a560_Japanese:
+translate Japanese ch23_end_override_9de8a560:
     y "「あなたを人生の軸にしたい人がいるのは気持ちが良いでしょう？」"
-    return
 
-label ch23_end_d81ffb78_Japanese:
+translate Japanese ch23_end_override_d81ffb78:
     y 2y6 "「でも、気持ち良くなるのなら……」"
-    return
 
-label ch23_end_e06606db_Japanese:
+translate Japanese ch23_end_override_e06606db:
     y 2y4 "「そう思うごとにどうしてますます不吉なことが起こるような予感になるんでしょう」"
-    return
 
-label ch23_end_36ddf789_Japanese:
+translate Japanese ch23_end_override_36ddf789:
     y 2y6 "「初めはそんな理由で自分を抑えようとしていたのでしょうね……」"
-    return
 
-label ch23_end_3bbfc16f_Japanese:
+translate Japanese ch23_end_override_3bbfc16f:
     y "「でも、今ではこの感情を抑えきれない」"
-    return
 
-label ch23_end_17c9d53a_Japanese:
+translate Japanese ch23_end_override_17c9d53a:
     y 3y1 "「もう何もかもどうでも良いんです、 [player]さん！」"
-    return
 
-label ch23_end_b7ae0f1d_Japanese:
+translate Japanese ch23_end_override_b7ae0f1d:
     y "「あなたに話さないといけない！」"
-    return
 
-label ch23_end_80a57d60_Japanese:
+translate Japanese ch23_end_override_80a57d60:
     y 3y4 "「私は……私はあなたを狂おしい程愛しています！」"
-    return
 
-label ch23_end_343025a1_Japanese:
+translate Japanese ch23_end_override_343025a1:
     y "「私の身体の細胞の一つ一つが……血の一滴一滴が……あなたの名前を叫んでいるんです！」"
-    return
 
-label ch23_end_715e5a8d_Japanese:
+translate Japanese ch23_end_override_715e5a8d:
     y 3y3 "「もはやどうなろうと構わない！」"
-    return
 
-label ch23_end_3927c53b_Japanese:
+translate Japanese ch23_end_override_3927c53b:
     y "「モニカちゃんが聞いていようと知ったことじゃない！」"
-    return
 
-label ch23_end_9d16ea33_Japanese:
+translate Japanese ch23_end_override_9d16ea33:
     y 3w "「[player]さん、お願い、あなたをどれだけ愛してるかを知って欲しいんです」"
-    return
 
-label ch23_end_fd055dd7_Japanese:
+translate Japanese ch23_end_override_fd055dd7:
     y 3m "「あなたの事を愛し過ぎてあなたから盗んだペンで自らを慰めてしまう程なんです」"
-    return
 
-label ch23_end_1e8884fa_Japanese:
+translate Japanese ch23_end_override_1e8884fa:
     y 3y4 "「あなたの皮膚を切り裂いてあなたの中に入り込みたいんです」"
-    return
 
-label ch23_end_e203cdfd_Japanese:
+translate Japanese ch23_end_override_e203cdfd:
     y 3y6 "「あなたの全てが欲しい」"
-    return
 
-label ch23_end_149971d3_Japanese:
+translate Japanese ch23_end_override_149971d3:
     y "「そして私もあなただけのものになる」"
-    return
 
-label ch23_end_b99df2bd_Japanese:
+translate Japanese ch23_end_override_b99df2bd:
     y "「これで完璧でしょう？」"
-    return
 
-label ch23_end_e11c83e6_Japanese:
+translate Japanese ch23_end_override_e11c83e6:
     y 3s "「[player]さん、教えてください」"
-    return
 
-label ch23_end_c162d243_Japanese:
+translate Japanese ch23_end_override_c162d243:
     y "「私の恋人になってくれるか」"
-    return
 
-label ch23_end_ce414874_Japanese:
+translate Japanese ch23_end_override_ce414874:
     y "「私の告白を受け入れてくれますか？」"
-    return
 
-label yuri_kill_1_4d4c9c12_Japanese:
+translate Japanese yuri_kill_1_4d4c9c12:
     y "「……ハハ」"
-    return
 
-label yuri_kill_1_3d40b880_Japanese:
+translate Japanese yuri_kill_1_3d40b880:
     y "「アハハハハハ！」"
-    return
 
-label yuri_kill_1_4ddc816c_Japanese:
+translate Japanese yuri_kill_1_4ddc816c:
     y 3y5 "「アハハハハハハハハハ！」"
-    return
 
-label yuri_kill_1_76475273_Japanese:
+translate Japanese yuri_kill_1_76475273:
     y 3y3 "「アハハハハハハハハハハハハハハハハハハハハハハハハ{nw}」"
-    return
 
 translate Japanese yuri_kill_loop_18a69774:
     y "「[persistent.yuri_kill] [gtext]」"
@@ -990,3 +850,9 @@ translate Japanese strings:
 
     old "No."
     new "いいえ"
+
+    old "G2pilVJccjJiQZ1poiM3iYZhj3I0IRbvj3wxomnoeOatVHUxZ2ozGKJgjXMzj2LgoOitBOM1dSDzHMatdRpmQZpidNehG29mkTxwmDJbGJxsjnVeQT9mTPSwSAOwnuWhSE50ByMpcuJoqGstJOCxqHCtdvG3HJV0TOGuwOIyoOGhwOHgm2GhlZpyISJik3J/"
+    new "5pyq5p2l44Gu6LGK44GL44Gq6Jar6aaZ44KS55+l44KJ44Gq44GE55S344Gv5L2V44GgOyDnj77lnKjjga7nhrHjgY/jgIHopIfpm5HjgarlnYfooaE7IOOBneOBl+OBpumBjuWOu+OBruOBu+OCjeiLpuOBhOW+jOWRs++8nw/"
+
+    old "Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with"
+    new "文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束して"
