@@ -40,3 +40,37 @@ jobs:
             zip -r DDLC_JP DDLC_JP
       - store_artifacts:
           path: DDLC_JP.zip
+      - persist_to_workspace:
+          root: .
+          paths:
+            - DDLC_JP.zip
+
+  release:
+    docker:
+      - image: circleci/golang:1.8
+    steps:
+      - attach_workspace:
+          at: ./DDLC_JP.zip
+      - run:
+          name: "GitHub Release に Zip をアップロード"
+          command: |
+            go get github.com/tcnksm/ghr
+            ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} \
+              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} ./DDLC_JP.zip
+
+workflows:
+  version: 2
+  main:
+    jobs:
+      - build:
+          filters:
+            tags:
+              only: /.*/
+      - release:
+          requires:
+            - build
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /.*/
