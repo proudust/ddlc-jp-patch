@@ -1,0 +1,77 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: ubuntu:18.04
+    steps:
+      - checkout:
+          path: ddlc-jp-src/
+      - run:
+          name: ツールのダウンロード
+          command: apt update && apt install wget curl jq zip unzip -y
+      - run:
+          name: Ren'Py 6.99.12.4 ダウンロード
+          command: |
+            wget -O - https://www.renpy.org/dl/6.99.12.4/renpy-6.99.12.4-sdk.tar.bz2 | tar jxf -
+            mv renpy-6.99.12.4-sdk renpy
+      - run:
+          name: DDLC v1.1.1 ダウンロード
+          command: |
+            wget -O ddlc.zip `curl -sX POST https://teamsalvato.itch.io/ddlc/file/594897 | jq -r .url`
+            unzip ddlc.zip
+            rm ddlc.zip
+            mv DDLC-1.1.1-pc ddlc
+      - run:
+          name: パッチのビルド
+          command: |
+            cp -fpr ddlc-jp-src/* ddlc/
+            ./renpy/renpy.sh ./ddlc/ lint
+            ./renpy/renpy.sh ./renpy/launcher distribute ./ddlc/ --package pc --packagedest temp
+      - run:
+          name: ビルドの成果物から必要なファイルのみを取り出して圧縮
+          command: |
+            [ -n "${CIRCLE_TAG}" ] && DIR_NAME=DDLC_JP_${CIRCLE_TAG} || DIR_NAME=DDLC_JP
+            mkdir ${DIR_NAME} ${DIR_NAME}/game artifacts
+            cp ddlc-jp-src/README_jp.html ${DIR_NAME}/
+            cp ddlc-jp-src/readme\ \(jp\ patch\).txt ${DIR_NAME}/
+            unzip temp.zip
+            cp DDLC_JP-pc/game/jp.rpa ${DIR_NAME}/game/
+            cp DDLC_JP-pc/game/none.rpa ${DIR_NAME}/game/
+            zip -r artifacts/${DIR_NAME} ${DIR_NAME}
+      - store_artifacts:
+          path: artifacts
+      - persist_to_workspace:
+          root: .
+          paths:
+            - artifacts
+
+  release:
+    docker:
+      - image: circleci/golang:1.8
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: "GitHub Release に Zip をアップロード"
+          command: |
+            go get github.com/tcnksm/ghr
+            ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} \
+              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} artifacts/DDLC_JP_${CIRCLE_TAG}.zip
+
+workflows:
+  version: 2
+  main:
+    jobs:
+      - build:
+          filters:
+            tags:
+              only: /.*/
+      - release:
+          requires:
+            - build
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /.*/
