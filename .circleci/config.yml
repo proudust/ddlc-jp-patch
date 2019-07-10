@@ -31,32 +31,33 @@ jobs:
       - run:
           name: ビルドの成果物から必要なファイルのみを取り出して圧縮
           command: |
-            mkdir DDLC_JP DDLC_JP/game
-            cp ddlc-jp-src/README_jp.html DDLC_JP/
-            cp ddlc-jp-src/readme\ \(jp\ patch\).txt DDLC_JP/
+            [ -n "${CIRCLE_TAG}" ] && DIR_NAME=DDLC_JP_${CIRCLE_TAG} || DIR_NAME=DDLC_JP
+            mkdir ${DIR_NAME} ${DIR_NAME}/game artifacts
+            cp ddlc-jp-src/README_jp.html ${DIR_NAME}/
+            cp ddlc-jp-src/readme\ \(jp\ patch\).txt ${DIR_NAME}/
             unzip temp.zip
-            cp DDLC_JP-pc/game/jp.rpa DDLC_JP/game/
-            cp DDLC_JP-pc/game/none.rpa DDLC_JP/game/
-            zip -r DDLC_JP DDLC_JP
+            cp DDLC_JP-pc/game/jp.rpa ${DIR_NAME}/game/
+            cp DDLC_JP-pc/game/none.rpa ${DIR_NAME}/game/
+            zip -r artifacts/${DIR_NAME} ${DIR_NAME}
       - store_artifacts:
-          path: DDLC_JP.zip
+          path: artifacts
       - persist_to_workspace:
           root: .
           paths:
-            - DDLC_JP.zip
+            - artifacts
 
   release:
     docker:
       - image: circleci/golang:1.8
     steps:
       - attach_workspace:
-          at: ./DDLC_JP.zip
+          at: .
       - run:
           name: "GitHub Release に Zip をアップロード"
           command: |
             go get github.com/tcnksm/ghr
             ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} \
-              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} ./DDLC_JP.zip
+              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} artifacts/DDLC_JP_${CIRCLE_TAG}.zip
 
 workflows:
   version: 2
