@@ -21,12 +21,69 @@ init -1 python:
 translate None python:
     readme_file = "README.html"
 
-label say_tl(label_name):
-    if _preferences.language != None:
-        call expression label_name + "_" + str(_preferences.language)
-    else:
-        call expression label_name
-    return
+label chapter_select:
+    python:
+        s_name = "Sayori"
+        m_name = 'Monika'
+        n_name = 'Natsuki'
+        y_name = 'Yuri'
+        try: renpy.file("../characters/sayori.chr")
+        except: open(config.basedir + "/characters/sayori.chr", "wb").write(renpy.file("sayori.chr").read())
+        try: renpy.file("../characters/monika.chr")
+        except: open(config.basedir + "/characters/monika.chr", "wb").write(renpy.file("monika.chr").read())
+        try: renpy.file("../characters/natsuki.chr")
+        except: open(config.basedir + "/characters/natsuki.chr", "wb").write(renpy.file("natsuki.chr").read())
+        try: renpy.file("../characters/yuri.chr")
+        except: open(config.basedir + "/characters/yuri.chr", "wb").write(renpy.file("yuri.chr").read())
+
+    menu:
+        "Act 1 Day 1 ~ 6":
+            $ persistent.playthrough = 0
+            $ renpy.save_persistent()
+            menu:
+                "Act 1 Day 1":
+                    jump start
+                "Act 1 Day 2":
+                    jump ch1_main
+                "Act 1 Day 3":
+                    jump ch2_main
+                "Act 1 Day 4":
+                    jump ch3_main
+                "Act 1 Day 5":
+                    jump ch4_main
+                "Act 1 Day 6":
+                    jump ch5_main
+        "Act 2 Day 1 ~ 4":
+            $ persistent.playthrough = 2
+            $ renpy.save_persistent()
+            $ delete_character("sayori")
+            menu:
+                "Act 2 Day 1":
+                    jump ch10_main
+                "Act 2 Day 2":
+                    jump ch21_main
+                "Act 2 Day 3":
+                    jump ch22_main
+                "Act 2 Day 4":
+                    jump ch23_main
+        "Act 3":
+            $ persistent.playthrough = 3
+            $ persistent.autoload = "ch30_main"
+            $ renpy.save_persistent()
+            $ delete_character("sayori")
+            $ delete_character("natsuki")
+            $ delete_character("yuri")
+            jump ch30_main
+        "Act 4":
+            $ persistent.playthrough = 4
+            $ persistent.autoload = None
+            $ renpy.save_persistent()
+            $ delete_character("monika")
+            jump ch40_main
+        "Ending":
+            $ persistent.autoload = "credits"
+            $ renpy.save_persistent()
+            jump credits
 
 translate None screen:
     screen navigation():
@@ -145,6 +202,7 @@ translate None screen:
                     vbox:
                         label ("")
                         textbutton _("Uninstall") action [Show(screen="confirm", message="Would you like to uninstall jp patch and quit?", yes_action=Function(Uninstall), no_action=Hide("confirm"))]
+                        textbutton _("Chapter Select") action Start('chapter_select')
 
         text "v[config.version]":
             xalign 1.0 yalign 1.0
