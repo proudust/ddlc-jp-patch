@@ -2,7 +2,9 @@ define build.name = "DDLC_JP"
 define config.layers = [ 'master', 'transient', 'screens', 'overlay', 'front' ]
 
 init python:
-    build.archive("jp", "all")
+    build.package(build.directory_name + "MOD", 'zip', build.name, description='DDLC Compatible Mod')
+
+    build.archive("jp", build.name)
     build.classify("game/tl/Japanese/**.jpg", "jp")
     build.classify("game/tl/Japanese/**.png", "jp")
     build.classify("game/tl/Japanese/**.txt", "jp")
@@ -11,7 +13,7 @@ init python:
     build.classify("game/gui/font/*.ttf", "jp")
     build.classify("game/gui/font/*.otf", "jp")
 
-    build.archive("none", "all")
+    build.archive("none", build.name)
     build.classify("game/tl/None/**.rpyc", "none")
     build.classify("game/images/null.png", "none")
 
@@ -20,13 +22,17 @@ init python:
     build.classify('**/.**', None)
     build.classify('**/#**', None)
     build.classify('**/thumbs.db', None)
+    build.classify('**.rpy', None)
+    build.classify('**.psd', None)
+    build.classify('**.sublime-project', None)
+    build.classify('**.sublime-workspace', None)
+    build.classify('/music/*.*', None)
+    build.classify('script-regex.txt', None)
+    build.classify('/game/10', None)
+    build.classify('/game/cache/*.*', None)
+    build.classify('**.rpa', None)
 
-    build.classify('**.rpa',None)
-    build.classify('firstrun',None)
-    build.classify('options.rpy',None)
-    build.classify('/characters/**', None)
-
-    build.documentation('*.html')
-    build.documentation('*.txt')
+    build.classify('README_jp.html', build.name)
+    build.classify('readme (jp patch).txt', build.name)
 
     build.include_old_themes = False
