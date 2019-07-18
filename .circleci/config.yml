@@ -3,13 +3,10 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: ubuntu:18.04
+      - image: circleci/python:2
     steps:
       - checkout:
           path: ddlc-jp-src/
-      - run:
-          name: ツールのダウンロード
-          command: apt update && apt install wget curl jq zip unzip -y
       - run:
           name: Ren'Py 6.99.12.4 ダウンロード
           command: |
