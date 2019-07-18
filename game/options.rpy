@@ -1,4 +1,5 @@
 define build.name = "DDLC_JP"
+define config.layers = [ 'master', 'transient', 'screens', 'overlay', 'front' ]
 
 init python:
     build.archive("jp", "all")
