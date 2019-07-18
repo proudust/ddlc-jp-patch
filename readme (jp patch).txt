@@ -62,7 +62,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205
 VLゴシック[UI](http://vlgothic.dicey.org/license.html)
 みかちゃん[UI](http://www001.upp.so-net.ne.jp/mikachan/)
 ホリデイMDJP03[サヨリ](http://mksd.jp/Holiday_Kanji.html)
-851手書き雑フォント[ユリ](http://www39.atpages.jp/yagoinienie/851fontpage.html)
+851手書き雑フォント[ユリ](http://pm85122.onamae.jp/851fontpage.html)
 草書フォント[ユリ](https://booth.pm/ja/items/318557)
 さなフォン[ナツキ](http://sana.s12.xrea.com/2_sanafon.html)
 るりいろフォント[モニカ](http://sapphirecrown.xxxxxxxx.jp/)
