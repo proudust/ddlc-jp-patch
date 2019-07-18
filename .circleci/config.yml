@@ -27,18 +27,8 @@ jobs:
           command: |
             cp -fpr ddlc-jp-src/* ddlc/
             ./renpy/renpy.sh ./ddlc/ lint
-            ./renpy/renpy.sh ./renpy/launcher distribute ./ddlc/ --package pc --packagedest temp
-      - run:
-          name: ビルドの成果物から必要なファイルのみを取り出して圧縮
-          command: |
-            [ -n "${CIRCLE_TAG}" ] && DIR_NAME=DDLC_JP_${CIRCLE_TAG} || DIR_NAME=DDLC_JP
-            mkdir ${DIR_NAME} ${DIR_NAME}/game artifacts
-            cp ddlc-jp-src/README_jp.html ${DIR_NAME}/
-            cp ddlc-jp-src/readme\ \(jp\ patch\).txt ${DIR_NAME}/
-            unzip temp.zip
-            cp DDLC_JP-pc/game/jp.rpa ${DIR_NAME}/game/
-            cp DDLC_JP-pc/game/none.rpa ${DIR_NAME}/game/
-            zip -r artifacts/${DIR_NAME} ${DIR_NAME}
+            ./renpy/renpy.sh ./renpy/launcher distribute ./ddlc/ --package MOD
+            mv DDLC_JP-dists/ artifacts/
       - store_artifacts:
           path: artifacts
       - persist_to_workspace:
@@ -53,11 +43,17 @@ jobs:
       - attach_workspace:
           at: .
       - run:
+          name: "フォルダ名を修正"
+          command: |
+            unzip artifacts/DDLC_JP-MOD.zip
+            mv DDLC_JP-MOD DDLC_JP_${CIRCLE_TAG}
+            zip -r DDLC_JP_${CIRCLE_TAG} DDLC_JP_${CIRCLE_TAG}
+      - run:
           name: "GitHub Release に Zip をアップロード"
           command: |
             go get github.com/tcnksm/ghr
             ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} \
-              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} artifacts/DDLC_JP_${CIRCLE_TAG}.zip
+              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} DDLC_JP_${CIRCLE_TAG}.zip
 
 workflows:
   version: 2
