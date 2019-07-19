@@ -317,14 +317,14 @@
     old "Position copied to clipboard."
     new "クリップボードに座標をコピーしました"
 
-    old "? "
-    new "? "
+    old "✔ "
+    new "✔ "
 
-    #old "? "
-    #new "? "
+    old "✘ "
+    new "✘ "
 
     old "\n{color=#cfc}? predicted image (good){/color}\n{color=#fcc}? unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}? 予測済みの画像 (good){/color}\n{color=#fcc}? 未予測の画像 (bad){/color}\n{color=#fff}ドラッグすると動かせます。{/color}"
+    new "\n{color=#cfc}✔ 予測済みの画像 (good){/color}\n{color=#fcc}✘ 未予測の画像 (bad){/color}\n{color=#fff}ドラッグすると動かせます。{/color}"
 
     old "{size_mb:,.1f} MB in {count} textures."
     new ""
