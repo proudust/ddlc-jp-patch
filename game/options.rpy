@@ -34,5 +34,6 @@ init python:
 
     build.classify('README_jp.html', build.name)
     build.classify('readme (jp patch).txt', build.name)
+    build.classify('ddmm-mod.json', build.name)
 
     build.include_old_themes = False
