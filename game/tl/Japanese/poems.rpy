@@ -782,9 +782,6 @@ And he, on the other side, was looking in."""
 そして彼が、向こう側から、中を覗いていた。
 """
 
-    old "Hole in Wall"
-    new "壁の穴"
-
     old """\
 But he wasn't looking at me.
 Confused, I frantically glance at my surroundings.
@@ -861,9 +858,6 @@ Load Me
 意味のない\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 私をロードして
 　"""
-
-    old "Save Me"
-    new "私をセーブして"
 
     old """\
 The colors, they won't
@@ -947,12 +941,12 @@ I look at her eyes and find no end to her gaze.
 
 The Lady who Knows Everything knows what I am thinking.
 Before I can speak, she responds in a hollow voice.
-"I have found every answer, all of which amount to nothing.
+\"I have found every answer, all of which amount to nothing.
 There is no meaning.
 There is no purpose.
 And we seek only the impossible.
 I am not your legend.
-Your legend does not exist."
+Your legend does not exist.\"
 
 And with a breath, she blows me back afloat, and I pick up a gust of wind."""
     new """\
