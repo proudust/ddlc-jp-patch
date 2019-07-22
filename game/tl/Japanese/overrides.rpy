@@ -39,3 +39,13 @@ translate Japanese style pref_label_text:
 
 translate Japanese style radio_button_text:
     font "gui/font/Mikachan.ttf"
+
+# エンドクレジット
+translate Japanese style credits_header:
+    font "gui/font/VL-Gothic-Regular.ttf"
+
+translate Japanese style credits_text:
+    font "gui/font/Mikachan.ttf"
+
+style monika_credits_text_Japanese is monika_credits_text:
+    font "gui/font/Ruriiro_font.ttf"

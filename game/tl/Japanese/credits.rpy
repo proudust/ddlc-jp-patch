@@ -1,12 +1,3 @@
-translate Japanese style credits_header:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style credits_text:
-    font "gui/font/Mikachan.ttf"
-
-style monika_credits_text_Japanese is monika_credits_text:
-    font "gui/font/Ruriiro_font.ttf"
-
 translate Japanese strings:
     old "Can you hear me…?"
     new "聞こえる……？"
