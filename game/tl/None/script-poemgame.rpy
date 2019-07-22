@@ -1,16 +1,3 @@
-translate None python:
-    full_wordlist = []
-    with renpy.file('poemwords.txt') as wordfile:
-        for line in wordfile:
-
-            line = line.strip()
-
-            if line == '' or line[0] == '#': continue
-
-
-            x = line.split(',')
-            full_wordlist.append(PoemWord(x[0], float(x[1]), float(x[2]), float(x[3])))
-
 translate None label:
     label poem(transition=True):
         stop music fadeout 2.0

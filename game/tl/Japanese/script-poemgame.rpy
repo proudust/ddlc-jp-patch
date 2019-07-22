@@ -1,240 +1,687 @@
-translate Japanese python:
-    full_wordlist = []
-
-    #Sayori's winning words
-    full_wordlist.append(PoemWord("幸福",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("悲哀",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("死",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("悲劇",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("孤独",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("愛",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("冒険",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("甘い",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("興奮",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("花火",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("ロマンス",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("涙",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("鬱病",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("ハート",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("結婚",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("熱情",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("子供の頃",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("楽しい",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("色",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("希望",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("友達",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("家族",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("パーティ",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("休暇",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("怠惰",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("白昼夢",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("苦痛",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("休日",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("ベッド",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("羽根",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("羞恥",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("恐怖",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("暖かい",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("花",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("元気づける",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("ダンス",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("歌う",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("泣く",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("笑う",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("闇",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("晴れ",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("雨雲",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("平静な",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("愚か",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("飛ぶ",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("素晴らしい",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("報われない",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("バラ",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("一緒に",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("約束",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("魅力",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("美しさ",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("陽気",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("笑顔",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("壊れた",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("貴重な",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("祈り",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("不器用",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("許し",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("自然",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("海",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("眩しさ",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("特別",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("音楽",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("幸運",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("不幸",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("熱心",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("温和な",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("喜び",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("日没",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("ホタル",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("虹",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("傷付ける",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("遊び",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("きらめき",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("傷跡",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("空っぽ",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("驚くほど",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("悲嘆",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("抱擁",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("並はずれた",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("最高",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("敗北",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("絶望",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("悲惨",float(3),float(1),float(2)))
-    full_wordlist.append(PoemWord("宝物",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("至福",float(3),float(2),float(1)))
-    full_wordlist.append(PoemWord("記憶",float(3),float(2),float(1)))
-
-    #Natsuki's words
-    full_wordlist.append(PoemWord("愛らしい",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ふわふわ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ピュア",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("キャンディ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("買い物",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("子犬",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("猫",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("雲",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("口紅",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("パフェ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("イチゴ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ピンク",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("チョコレート",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("鼓動",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("キス",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("メロディ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("リボン",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ぴょんぴょん",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ドキドキ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("かわいい",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("スカート",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ほお",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("Eメール",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ねばねば",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("いきいき",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ぴかぴか",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("かじる",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ファンタジー",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("砂糖",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("くすくす",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("マシュマロ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ホップ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("スキップ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("平和",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("くるくる",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("うずまく",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("飴ん棒",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("パッと",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("あわ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ひそひそ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("夏",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("滝",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("水着",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("バニラ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ヘッドホン",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ゲーム",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ソックス",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("髪",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("運動場",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("パジャマ",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("毛布",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("ミルク",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("すねる",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("怒り",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("パパ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("バレンタイン",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ネズミ",float(1),float(3),float(2)))
-    full_wordlist.append(PoemWord("口笛",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ポチッと",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("うさぎ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("アニメ",float(2),float(3),float(1)))
-    full_wordlist.append(PoemWord("ジャンプ",float(2),float(3),float(1)))
-
-    #Yuri's words
-    full_wordlist.append(PoemWord("決意",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("自殺",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("空想",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("隠し事",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("生命力",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("存在",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("燦然と",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("真紅",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("旋風",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("残像",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("眩暈",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("取り乱した",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("本質",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("周囲",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("満天の星",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("混乱",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("汚染",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("知的",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("分析",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("エントロピー",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("活発",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("異様",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("不一致",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("憤怒",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("天賦の",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("虐殺",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("哲学",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("気まぐれ",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("執着",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("霊気",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("不安定",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("地獄",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("無能",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("運命",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("確実",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("苦悶",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("相違",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("制御不能",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("極端",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("逃避",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("夢",float(2),float(2),float(3)))
-    full_wordlist.append(PoemWord("災害",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("鮮明",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("震動",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("疑問",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("膿む",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("審判",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("檻",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("爆発",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("快楽",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("欲望",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("感覚",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("絶頂",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("電気",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("勘当",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("軽蔑",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("無限",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("永遠",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("時間",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("宇宙",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("果てしない",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("雨粒",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("切望",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("抑えられない",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("景色",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("肖像",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("旅行",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("貧弱",float(1),float(1),float(3)))
-    full_wordlist.append(PoemWord("心配",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("恐ろしい",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("ホラー",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("憂鬱",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("洞察",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("償う",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("呼吸",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("捕虜",float(2),float(1),float(3)))
-    full_wordlist.append(PoemWord("欲求",float(1),float(2),float(3)))
-    full_wordlist.append(PoemWord("墓地",float(2),float(1),float(3)))
-
 translate Japanese strings:
+    old "happiness"
+    new "幸福"
+
+    old "sadness"
+    new "悲哀"
+
+    old "death"
+    new "死"
+
+    old "tragedy"
+    new "悲劇"
+
+    old "alone"
+    new "孤独"
+
+    old "love"
+    new "愛"
+
+    old "adventure"
+    new "冒険"
+
+    old "sweet"
+    new "甘い"
+
+    old "excitement"
+    new "興奮"
+
+    old "fireworks"
+    new "花火"
+
+    old "romance"
+    new "ロマンス"
+
+    old "tears"
+    new "涙"
+
+    old "depression"
+    new "鬱病"
+
+    old "heart"
+    new "ハート"
+
+    old "marriage"
+    new "結婚"
+
+    old "passion"
+    new "熱情"
+
+    old "childhood"
+    new "子供の頃"
+
+    old "fun"
+    new "楽しい"
+
+    old "color"
+    new "色"
+
+    old "hope"
+    new "希望"
+
+    old "friends"
+    new "友達"
+
+    old "family"
+    new "家族"
+
+    old "party"
+    new "パーティ"
+
+    old "vacation"
+    new "休暇"
+
+    old "lazy"
+    new "怠惰"
+
+    old "daydream"
+    new "白昼夢"
+
+    old "pain"
+    new "苦痛"
+
+    old "holiday"
+    new "休日"
+
+    old "bed"
+    new "ベッド"
+
+    old "feather"
+    new "羽根"
+
+    old "shame"
+    new "羞恥"
+
+    old "fear"
+    new "恐怖"
+
+    old "warm"
+    new "暖かい"
+
+    old "flower"
+    new "花"
+
+    old "comfort"
+    new "元気づける"
+
+    old "dance"
+    new "ダンス"
+
+    old "sing"
+    new "歌う"
+
+    old "cry"
+    new "泣く"
+
+    old "laugh"
+    new "笑う"
+
+    old "dark"
+    new "闇"
+
+    old "sunny"
+    new "晴れ"
+
+    old "raincloud"
+    new "雨雲"
+
+    old "calm"
+    new "平静な"
+
+    old "silly"
+    new "愚か"
+
+    old "flying"
+    new "飛ぶ"
+
+    old "wonderful"
+    new "素晴らしい"
+
+    old "unrequited"
+    new "報われない"
+
+    old "rose"
+    new "バラ"
+
+    old "together"
+    new "一緒に"
+
+    old "promise"
+    new "約束"
+
+    old "charm"
+    new "魅力"
+
+    old "beauty"
+    new "美しさ"
+
+    old "cheer"
+    new "陽気"
+
+    old "smile"
+    new "笑顔"
+
+    old "broken"
+    new "壊れた"
+
+    old "precious"
+    new "貴重な"
+
+    old "prayer"
+    new "祈り"
+
+    old "clumsy"
+    new "不器用"
+
+    old "forgive"
+    new "許し"
+
+    old "nature"
+    new "自然"
+
+    old "ocean"
+    new "海"
+
+    old "dazzle"
+    new "眩しさ"
+
+    old "special"
+    new "特別"
+
+    old "music"
+    new "音楽"
+
+    old "lucky"
+    new "幸運"
+
+    old "misfortune"
+    new "不幸"
+
+    old "loud"
+    new "熱心"
+
+    old "peaceful"
+    new "温和な"
+
+    old "joy"
+    new "喜び"
+
+    old "sunset"
+    new "日没"
+
+    old "fireflies"
+    new "ホタル"
+
+    old "rainbow"
+    new "虹"
+
+    old "hurt"
+    new "傷付ける"
+
+    old "play"
+    new "遊び"
+
+    old "sparkle"
+    new "きらめき"
+
+    old "scars"
+    new "傷跡"
+
+    old "empty"
+    new "空っぽ"
+
+    old "amazing"
+    new "驚くほど"
+
+    old "grief"
+    new "悲嘆"
+
+    old "embrace"
+    new "抱擁"
+
+    old "extraordinary"
+    new "並はずれた"
+
+    old "awesome"
+    new "最高"
+
+    old "defeat"
+    new "敗北"
+
+    old "hopeless"
+    new "絶望"
+
+    old "misery"
+    new "悲惨"
+
+    old "treasure"
+    new "宝物"
+
+    old "bliss"
+    new "至福"
+
+    old "memories"
+    new "記憶"
+
+    old "cute"
+    new "愛らしい"
+
+    old "fluffy"
+    new "ふわふわ"
+
+    old "pure"
+    new "ピュア"
+
+    old "candy"
+    new "キャンディ"
+
+    old "shopping"
+    new "買い物"
+
+    old "puppy"
+    new "子犬"
+
+    old "kitty"
+    new "猫"
+
+    old "clouds"
+    new "雲"
+
+    old "lipstick"
+    new "口紅"
+
+    old "parfait"
+    new "パフェ"
+
+    old "strawberry"
+    new "イチゴ"
+
+    old "pink"
+    new "ピンク"
+
+    old "chocolate"
+    new "チョコレート"
+
+    old "heartbeat"
+    new "鼓動"
+
+    old "kiss"
+    new "キス"
+
+    old "melody"
+    new "メロディ"
+
+    old "ribbon"
+    new "リボン"
+
+    old "jumpy"
+    new "ぴょんぴょん"
+
+    old "doki-doki"
+    new "ドキドキ"
+
+    old "kawaii"
+    new "かわいい"
+
+    old "skirt"
+    new "スカート"
+
+    old "cheeks"
+    new "ほお"
+
+    old "email"
+    new "Eメール"
+
+    old "sticky"
+    new "ねばねば"
+
+    old "bouncy"
+    new "いきいき"
+
+    old "shiny"
+    new "ぴかぴか"
+
+    old "nibble"
+    new "かじる"
+
+    old "fantasy"
+    new "ファンタジー"
+
+    old "sugar"
+    new "砂糖"
+
+    old "giggle"
+    new "くすくす"
+
+    old "marshmallow"
+    new "マシュマロ"
+
+    old "hop"
+    new "ホップ"
+
+    old "skipping"
+    new "スキップ"
+
+    old "peace"
+    new "平和"
+
+    old "spinning"
+    new "くるくる"
+
+    old "twirl"
+    new "うずまく"
+
+    old "lollipop"
+    new "飴ん棒"
+
+    old "poof"
+    new "パッと"
+
+    old "bubbles"
+    new "あわ"
+
+    old "whisper"
+    new "ひそひそ"
+
+    old "summer"
+    new "夏"
+
+    old "waterfall"
+    new "滝"
+
+    old "swimsuit"
+    new "水着"
+
+    old "vanilla"
+    new "バニラ"
+
+    old "headphones"
+    new "ヘッドホン"
+
+    old "games"
+    new "ゲーム"
+
+    old "socks"
+    new "ソックス"
+
+    old "hair"
+    new "髪"
+
+    old "playground"
+    new "運動場"
+
+    old "nightgown"
+    new "パジャマ"
+
+    old "blanket"
+    new "毛布"
+
+    old "milk"
+    new "ミルク"
+
+    old "pout"
+    new "すねる"
+
+    old "anger"
+    new "怒り"
+
+    old "papa"
+    new "パパ"
+
+    old "valentine"
+    new "バレンタイン"
+
+    old "mouse"
+    new "ネズミ"
+
+    old "whistle"
+    new "口笛"
+
+    old "boop"
+    new "ポチッと"
+
+    old "bunny"
+    new "うさぎ"
+
+    old "anime"
+    new "アニメ"
+
+    old "jump"
+    new "ジャンプ"
+
+    old "determination"
+    new "決意"
+
+    old "suicide"
+    new "自殺"
+
+    old "imagination"
+    new "空想"
+
+    old "secretive"
+    new "隠し事"
+
+    old "vitality"
+    new "生命力"
+
+    old "existence"
+    new "存在"
+
+    old "effulgent"
+    new "燦然と"
+
+    old "crimson"
+    new "真紅"
+
+    old "whirlwind"
+    new "旋風"
+
+    old "afterimage"
+    new "残像"
+
+    old "vertigo"
+    new "眩暈"
+
+    old "disoriented"
+    new "取り乱した"
+
+    old "essence"
+    new "本質"
+
+    old "ambient"
+    new "周囲"
+
+    old "starscape"
+    new "満天の星"
+
+    old "disarray"
+    new "混乱"
+
+    old "contamination"
+    new "汚染"
+
+    old "intellectual"
+    new "知的"
+
+    old "analysis"
+    new "分析"
+
+    old "entropy"
+    new "エントロピー"
+
+    old "vivacious"
+    new "活発"
+
+    old "uncanny"
+    new "異様"
+
+    old "incongruent"
+    new "不一致"
+
+    old "wrath"
+    new "憤怒"
+
+    old "heavensent"
+    new "天賦の"
+
+    old "massacre"
+    new "虐殺"
+
+    old "philosophy"
+    new "哲学"
+
+    old "fickle"
+    new "気まぐれ"
+
+    old "tenacious"
+    new "執着"
+
+    old "aura"
+    new "霊気"
+
+    old "unstable"
+    new "不安定"
+
+    old "inferno"
+    new "地獄"
+
+    old "incapable"
+    new "無能"
+
+    old "destiny"
+    new "運命"
+
+    old "infallible"
+    new "確実"
+
+    old "agonizing"
+    new "苦悶"
+
+    old "variance"
+    new "相違"
+
+    old "uncontrollable"
+    new "制御不能"
+
+    old "extreme"
+    new "極端"
+
+    old "flee"
+    new "逃避"
+
+    old "dream"
+    new "夢"
+
+    old "disaster"
+    new "災害"
+
+    old "vivid"
+    new "鮮明"
+
+    old "vibrant"
+    new "震動"
+
+    old "question"
+    new "疑問"
+
+    old "fester"
+    new "膿む"
+
+    old "judgment"
+    new "審判"
+
+    old "cage"
+    new "檻"
+
+    old "explode"
+    new "爆発"
+
+    old "pleasure"
+    new "快楽"
+
+    old "lust"
+    new "欲望"
+
+    old "sensation"
+    new "感覚"
+
+    old "climax"
+    new "絶頂"
+
+    old "electricity"
+    new "電気"
+
+    old "disown"
+    new "勘当"
+
+    old "despise"
+    new "軽蔑"
+
+    old "infinite"
+    new "無限"
+
+    old "eternity"
+    new "永遠"
+
+    old "time"
+    new "時間"
+
+    old "universe"
+    new "宇宙"
+
+    old "unending"
+    new "果てしない"
+
+    old "raindrops"
+    new "雨粒"
+
+    old "covet"
+    new "切望"
+
+    old "unrestrained"
+    new "抑えられない"
+
+    old "landscape"
+    new "景色"
+
+    old "portrait"
+    new "肖像"
+
+    old "journey"
+    new "旅行"
+
+    old "meager"
+    new "貧弱"
+
+    old "anxiety"
+    new "心配"
+
+    old "frightening"
+    new "恐ろしい"
+
+    old "horror"
+    new "ホラー"
+
+    old "melancholy"
+    new "憂鬱"
+
+    old "insight"
+    new "洞察"
+
+    old "atone"
+    new "償う"
+
+    old "breathe"
+    new "呼吸"
+
+    old "captive"
+    new "捕虜"
+
+    old "desire"
+    new "欲求"
+
+    old "graveyard"
+    new "墓地"
+
     old "It's time to write a poem!\n\nPick words you think your favorite club member\nwill like. Something good might happen with\nwhoever likes your poem the most!"
     new "詩を書こう！\n\nあなたのお気に入りの部員が\n好きそうな単語を選んでね\nあなたの詩がいちばん好きだった人とは、\n何か良いことが起こるかも！"
