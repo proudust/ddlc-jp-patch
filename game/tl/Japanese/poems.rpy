@@ -583,30 +583,3 @@ SINE、COSINE、TANGENT
 やっぱり、
 楽しい時間に限りがあるというのは、例外もあるのね。"""
     )
-
-
-translate Japanese style yuri_text:
-    font "gui/font/851tegaki_zatsu_normal.ttf"
-    size 28
-
-translate Japanese style yuri_text_2:
-    font "gui/font/gatasosyo.ttf"
-    size 36
-
-translate Japanese style yuri_text_3:
-    font "gui/font/gatasosyo.ttf"
-    size 27
-    kerning -12
-    language "western"
-
-translate Japanese style natsuki_text:
-    font "gui/font/SNsanafonP.ttf"
-    size 30
-
-translate Japanese style sayori_text:
-    font "gui/font/HolidayMDJP.otf"
-    size 30
-
-translate Japanese style monika_text:
-    font "gui/font/Ruriiro_font.ttf"
-    size 30
