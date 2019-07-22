@@ -9,6 +9,7 @@ log.txt
 errors.txt
 traceback.txt
 persistent
+screenshot*.png
 
 # Doki Doki Literature Club
 characters/
