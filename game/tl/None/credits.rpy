@@ -138,7 +138,7 @@ image lyrics_translate:
     5.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     8.0
-    Text("The ink flows down into a dark puddle{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("The ink flows down into a dark puddle{#translate2}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5

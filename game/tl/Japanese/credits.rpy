@@ -23,6 +23,39 @@ translate Japanese strings:
     old "So…yeah!"
     new "だから……ね！"
 
+    old "Every day,{#translate}"
+    new "毎日"
+
+    old "I imagine a future where{#translate}"
+    new "あなたと一緒にいられる"
+
+    old "I can be with you{#translate}"
+    new "未来を思う"
+
+    old "In my hand{#translate}"
+    new "私の手には"
+
+    old " is a pen that will write a poem{#translate}"
+    new "あなたと私の"
+
+    old "of me and you{#translate}"
+    new "詩を書くペン"
+
+    old "The ink flows down into a dark puddle{#translate}"
+    new "インクが流れ落ちて暗い水たまりになる"
+
+    old " Just move your hand -- write the way into his heart!{#translate}"
+    new "ただ手を動かして――彼の心へ書き進もう！"
+
+    old "But in this world of infinite choices{#translate}"
+    new "でも無限の選択肢が連なるこの世界で"
+
+    old " What will it take{#translate}"
+    new "何をすれば"
+
+    old " just to find that special day?{#translate}"
+    new "特別な日は見つかるの？"
+
     old "Have I found everybody a fun assignment to do today?{#translate}"
     new "今日はみんなが楽しめる課題を見つけられたかな？"
 
@@ -47,7 +80,7 @@ translate Japanese strings:
     old "Is it love if I take you, or is it love if I set you free?{#translate}"
     new "あなたを捕まえること、自由にすること、どちらが愛なの？"
 
-    old "The ink flows down into a dark puddle{#translate}"
+    old "The ink flows down into a dark puddle{#translate2}"
     new "インクが流れ落ちて暗い水たまりになる"
 
     old "How can I write love into reality?{#translate}"
@@ -88,68 +121,3 @@ translate Japanese strings:
 
     old "Error: Script file is missing or corrupt.\nPlease reinstall the game."
     new "エラー: スクリプトファイルが見つからないか破損しています。\nゲームを再インストールして下さい。"
-
-image mcredits_1a_Japanese:
-    ypos credits_ypos_tl
-    xoffset -340
-    "black"
-    10.33
-    Text("毎日", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 13.0, ramplen=4, alpha=False)
-image mcredits_1b_Japanese:
-    ypos credits_ypos_tl
-    xoffset -55
-    "black"
-    11.75
-    Text("あなたと一緒にいられる", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 5.0, ramplen=4, alpha=False)
-image mcredits_1c_Japanese:
-    ypos credits_ypos_tl
-    xoffset 290
-    "black"
-    13.76
-    Text("未来を思う", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 13.0, ramplen=4, alpha=False)
-image mcredits_2a_Japanese:
-    ypos credits_ypos_tl + 50
-    xoffset -270
-    "black"
-    19.45
-    Text("私の手には", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 8.0, ramplen=4, alpha=False)
-image mcredits_2b_Japanese:
-    ypos credits_ypos_tl + 50
-    xoffset -20
-    "black"
-    20.9
-    Text("あなたと私の", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 12.0, ramplen=4, alpha=False)
-image mcredits_2c_Japanese:
-    ypos credits_ypos_tl + 50
-    xoffset 255
-    "black"
-    23.27
-    Text("詩を書くペン", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 9.0, ramplen=4, alpha=False)
-image mcredits_3_Japanese:
-    ypos credits_ypos_tl + 100
-    "black"
-    28.35
-    Text("インクが流れ落ちて暗い水たまりになる", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.5, ramplen=4, alpha=False)
-image mcredits_4_Japanese:
-    ypos credits_ypos_tl + 150
-    xoffset -5
-    "black"
-    32.9
-    Text("ただ手を動かして――彼の心へ書き進もう！", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 5.0, ramplen=4, alpha=False)
-image mcredits_5_Japanese:
-    ypos credits_ypos_tl + 200
-    "black"
-    37.5
-    Text("でも無限の選択肢が連なるこの世界で", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.5, ramplen=4, alpha=False)
-image mcredits_6a_Japanese:
-    ypos credits_ypos_tl + 250
-    xoffset -235
-    "black"
-    42.0
-    Text("何をすれば", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 9.0, ramplen=4, alpha=False)
-image mcredits_6b_Japanese:
-    ypos credits_ypos_tl + 250
-    xoffset 115
-    "black"
-    43.47
-    Text("特別な日は見つかるの？", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.0, ramplen=4, alpha=False)

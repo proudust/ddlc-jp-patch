@@ -85,3 +85,69 @@ translate Japanese python:
     n = DynamicCharacter('n_name', image='natsuki', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     y = DynamicCharacter('y_name', image='yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     ny = Character('Nat & Yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
+
+# エンディング
+image mcredits_1a_Japanese:
+    ypos credits_ypos_tl
+    xoffset -340
+    "black"
+    10.33
+    Text("Every day,{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 13.0, ramplen=4, alpha=False)
+image mcredits_1b_Japanese:
+    ypos credits_ypos_tl
+    xoffset -55
+    "black"
+    11.75
+    Text("I imagine a future where{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 5.0, ramplen=4, alpha=False)
+image mcredits_1c_Japanese:
+    ypos credits_ypos_tl
+    xoffset 290
+    "black"
+    13.76
+    Text("I can be with you{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 13.0, ramplen=4, alpha=False)
+image mcredits_2a_Japanese:
+    ypos credits_ypos_tl + 50
+    xoffset -270
+    "black"
+    19.45
+    Text("In my hand{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 8.0, ramplen=4, alpha=False)
+image mcredits_2b_Japanese:
+    ypos credits_ypos_tl + 50
+    xoffset -20
+    "black"
+    20.9
+    Text(" is a pen that will write a poem{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 12.0, ramplen=4, alpha=False)
+image mcredits_2c_Japanese:
+    ypos credits_ypos_tl + 50
+    xoffset 255
+    "black"
+    23.27
+    Text("of me and you{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 9.0, ramplen=4, alpha=False)
+image mcredits_3_Japanese:
+    ypos credits_ypos_tl + 100
+    "black"
+    28.35
+    Text("The ink flows down into a dark puddle{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.5, ramplen=4, alpha=False)
+image mcredits_4_Japanese:
+    ypos credits_ypos_tl + 150
+    xoffset -5
+    "black"
+    32.9
+    Text(" Just move your hand -- write the way into his heart!{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 5.0, ramplen=4, alpha=False)
+image mcredits_5_Japanese:
+    ypos credits_ypos_tl + 200
+    "black"
+    37.5
+    Text("But in this world of infinite choices{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.5, ramplen=4, alpha=False)
+image mcredits_6a_Japanese:
+    ypos credits_ypos_tl + 250
+    xoffset -235
+    "black"
+    42.0
+    Text(" What will it take{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 9.0, ramplen=4, alpha=False)
+image mcredits_6b_Japanese:
+    ypos credits_ypos_tl + 250
+    xoffset 115
+    "black"
+    43.47
+    Text(" just to find that special day?{#translate}", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.0, ramplen=4, alpha=False)
