@@ -23,6 +23,48 @@ translate Japanese strings:
     old "So…yeah!"
     new "だから……ね！"
 
+    old "Have I found everybody a fun assignment to do today?{#translate}"
+    new "今日はみんなが楽しめる課題を見つけられたかな？"
+
+    old "When you're here, everything that we do is fun for them anyway{#translate}"
+    new "あなたがいると、みんなは何をしても楽しむけれど"
+
+    old "When I can't even read my own feelings{#translate}"
+    new "自分の気持ちすら読めない時に"
+
+    old "What good are words when a smile says it all?{#translate}"
+    new "笑顔で全て語れるなら、言葉は何の役に立つの？"
+
+    old "And if this world won't write me an ending{#translate}"
+    new "そして私にエンディングを書いてくれないこの世界で"
+
+    old "What will it take just for me to have it all?{#translate}"
+    new "何をすれば全てを手に入れられるの？"
+
+    old "Does my pen only write bitter words for those who are dear to me?{#translate}"
+    new "私のペンは大切な人たちへ辛辣な言葉しか書かないの？"
+
+    old "Is it love if I take you, or is it love if I set you free?{#translate}"
+    new "あなたを捕まえること、自由にすること、どちらが愛なの？"
+
+    old "The ink flows down into a dark puddle{#translate}"
+    new "インクが流れ落ちて暗い水たまりになる"
+
+    old "How can I write love into reality?{#translate}"
+    new "どうすれば愛を現実に書けるの？"
+
+    old "If I can't hear the sound of your heartbeat{#translate}"
+    new "鼓動が聞こえないのなら"
+
+    old "What do you call love in your reality?{#translate}"
+    new "あなたの現実では愛を何て呼ぶの？"
+
+    old "And in your reality, if I don't know how to love you{#translate}"
+    new "あなたの現実で、私の愛を表現できないのなら"
+
+    old "I'll leave you be{#translate}"
+    new "私はもう、何もしない"
+
     old "Concept & Game Design"
     new "構想 & デザイン"
 
@@ -111,64 +153,3 @@ image mcredits_6b_Japanese:
     "black"
     43.47
     Text("特別な日は見つかるの？", style="monika_credits_text_Japanese") with ImageDissolve("images/menu/wipeleft.png", 6.0, ramplen=4, alpha=False)
-
-image lyrics_Japanese:
-    ypos 710
-    xoffset -25
-    "null.png"
-    9.5
-    Text("今日はみんなが楽しめる課題を見つけられたかな？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    5.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    3.5
-    Text("あなたがいると、みんなは何をしても楽しむけれど",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    5.5
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    3.5
-    Text("自分の気持ちすら読めない時に",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    4.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("笑顔で全て語れるなら、言葉は何の役に立つの？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    4.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("そして私にエンディングを書いてくれないこの世界で",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    4.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("何をすれば全てを手に入れられるの？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    4.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    19.5
-    Text("私のペンは大切な人たちへ辛辣な言葉しか書かないの？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    5.5
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    4.0
-    Text("あなたを捕まえること、自由にすること、どちらが愛なの？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    5.5
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    8.0
-    Text("インクが流れ落ちて暗い水たまりになる",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    4.5
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("どうすれば愛を現実に書けるの？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    3.5
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("鼓動が聞こえないのなら",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    4.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("あなたの現実では愛を何て呼ぶの？",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    3.5
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    0.5
-    Text("あなたの現実で、私の愛を表現できないのなら",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    5.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)
-    3.5
-    Text("私はもう、何もしない",style="subtitles") with Dissolve( 0.5 ,alpha= True)
-    2.0
-    "null.png" with Dissolve( 0.5 ,alpha= True)

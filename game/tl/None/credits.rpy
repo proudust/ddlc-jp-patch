@@ -40,64 +40,125 @@ image subtitles:
     1.8
     "null.png" with Dissolve( 0.5 ,alpha= True)
 
-image lyrics:
+image lyrics_original:
     ypos 680
     xoffset -25
     "null.png"
     9.5
-    Text("Have I found everybody a fun assignment to do today?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("Have I found everybody a fun assignment to do today?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     5.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     3.5
-    Text("When you're here, everything that we do is fun for them anyway",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("When you're here, everything that we do is fun for them anyway{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     5.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     3.5
-    Text("When I can't even read my own feelings",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("When I can't even read my own feelings{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("What good are words when a smile says it all?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("What good are words when a smile says it all?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("And if this world won't write me an ending",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("And if this world won't write me an ending{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("What will it take just for me to have it all?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("What will it take just for me to have it all?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     19.5
-    Text("Does my pen only write bitter words for those who are dear to me?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("Does my pen only write bitter words for those who are dear to me?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     5.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     4.0
-    Text("Is it love if I take you, or is it love if I set you free?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("Is it love if I take you, or is it love if I set you free?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     5.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     8.0
-    Text("The ink flows down into a dark puddle",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("The ink flows down into a dark puddle{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("How can I write love into reality?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("How can I write love into reality?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     3.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("If I can't hear the sound of your heartbeat",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("If I can't hear the sound of your heartbeat{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     4.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("What do you call love in your reality?",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("What do you call love in your reality?{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     3.5
     "null.png" with Dissolve( 0.5 ,alpha= True)
     0.5
-    Text("And in your reality, if I don't know how to love you",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("And in your reality, if I don't know how to love you{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     5.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
     3.5
-    Text("I'll leave you be",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    Text("I'll leave you be{#original}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    2.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+
+image lyrics_translate:
+    ypos 710
+    xoffset -25
+    "null.png"
+    9.5
+    Text("Have I found everybody a fun assignment to do today?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    5.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    3.5
+    Text("When you're here, everything that we do is fun for them anyway{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    5.5
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    3.5
+    Text("When I can't even read my own feelings{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    4.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("What good are words when a smile says it all?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    4.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("And if this world won't write me an ending{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    4.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("What will it take just for me to have it all?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    4.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    19.5
+    Text("Does my pen only write bitter words for those who are dear to me?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    5.5
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    4.0
+    Text("Is it love if I take you, or is it love if I set you free?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    5.5
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    8.0
+    Text("The ink flows down into a dark puddle{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    4.5
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("How can I write love into reality?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    3.5
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("If I can't hear the sound of your heartbeat{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    4.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("What do you call love in your reality?{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    3.5
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    0.5
+    Text("And in your reality, if I don't know how to love you{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
+    5.0
+    "null.png" with Dissolve( 0.5 ,alpha= True)
+    3.5
+    Text("I'll leave you be{#translate}",style="subtitles") with Dissolve( 0.5 ,alpha= True)
     2.0
     "null.png" with Dissolve( 0.5 ,alpha= True)
 
@@ -246,9 +307,9 @@ translate None label:
         pause 0.88
         show credits_logo
         if renpy.loadable("../DDLC Fan Pack/Doki Doki Literature Club OST/Disc 2 Song Info.pdf"):
-            show lyrics zorder 100
+            show lyrics_original zorder 100
             if _preferences.language != None:
-                show expression "lyrics_" + str(_preferences.language) zorder 101
+                show lyrics_translate zorder 101
         pause 9.12
         $ lockedtext = "" if persistent.clear[imagenum] else "_locked"
         $ if persistent.clearall: lockedtext = "_clearall"
