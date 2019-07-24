@@ -306,10 +306,9 @@ translate None label:
         $ starttime = datetime.datetime.now()
         pause 0.88
         show credits_logo
-        if renpy.loadable("../DDLC Fan Pack/Doki Doki Literature Club OST/Disc 2 Song Info.pdf"):
-            show lyrics_original zorder 100
-            if _preferences.language != None:
-                show lyrics_translate zorder 101
+        show lyrics_original zorder 100
+        if _preferences.language != None:
+            show lyrics_translate zorder 101
         pause 9.12
         $ lockedtext = "" if persistent.clear[imagenum] else "_locked"
         $ if persistent.clearall: lockedtext = "_clearall"
