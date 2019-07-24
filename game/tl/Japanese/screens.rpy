@@ -152,5 +152,41 @@ translate Japanese strings:
     old "Uninstall"
     new "アンインストール"
 
+    old "Chapter Select"
+    new "チャプターセレクト"
+
+    old "Act 1 Day 1"
+    new "Act 1 1日目"
+
+    old "Act 1 Day 2"
+    new "Act 1 2日目"
+
+    old "Act 1 Day 3"
+    new "Act 1 3日目"
+
+    old "Act 1 Day 4"
+    new "Act 1 4日目"
+
+    old "Act 1 Day 5"
+    new "Act 1 5日目"
+
+    old "Act 1 Day 6"
+    new "Act 1 6日目"
+
+    old "Act 2 Day 1"
+    new "Act 2 1日目"
+
+    old "Act 2 Day 2"
+    new "Act 2 2日目"
+
+    old "Act 2 Day 3"
+    new "Act 2 3日目"
+
+    old "Act 2 Day 4"
+    new "Act 2 4日目"
+
+    old "Ending"
+    new "エンディング"
+
     old "Would you like to uninstall jp patch and quit?"
     new "非公式日本語化パッチをアンインストールして終了します。\nよろしいですか？"

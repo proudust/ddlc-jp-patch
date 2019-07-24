@@ -37,7 +37,7 @@ label chapter_select:
         except: open(config.basedir + "/characters/yuri.chr", "wb").write(renpy.file("yuri.chr").read())
 
     menu:
-        "Act 1 Day 1 ~ 6":
+        "Act 1":
             $ persistent.playthrough = 0
             $ renpy.save_persistent()
             menu:
@@ -53,7 +53,7 @@ label chapter_select:
                     jump ch4_main
                 "Act 1 Day 6":
                     jump ch5_main
-        "Act 2 Day 1 ~ 4":
+        "Act 2":
             $ persistent.playthrough = 2
             $ renpy.save_persistent()
             $ delete_character("sayori")
