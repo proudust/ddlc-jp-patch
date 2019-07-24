@@ -202,7 +202,13 @@ translate None screen:
                     vbox:
                         label ("")
                         textbutton _("Uninstall") action [Show(screen="confirm", message="Would you like to uninstall jp patch and quit?", yes_action=Function(Uninstall), no_action=Hide("confirm"))]
-                        textbutton _("Chapter Select") action Start('chapter_select')
+                        python:
+                            debugmode = ""
+                            try:
+                                debugmode = renpy.file("debugmode").read(1)
+                            except: pass
+                        if debugmode:
+                            textbutton _("Chapter Select") action Start('chapter_select')
 
         text "v[config.version]":
             xalign 1.0 yalign 1.0
