@@ -77,14 +77,20 @@ translate Japanese style credits_text:
 style monika_credits_text_Japanese is monika_credits_text:
     font "gui/font/Ruriiro_font.ttf"
 
-# 接頭詞・接尾詞の設定
 translate Japanese python:
+    # 接頭詞・接尾詞の設定
     mc = DynamicCharacter('player', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     s = DynamicCharacter('s_name', image='sayori', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     m = DynamicCharacter('m_name', image='monika', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     n = DynamicCharacter('n_name', image='natsuki', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     y = DynamicCharacter('y_name', image='yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
     ny = Character('Nat & Yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
+
+    # .chrの差し替え
+    recreate_character('sayori')
+    recreate_character('monika')
+    recreate_character('natsuki')
+    recreate_character('yuri')
 
 # エンディング
 image mcredits_1a_Japanese:
