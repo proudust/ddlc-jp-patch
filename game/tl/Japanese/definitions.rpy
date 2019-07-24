@@ -1,11 +1,3 @@
-init python:
-    mc = DynamicCharacter('player', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    s = DynamicCharacter('s_name', image='sayori', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    m = DynamicCharacter('m_name', image='monika', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    n = DynamicCharacter('n_name', image='natsuki', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    y = DynamicCharacter('y_name', image='yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    ny = Character('ナツキ＆ユリ', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-
 translate Japanese strings:
     old "Sayori"
     new "サヨリ"
@@ -18,6 +10,9 @@ translate Japanese strings:
 
     old "Yuri"
     new "ユリ"
+
+    old "Nat & Yuri"
+    new "ナツキ＆ユリ"
 
     old "???"
     new "？？？"
