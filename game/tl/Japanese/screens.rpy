@@ -1,6 +1,3 @@
-translate Japanese python:
-    readme_file = "README_jp.html"
-
 translate Japanese strings:
     old "History"
     new "ヒストリー"

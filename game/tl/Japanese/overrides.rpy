@@ -92,6 +92,9 @@ translate Japanese python:
     recreate_character('natsuki')
     recreate_character('yuri')
 
+    # ヘルプファイルの変更
+    readme_file = "README_jp.html"
+
 # エンディング
 image mcredits_1a_Japanese:
     ypos credits_ypos_tl
