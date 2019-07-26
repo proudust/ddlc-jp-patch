@@ -865,7 +865,7 @@ Bright, bea t ful c l rs
 Flash ng, exp nd ng, piercing
 Red, green, blue
 An  ndless
-CACOPHANY
+CACOPHONY
 Of meaningless
 noise
 
