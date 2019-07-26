@@ -820,7 +820,7 @@ Bright, beautiful colors
 Flashing, expanding, piercing
 Red, green, blue
 An endless
-cacophany
+cacophony
 Of meaningless
 noise
 
