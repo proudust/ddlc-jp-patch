@@ -1112,7 +1112,7 @@ translate Japanese ch2_end_68259a43:
     "サヨリは椅子から勢いよく立ち上がると、元気よく教卓へ向かう。"
 
 translate Japanese ch2_end_66791e2a:
-    s "「この詩の名前は……『平原』」"
+    s 1x "「この詩の名前は……『平原』」"
 
 translate Japanese ch2_end_699ac020:
     s "「ふ……」"

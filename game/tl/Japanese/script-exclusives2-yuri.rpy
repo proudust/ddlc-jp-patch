@@ -1,4 +1,4 @@
-﻿translate Japanese yuri_exclusive2_1_e440bb66:
+translate Japanese yuri_exclusive2_1_e440bb66:
     "この機会にユリともう少し話をしてみたいが……"
 
 translate Japanese yuri_exclusive2_1_621b29bd:
@@ -539,7 +539,7 @@ translate Japanese yuri_exclusive2_1_ch22_a57fba06:
     mc "「ユリ、大丈夫か？」"
 
 translate Japanese yuri_exclusive2_1_ch22_5121d691:
-     y "「えっ……？」"
+    y "「えっ……？」"
 
 translate Japanese yuri_exclusive2_1_ch22_88f6e69b:
     "読書を始めてからユリはなんだかそわそわしている……"

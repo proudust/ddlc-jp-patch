@@ -1,4 +1,4 @@
-﻿translate Japanese ch3_main_9f4a56c4:
+translate Japanese ch3_main_9f4a56c4:
     m "「あら……」"
 
 translate Japanese ch3_main_055e03b2:
@@ -866,7 +866,6 @@ translate Japanese ch3_end_0795937b:
     m "「みんな詩の交換は終わったわよね？」"
 
 translate Japanese ch3_end_3f9ab9c8:
-
     m "「そろそろ文化祭についての話を――」"
 
 translate Japanese ch3_end_6ed1568a:
@@ -886,7 +885,6 @@ translate Japanese ch3_end_d8b24c61:
 
 translate Japanese ch3_end_4d8740f5:
     y 1f "「私たちを呼ぶときに、いつもと違う呼び方をしましたね」"
-
 
 translate Japanese ch3_end_1c52c004:
     m "「よ、呼び方？」"
@@ -1261,7 +1259,7 @@ translate Japanese ch3_end_51500451:
     y "「それでいいと思います……」"
 
 translate Japanese ch3_end_148978dd:
-    y "「そういうことで……」"
+    m "「そういうことで……」"
 
 translate Japanese ch3_end_64979231:
     "みんなが俺の方に視線を向けてきた。"
@@ -2045,7 +2043,6 @@ translate Japanese ch3_end_yuri_65397568:
 
 translate Japanese ch3_end_yuri_63157d8c:
     y "「わ、私こういう事はあまり得意ではなくて……」"
-
 
 translate Japanese ch3_end_yuri_ec389ee1:
     y 2v "「何か気に障ることを言ってしまったのなら、ごめんなさい！」"

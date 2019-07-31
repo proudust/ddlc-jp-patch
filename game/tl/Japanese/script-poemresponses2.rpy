@@ -1,4 +1,4 @@
-﻿translate Japanese ch22_y_end_709da3c5:
+translate Japanese ch22_y_end_709da3c5:
     y 2q "「あはは……」"
 
 translate Japanese ch22_y_end_005f1523:
@@ -557,7 +557,7 @@ translate Japanese ch23_n_bad_shared_2fbfeac2:
     n "「でもわたしにはこうするしかないみたいだから」"
 
 translate Japanese ch23_n_bad_shared_a4659c3e:
-    n h1 "「だから……ちゃんと読みなさいよ？」"
+    n 1h "「だから……ちゃんと読みなさいよ？」"
 
 translate Japanese ch23_n_bad_shared_a79131e4:
     n "「そしたらあっち行っていいから」"
@@ -936,7 +936,6 @@ translate Japanese ch21_m_start_93e2ca00:
 
 translate Japanese ch21_m_start_2c3797ba:
     m "「部活で何か提案したいことや、改善したいことが思い浮かんだら……」"
-    
 
 translate Japanese ch21_m_start_c62ec065:
     m 4b "「いつでも私に言ってね！」"

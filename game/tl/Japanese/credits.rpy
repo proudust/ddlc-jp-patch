@@ -119,5 +119,8 @@ translate Japanese strings:
     old "Special Thanks"
     new "スペシャルサンクス"
 
+    old "Monika\n[player]"
+    new "モニカ\n[player]"
+
     old "Error: Script file is missing or corrupt.\nPlease reinstall the game."
     new "エラー: スクリプトファイルが見つからないか破損しています。\nゲームを再インストールして下さい。"

@@ -1,4 +1,4 @@
-﻿translate Japanese ch4_main_7f03563e:
+translate Japanese ch4_main_7f03563e:
     "もう日曜日だ。"
 
 translate Japanese ch4_main_e8881ae0:
@@ -1796,7 +1796,7 @@ translate Japanese ch4_exclusive_natsuki_9751c7af:
     s "「いいんだよ、 [player]」"
 
 translate Japanese ch4_exclusive_natsuki_22ed0333:
-    s "「ただあいさつしに来ただけだから」"
+    s 1ba "「ただあいさつしに来ただけだから」"
 
 translate Japanese ch4_exclusive_natsuki_8d2a55aa:
     n 5bq "「あ、あ……」"

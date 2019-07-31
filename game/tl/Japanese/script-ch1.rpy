@@ -854,7 +854,7 @@ translate Japanese ch1_end_natsuki_4ddde058:
     n "「わたしの代わりに謝らなくていいじゃない、[player]」"
 
 translate Japanese ch1_end_natsuki_6fecb12a:
-    n "「ったく」"
+    n 1w "「ったく」"
 
 translate Japanese ch1_end_natsuki_700fd121:
     "ナツキは息をついた。"

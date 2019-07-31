@@ -1,4 +1,4 @@
-﻿translate Japanese ch22_main_6ae8eabb:
+translate Japanese ch22_main_6ae8eabb:
     "一日が過ぎ、部活の時間がやってきた。"
 
 translate Japanese ch22_main_dbdf4ac1:
@@ -725,7 +725,7 @@ translate Japanese ch22_end_65c48c99:
     n 1e "「あんた何も分かってないのね！」"
 
 translate Japanese ch22_end_bd0ce5a7:
-    n 5e "「わたしはただ……」"
+    n 5s "「わたしはただ……」"
 
 translate Japanese ch22_end_f5aaf804:
     n "「わたしはただ、何人かの友達と楽しく過ごせる場所が欲しいだけ」"

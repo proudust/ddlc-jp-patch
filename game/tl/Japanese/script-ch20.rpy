@@ -1,4 +1,4 @@
-﻿translate Japanese ch20_main2_b68875d5:
+translate Japanese ch20_main2_b68875d5:
     "いつもと変わらない学校の日。"
 
 translate Japanese ch20_main2_55a610db:
@@ -146,7 +146,7 @@ translate Japanese ch20_main2_af2a83ac:
     mc "「まあ、そうだろうな……」"
 
 translate Japanese ch20_main2_bc1a4311:
-    m 3b "「でも、実際はとても面白いのよ」"
+    m 3d "「でも、実際はとても面白いのよ」"
 
 translate Japanese ch20_main2_e754f821:
     m "「文学にもいろいろあって読書、執筆、詩などなど……」"
@@ -811,7 +811,6 @@ translate Japanese ch20_main2_fc5c3668:
 
 translate Japanese ch20_main2_e719ebca:
     m 3b "「よし、みんな！」"
-    
 
 translate Japanese ch20_main2_94ecc185:
     m "「これにて今日の部活は終了ね。お疲れさま」"

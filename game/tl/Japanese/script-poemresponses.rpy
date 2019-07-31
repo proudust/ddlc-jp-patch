@@ -1,4 +1,4 @@
-﻿translate Japanese poemresponse_start2_aa080a54:
+translate Japanese poemresponse_start2_aa080a54:
     "この中だとサヨリが一番見せやすい相手だ。"
 
 translate Japanese poemresponse_start2_6121f1ef:
@@ -2045,7 +2045,7 @@ translate Japanese ch2_n_good_cc5d22cd:
     n 2q "「それに学べることもあるはずよ。{i}本当の{/i}プロが誰なのかを忘れんじゃないわよ」"
 
 translate Japanese ch2_n_good_sharedwithch3_5aa1ff30:
-    n 1h "「……」"
+    n 1n "「……」"
 
 translate Japanese ch2_n_good_sharedwithch3_97bd1d7a:
     "ナツキが俺の詩を読む。"
@@ -5487,7 +5487,6 @@ translate Japanese ch1_m_start_93e2ca00:
 
 translate Japanese ch1_m_start_2c3797ba:
     m "「部活で何か提案したいことや、改善したいことが思い浮かんだら……」"
-
 
 translate Japanese ch1_m_start_c62ec065:
     m 4b "「いつでも私に言ってね！」"
