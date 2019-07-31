@@ -287,7 +287,7 @@ translate Japanese ch2_main_101c99c7:
     s "「わたしの行いのイントクヨウホウ！？」"
 
 translate Japanese ch2_main_416ef8d0:
-    mc "「因果応報……」" 
+    mc "「因果応報……」"
 
 translate Japanese ch2_main_72186408:
     y 1u "「いえ、これは間違っているというわけでも……」"
