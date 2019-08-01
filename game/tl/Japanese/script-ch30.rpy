@@ -1,4 +1,4 @@
-﻿translate Japanese ch30_noskip_23f35f95:
+translate Japanese ch30_noskip_23f35f95:
     m "「……早送りしようとしてるの？」"
 
 translate Japanese ch30_noskip_ffca387f:
@@ -1685,8 +1685,7 @@ translate Japanese ch30_14_c1721ff6:
     m "「ごめんなさい、そういうつもりはなかったの！44GV44KM44Gq44GE6ZmQ44KK44CB5paw44Gf44Gq44KL55uu55qE」"
 
 translate Japanese ch30_14_110c0554:
-    m "「ただ、こうやってファイルを見てるってことは、思ったより嫌われてないのかな、って……
-     44Gv5b6X44KJ44KM44Gq44GE44Go44GE44GG5oKf44KK44CC6YGg」"
+    m "「ただ、こうやってファイルを見てるってことは、思ったより嫌われてないのかな、って…… 44Gv5b6X44KJ44KM44Gq44GE44Go44GE44GG5oKf44KK44CC6YGg」"
 
 translate Japanese ch30_14_8f7ea8e9:
     m "「楽観的すぎるかしら？ 44GP44Gr6YCD44GS44KM44Gw6YCD44GS44KL44G744Gp44CB44GT」"
