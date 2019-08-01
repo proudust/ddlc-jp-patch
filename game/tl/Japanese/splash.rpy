@@ -1,20 +1,3 @@
-translate Japanese python:
-    splash_message_default = "このゲームには子供に相応しくない内容、または\n刺激の強い表現が含まれています。"
-    splash_messages = [
-    "君は太陽、私だけの太陽。",
-    "あなたに会いたかった。",
-    "わたしと遊んで。",
-    "これは単なるゲームです。",
-    "このゲームは子供には向かなかったり\nショッキングな表現があったりしますからね？",
-    "くぁwせdrftgyふじこlp",
-    "null",
-    "私は子供を地獄へと追いやった",
-    "PMはこのゲームの犠牲となった。",
-    "これはあなたのせいでもあります。",
-    "このゲームには子供に相応しくない内容、または\nあなたの四肢が切断されかねない表現が含まれています。",
-    "Monika.chrのバックアップを忘れずに。"
-    ]
-
 translate Japanese splashscreen_f490803a:
     "セーブデータを削除しています…{nw}"
 
@@ -43,6 +26,48 @@ translate Japanese readonly_db394637:
     "書き込み可能な別のディレクトリにコピーしてから再度起動して下さい。"
 
 translate Japanese strings:
+    old "[splash_message]"
+    new "[splash_message!t]"
+
+    old "This game is not suitable for children\nor those who are easily disturbed."
+    new "このゲームには子供に相応しくない内容、または\n刺激の強い表現が含まれています。"
+
+    old "You are my sunshine,\nMy only sunshine"
+    new "君は太陽、私だけの太陽。"
+
+    old "I missed you."
+    new "あなたに会いたかった。"
+
+    old "Play with me"
+    new "わたしと遊んで。"
+
+    old "It's just a game, mostly."
+    new "これは単なるゲームです。"
+
+    old "This game is not suitable for children\nor those who are easily disturbed?"
+    new "このゲームは子供には向かなかったり\nショッキングな表現があったりしますからね？"
+
+    old "sdfasdklfgsdfgsgoinrfoenlvbd"
+    new "くぁwせdrftgyふじこlp"
+
+    old "null"
+    new "null"
+
+    old "I have granted kids to hell"
+    new "私は子供を地獄へと追いやった"
+
+    old "PM died for this."
+    new "PMはこのゲームの犠牲となった。"
+
+    old "It was only partially your fault."
+    new "これはあなたのせいでもあります。"
+
+    old "This game is not suitable for children\nor those who are easily dismembered."
+    new "このゲームには子供に相応しくない内容、または\nあなたの四肢が切断されかねない表現が含まれています。"
+
+    old "Don't forget to backup Monika's character file."
+    new "Monika.chrのバックアップを忘れずに。"
+
     old "A previous save file has been found. Would you like to delete your save data and start over?"
     new "以前のセーブデータが見つかりました。データを削除してやり直しますか？"
 
