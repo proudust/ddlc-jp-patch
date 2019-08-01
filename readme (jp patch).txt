@@ -1,4 +1,4 @@
-Doki Doki Literature Club 日本語化パッチ(19/07/26)
+Doki Doki Literature Club 日本語化パッチ(19/08/01)
 ------------------------------------------------------------
 
 
@@ -85,6 +85,9 @@ https://github.com/proudust/ddlc-jp-patch
 
 
 更新履歴：
+190801
+・翻訳の修正
+
 190726
 ・Fun Pack 無しでもエンディングの歌詞表示をするよう変更
 ・言語切替時の挙動を大幅修正
