@@ -2897,7 +2897,7 @@ translate Japanese ch1_s_shared_ef8b6102:
     s "「本当に部員になったんだ～って実感するよ！」"
 
 translate Japanese ch1_s_shared_444ac926:
-    "(こうやって今も部室で目の前に座っているのにか……？)"
+    "（こうやって今も部室で目の前に座っているのにか……？）"
 
 translate Japanese ch1_s_shared_d484b231:
     mc "「そ、そりゃそうだろ」"
@@ -4226,7 +4226,7 @@ translate Japanese ch1_y_good_6559e79e:
     y "「うう……」"
 
 translate Japanese ch1_y_good_c7f94487:
-    y "「{i}(きっと嫌われます……){/i}」"
+    y "{i}（きっと嫌われます……）{/i}"
 
 translate Japanese ch1_y_good_6b0ed824:
     mc "「ええと……」"

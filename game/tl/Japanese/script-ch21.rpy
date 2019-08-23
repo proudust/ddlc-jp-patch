@@ -1,4 +1,4 @@
-﻿translate Japanese ch21_main_0f077782:
+translate Japanese ch21_main_0f077782:
     m "「[player]君、今日も来たのね！」"
 
 translate Japanese ch21_main_95ea4bac:
@@ -218,7 +218,7 @@ translate Japanese ch21_end_1583e001:
     "一方、ユリは悲しそうに微笑む。"
 
 translate Japanese ch21_end_36ce7fb5:
-    n 1q "「{i}（何なのよこの言い回し……？）{/i}」"
+    n 1q "{i}（何なのよこの言い回し……？）{/i}"
 
 translate Japanese ch21_end_5f1028e8:
     y 2f "「えっ？」"

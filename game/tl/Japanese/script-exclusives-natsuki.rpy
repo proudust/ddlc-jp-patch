@@ -1,4 +1,4 @@
-﻿translate Japanese natsuki_exclusive_1_f5f51468:
+translate Japanese natsuki_exclusive_1_f5f51468:
     n "「もうっ……！」"
 
 translate Japanese natsuki_exclusive_1_e174f989:
@@ -980,7 +980,7 @@ translate Japanese natsuki_exclusive_2_ch3_a60d169d:
     n "「座ってボーっとしてる暇があるなら椅子が揺れないように持つことくらいできるでしょ？」"
 
 translate Japanese natsuki_exclusive_2_ch3_0fba7211:
-    "{i}(お前が手伝うなって言ったんじゃ……){/i}"
+    "{i}（お前が手伝うなって言ったんじゃ……）{/i}"
 
 translate Japanese natsuki_exclusive_2_ch3_e20fd47c:
     mc "「分かった分かった、やるよ……」"
