@@ -1,4 +1,4 @@
-﻿translate Japanese yuri_exclusive_1_e440bb66:
+translate Japanese yuri_exclusive_1_e440bb66:
     "この機会にユリともう少し話をしてみたいが……"
 
 translate Japanese yuri_exclusive_1_621b29bd:

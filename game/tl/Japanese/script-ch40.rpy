@@ -1,4 +1,4 @@
-﻿translate Japanese ch40_main_b68875d5:
+translate Japanese ch40_main_b68875d5:
     "いつもと変わらない学校の日。"
 
 translate Japanese ch40_main_ee6fbe40:

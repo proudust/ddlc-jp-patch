@@ -1,4 +1,4 @@
-﻿translate Japanese natsuki_exclusive2_1_f5f51468:
+translate Japanese natsuki_exclusive2_1_f5f51468:
     n "「もうっ……！」"
 
 translate Japanese natsuki_exclusive2_1_e174f989:

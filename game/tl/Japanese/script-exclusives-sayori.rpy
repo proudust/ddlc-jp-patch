@@ -1,4 +1,4 @@
-﻿translate Japanese sayori_exclusive_1_ebd278f3:
+translate Japanese sayori_exclusive_1_ebd278f3:
     "はあ……"
 
 translate Japanese sayori_exclusive_1_75a8ab85:

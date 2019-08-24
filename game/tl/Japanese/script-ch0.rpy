@@ -1,4 +1,4 @@
-﻿translate Japanese ch0_main_41e273ca:
+translate Japanese ch0_main_41e273ca:
     s "「おーはーよーーー！」"
 
 translate Japanese ch0_main_bcc5bb00:
