@@ -89,7 +89,7 @@ translate Japanese ch21_main_4031f60f:
     y "「そういうつもりで言った訳じゃないんです！」"
 
 translate Japanese ch21_main_6559e79e:
-    y "「ううぅ……」"
+    y "「うう……」"
 
 translate Japanese ch21_main_2add5b01:
     y "「嫌だったのなら今言ったことは忘れてください……」"
@@ -230,7 +230,7 @@ translate Japanese ch21_end_5a23a338:
     n 2c "「いや、何でもないわ」"
 
 translate Japanese ch21_end_73b87d84:
-    "ナツキは持ってた詩を素っ気なく片手で机の上に置いた。"
+    "ナツキは持っていた詩を素っ気なく片手で机の上に置いた。"
 
 translate Japanese ch21_end_678d666c:
     n "「しゃれた感じなんじゃない」"
@@ -272,7 +272,7 @@ translate Japanese ch21_end_b10ead8d:
     n 4w "「つまり気の利いたことを言うのにそんなに苦労する作品だっていうのね」"
 
 translate Japanese ch21_end_f9cdd784:
-    n "「結構結構、でも気なんて全然効いてなかったわ！」"
+    n "「結構結構、でも気なんて全然利いてなかったわ！」"
 
 translate Japanese ch21_end_64c0a3eb:
     y 1i "「えっと……」"
@@ -281,7 +281,7 @@ translate Japanese ch21_end_15db327d:
     y "「その、いくつか提案したいことがあるのですが……」"
 
 translate Japanese ch21_end_ebd6a743:
-    n 5x "「ふんっ」"
+    n 5x "「ふん」"
 
 translate Japanese ch21_end_a87c36dd:
     n "「詩を気に入ってくれた人の提案なら、聞いてあげないこともなかったけどね」"
@@ -338,7 +338,7 @@ translate Japanese ch21_end_3df614f2:
     y "「そういうわけでは……！」"
 
 translate Japanese ch21_end_803d0e3c:
-    y 1o "「ううぅ……」"
+    y 1o "「うう……」"
 
 translate Japanese ch21_end_acc94b27:
     y "「あ、あなただって……」"

@@ -482,7 +482,7 @@ translate Japanese ch3_start_natsuki_588008e2:
     mc "「でも俺には話してくれなくて」"
 
 translate Japanese ch3_start_natsuki_5ccf3d8c:
-    mc "「だから何か起こったんじゃないかって気がしてならないんだ……」"
+    mc "「だから何かあったんじゃないかって気がしてならないんだ……」"
 
 translate Japanese ch3_start_natsuki_76502d6d:
     n 1q "「そうなの……」"
@@ -581,7 +581,7 @@ translate Japanese ch3_start_yuri_b046af93:
     "なんだか人の視線を感じる。"
 
 translate Japanese ch3_start_yuri_58e4d71b:
-    "部屋の中を見回す。"
+    "部屋を見回してみる。"
 
 translate Japanese ch3_start_yuri_f5b959b9:
     "突然、ユリが俺を本越しにのぞいてることに気づく。"
@@ -902,7 +902,7 @@ translate Japanese ch3_end_42c8edbf:
     n "「ほら、ユリですら影響を受けちゃってるし」"
 
 translate Japanese ch3_end_6559e79e:
-    y "「うぅ……」"
+    y "「うう……」"
 
 translate Japanese ch3_end_3d9092ae:
     y "「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」"
@@ -1418,7 +1418,7 @@ translate Japanese ch3_end_monika_537b0f2d:
     m "「実際、下心持ってるのは二人でしょ！」"
 
 translate Japanese ch3_end_monika_42241b7e:
-    n "「{i}なんですって？{/i} 」"
+    n "「{i}なんですって？{/i}」"
 
 translate Japanese ch3_end_monika_391272cd:
     m "「そうじゃなかったら、そもそもこんな大事にはなってないわ！」"
@@ -1604,7 +1604,7 @@ translate Japanese ch3_end_natsuki_bb2cf764_2:
     n "「……」"
 
 translate Japanese ch3_end_natsuki_a51ccf38:
-    n 5r "「うぅ……」"
+    n 5r "「うう……」"
 
 translate Japanese ch3_end_natsuki_8d78cf34:
     "ナツキは不安げな表情でみんなの顔をちらちら見る。"
@@ -1673,7 +1673,7 @@ translate Japanese ch3_end_natsuki_0af7d7c6:
     "ナツキは、サヨリみたいな事を言おうとしたんだ。"
 
 translate Japanese ch3_end_natsuki_f6652a81:
-    "完璧に出来ていなかったとしても、サヨリが言いそうな言葉を言おうとしていたことは伝わってきた。"
+    "完璧に出来ていなかったとしても、ここでサヨリが言いそうな言葉を言おうとしていたことは伝わってきた。"
 
 translate Japanese ch3_end_natsuki_c95f033e:
     "サヨリはいつだってみんなを明るくし、笑顔を与えてきたからだ。"
@@ -2111,7 +2111,7 @@ translate Japanese ch3_end_yuri_240402ee:
     n "「よし、じゃあ行きましょう」"
 
 translate Japanese ch3_end_yuri_0e0522dd:
-    "みんな荷物をまとめる。"
+    "みんなが帰り支度をする。"
 
 translate Japanese ch3_end_yuri_3f8dbcfe:
     "話しながら部屋を出ていくモニカとナツキに続いて、俺も部屋を出ようとする。"

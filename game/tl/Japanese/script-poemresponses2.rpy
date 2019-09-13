@@ -95,7 +95,7 @@ translate Japanese ch22_n_end_d97a6e91:
     n 2g "「例えばこの詩なら誰もがこいつは無知でマヌケなヤツだって思うだろうし……」"
 
 translate Japanese ch22_n_end_81bb56c3:
-    n "「誰だって変わった趣味や後ろめたい楽しみくらいあるわ」"
+    n "「誰だって変わった趣味や後ろめたい楽しみくらいあるでしょ」"
 
 translate Japanese ch22_n_end_ff0627ba:
     n 5q "「誰かに知られたらバカにされたり見下されたりするんじゃないか、って恐れるようなことが」"
@@ -359,7 +359,7 @@ translate Japanese ch22_n_bad_d7b8459d:
     mc "「えっ？ 本当に？」"
 
 translate Japanese ch22_n_bad_5956e212:
-    n 2c "「まあ、ね。今回の方が挑戦的だったのはわかるわ」"
+    n 2c "「まあ、ね。今回の方が挑戦的だったのは分かるわ」"
 
 translate Japanese ch22_n_bad_deb986a6:
     n "「でもあんたにはまだ早かったわね。失敗してるから」"
@@ -425,7 +425,7 @@ translate Japanese ch22_n_med_shared_06c9456d:
     n 2c "「は？ なにが『ほっ』なのよ？」"
 
 translate Japanese ch22_n_med_shared_f30730dc:
-    mc "「あっ……まあ、酷評されなかっただけでも俺の中では充分成功だからな」"
+    mc "「あっ……まあ、酷評されなかっただけでも俺の中では十分成功だからな」"
 
 translate Japanese ch22_n_med_shared_293ad1f3:
     mc "「お前の意見が多分一番批評的だし」"
@@ -575,7 +575,7 @@ translate Japanese ch23_n_bad_shared_fb2e5377:
     mc "「えっ？」"
 
 translate Japanese ch23_n_bad_shared_61696799:
-    n 2c "「これの前の二つの方が断然好きだったわ」"
+    n 2c "「前の二つの方が断然好きだったわ」"
 
 translate Japanese ch23_n_med_bb2cf764:
     n "「……」"
@@ -992,7 +992,7 @@ translate Japanese ch21_m_start_1c27ea40:
     mc "「その割には、自信を持っているように聞こえるな」"
 
 translate Japanese ch21_m_start_e7765480:
-    m 1j "「だって……自信を持ってるように振舞わないといけないもの」"
+    m 1j "「だって……自信を持ってるように振る舞わないといけないもの」"
 
 translate Japanese ch21_m_start_5f9f46a2:
     m 1b "「だからと言って必ずしもそうだとは限らないのよ？」"

@@ -173,7 +173,7 @@ translate Japanese yuri_exclusive_1_2269e4aa:
     "そうだった……ユリにそういう趣味があったのを忘れてた。"
 
 translate Japanese yuri_exclusive_1_b87c0f68:
-    "外は大人しくて控えめそうなのに、心の中は全く違うようだ。"
+    "外見は大人しくて控えめそうなのに、心の中は全く違うようだ。"
 
 translate Japanese yuri_exclusive_1_d0642c8b:
     y "「ただ、こういったお話って……」"
@@ -530,7 +530,7 @@ translate Japanese yuri_exclusive_1_d377e169:
     y "「……似てて全然良くないじゃないですか！」"
 
 translate Japanese yuri_exclusive_1_aa12ec76:
-    y 4b "「ううぅ……そう思われてたと思うと恥ずかしい……」"
+    y 4b "「うう……そう思われてたと思うと恥ずかしい……」"
 
 translate Japanese yuri_exclusive_1_a0208d1c:
     mc "「ま、待てよ！」"
@@ -764,7 +764,7 @@ translate Japanese yuri_exclusive_2_ch3_61f737dd:
     m 1g "「え、えっ……？」"
 
 translate Japanese yuri_exclusive_2_ch3_55feb8f4:
-    mc "「――！！」"
+    mc "「――っ！」"
 
 translate Japanese yuri_exclusive_2_ch3_ec53cc26:
     "口があんぐりと開く。"
@@ -956,7 +956,7 @@ translate Japanese yuri_exclusive_2_ch3_beb50f2c:
     mc "「おっ……それもそうだな！」"
 
 translate Japanese yuri_exclusive_2_ch3_bd6ceeb4:
-    "ユリはティーポットを取ると茶葉を測り始めた。"
+    "ユリはティーポットを取り出すと茶葉を測り始めた。"
 
 translate Japanese yuri_exclusive_2_ch3_b78eae4f:
     "驚くことに、鼻歌まで歌い始めた。"
@@ -965,7 +965,7 @@ translate Japanese yuri_exclusive_2_ch3_ba599efa:
     mc "「ご機嫌そうだな……」"
 
 translate Japanese yuri_exclusive_2_ch3_c32eedbb:
-    y 1a "「本当ですか？」"
+    y 1a "「そうですか？」"
 
 translate Japanese yuri_exclusive_2_ch3_ab893d32:
     y "「わざとそうしてみましたが……」"
@@ -1028,7 +1028,7 @@ translate Japanese yuri_exclusive_2_ch3_4b80e874:
     y "「机に前のめりにならず、壁を背もたれにして読めるので」"
 
 translate Japanese yuri_exclusive_2_ch3_c34e0b47:
-    mc "「ああそうか、気づかなくてすまなかった」"
+    mc "「ああそうか、気付かなくてすまなかった」"
 
 translate Japanese yuri_exclusive_2_ch3_1b0a66cf:
     y 1a "「いえ、気にしないでください」"
@@ -1106,7 +1106,7 @@ translate Japanese yuri_exclusive_2_ch3_b25a40d6:
     "二人の肩が触れ合う距離までユリが接近してきた。"
 
 translate Japanese yuri_exclusive_2_ch3_85980a12:
-    "この状況でどう読書に集中しろと……？！"
+    "この状況でどう読書に集中しろと……！？"
 
 translate Japanese yuri_exclusive_2_ch3_73b16b02:
     "ユリってかわいいなあ、と前から思ってはいたが……"
@@ -1226,7 +1226,7 @@ translate Japanese yuri_exclusive_2_ch3_dd709b9d:
     "俺はためらいながらも彼女の唇の間にチョコを置くと……"
 
 translate Japanese yuri_exclusive_2_ch3_ff42d43c:
-    "ユリは無意識に唇を閉じ、それを口の中に収めた。"
+    "ユリはそのまま唇を閉じ、それを口の中に収めた。"
 
 translate Japanese yuri_exclusive_2_ch3_d1820aca:
     y "「えっ……？」"

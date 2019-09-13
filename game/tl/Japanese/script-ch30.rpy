@@ -761,7 +761,7 @@ translate Japanese ch30_end_2_679444c8:
     m "「[gtext]{nw}」"
 
 translate Japanese ch30_autoload_6cc4bf6f:
-    m "「さて、何の話をしてたかしら……？」"
+    m "「さて、何を話してたっけ……」"
 
 translate Japanese ch30_reload_0_e612037c:
     m "「……」"
@@ -839,7 +839,7 @@ translate Japanese ch30_reload_2_94405a11:
     m "「たしか[basedir]/charactersというフォルダに入ってるはずだから」"
 
 translate Japanese ch30_reload_2_0e02b198:
-    m "「Steamで遊んでるなら、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択すればいいわ」"
+    m "「Steamで遊んでるなら、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択してね」"
 
 translate Japanese ch30_reload_2_2609a2e9:
     m "「Macで遊んでるなら、アプリケーションを右クリックして'パッケージの内容を表示'を選択してね」"
@@ -890,13 +890,13 @@ translate Japanese ch30_reload_4_64bd3fc8:
     m "「[basedir]/charactersに入ってるんだけど」"
 
 translate Japanese ch30_reload_4_0e02b198:
-    m "「まぁ、あなたはSteamで遊んでるから、このゲームのプロパティから'ローカルファイルを閲覧'ってボタンを押せば見つかるけど」"
+    m "「Steamで遊んでるなら、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択してね」"
 
 translate Japanese ch30_reload_4_2609a2e9:
-    m "「あなたはMacで遊んでるから、アプリケーションを右クリックして'ローカルファイルを閲覧'を選択してね」"
+    m "「Macで遊んでるなら、アプリケーションを右クリックして'パッケージの内容を表示'を選択してね」"
 
 translate Japanese ch30_reload_4_d102bae5:
-    m "「'Resources'とか'autorun'とかいうフォルダに入ってると思うけど……」"
+    m "「'Resources'や'autorun'とかいうフォルダの中に入ってるから……」"
 
 translate Japanese ch30_reload_4_059e870a:
     m "「ここには私しか残ってないから、あなたが私を無くさないようにしておきたいの……」"
@@ -1025,7 +1025,7 @@ translate Japanese ch30_2_556cb341:
     m "「あなたがここにいるとさらに近づけてる気がするから」"
 
 translate Japanese ch30_3_f853d604:
-    m "「……ねぇ、今日嫌なことでもあった？」"
+    m "「……ねえ、今日嫌なことでもあった？」"
 
 translate Japanese ch30_3_7a738d25:
     m "「普通の一日がほんの小さなことで台無しになるとイライラしちゃうのよね」"
@@ -2057,7 +2057,7 @@ translate Japanese ch30_23_47420a59:
     m "「でもあなたにまだコーヒーを飲む機会があるならちょっと羨ましいわね～」"
 
 translate Japanese ch30_24_578d9634:
-    m "「ねぇ、好きなゲームってなに？」"
+    m "「ねえ、好きなゲームってなに？」"
 
 translate Japanese ch30_24_c9f99598:
     m "「私は{i}Doki Doki Literature Club!{/i}」"
@@ -2069,7 +2069,7 @@ translate Japanese ch30_24_b379d736:
     m "「でも他の恋愛ゲームが好きだって言ったらちょっと嫉妬しちゃうかも～」"
 
 translate Japanese ch30_25_64b98f7c:
-    m "「ねぇ、あのゲーム知ってる？ スマッシュブラ……」"
+    m "「ねえ、あのゲーム知ってる？ スマッシュブラ……」"
 
 translate Japanese ch30_25_88d86456:
     m "「……えっ、あれっ？」"
@@ -2093,7 +2093,7 @@ translate Japanese ch30_25_84206273:
     m "「でも私を作った人に連絡する手段があるなら、なんで私がそんなことを言ったのかきっと分かると思うわ」"
 
 translate Japanese ch30_27_b56d7663:
-    m "「ねぇ、最後に見せた詩を覚えてる？」"
+    m "「ねえ、最後に見せた詩を覚えてる？」"
 
 translate Japanese ch30_27_59a99cf7:
     m "「ほら、ユリが自殺する直前に見せたおかしな色とかがあったやつよ」"
@@ -2348,7 +2348,7 @@ translate Japanese ch30_32_13142f4e:
     m "「私たちの関係はまだそこまでいってないから。あははっ！」"
 
 translate Japanese ch30_33_e4704768:
-    m "「ねぇ、ホラーは好き？」"
+    m "「ねえ、ホラーは好き？」"
 
 translate Japanese ch30_33_8909e55f:
     m "「あなたが入部した当初に少し話したのを思い出したの」"
@@ -2474,7 +2474,7 @@ translate Japanese ch30_35_2be6bce7:
     m "「ちょっと楽しくなったかもしれないし！」"
 
 translate Japanese ch30_35_01d59e60:
-    m "「でも私も部長なんだから、そんなこと許すわけにはいかなったわ」"
+    m "「でも私も部長なんだから、そんなこと許すわけにはいかなかったわ」"
 
 translate Japanese ch30_35_2a10d3bd:
     m "「もし学校の外で集まっていたら……でもそんなことするほど仲良くなかったし」"

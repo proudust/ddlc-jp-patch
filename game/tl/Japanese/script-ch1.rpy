@@ -89,7 +89,7 @@ translate Japanese ch1_main_b7fd516c:
     s 1 "「そうかな？ ユリちゃんと[player]だってきっとステキな友達になれるよ！」"
 
 translate Japanese ch1_main_6897629e:
-    y 4b "「う、えっと……」"
+    y 4b "「え、えっと……」"
 
 translate Japanese ch1_main_7b7e4806:
     mc "「サ、サヨリ……」"
@@ -227,7 +227,7 @@ translate Japanese ch1_main_25d7e7ce:
     m "「ところで、昨晩ちゃんと忘れずに詩を書いてきたかしら？」"
 
 translate Japanese ch1_main_5aa72ccd:
-    mc "「あ、ああ……」"
+    mc "「あ、ああ」"
 
 translate Japanese ch1_main_b8d87d90:
     "身が引き締まる。"
@@ -371,7 +371,7 @@ translate Japanese ch1_end_15db327d:
     y "「その、いくつか提案したいことがあるのですが……」"
 
 translate Japanese ch1_end_ebd6a743:
-    n 5x "「ふんっ」"
+    n 5x "「ふん」"
 
 translate Japanese ch1_end_a87c36dd:
     n "「詩を気に入ってくれた人の提案なら、聞いてあげないこともなかったけどね」"
@@ -428,7 +428,7 @@ translate Japanese ch1_end_3df614f2:
     y "「そういうわけでは……！」"
 
 translate Japanese ch1_end_803d0e3c:
-    y 1o "「ううぅ……」"
+    y 1o "「うう……」"
 
 translate Japanese ch1_end_acc94b27:
     y "「あ、あなただって……」"
@@ -881,7 +881,7 @@ translate Japanese ch1_end_natsuki_36414005:
     "サヨリとモニカは目をそらした。"
 
 translate Japanese ch1_end_natsuki_45914793:
-    n 1i "「ふんっ」"
+    n 1i "「ふん」"
 
 translate Japanese ch1_end_natsuki_99ec11cf:
     n "「とにかく……！」"

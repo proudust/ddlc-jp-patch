@@ -434,7 +434,7 @@ translate Japanese natsuki_exclusive_1_8c8bfeaa:
     mc "「あっ、すまん……」"
 
 translate Japanese natsuki_exclusive_1_ffa2b290:
-    n "「ふんっ」"
+    n "「ふん」"
 
 translate Japanese natsuki_exclusive_1_ef747705:
     n "「こんなの友達に読ませられるわけないでしょ……」"
@@ -479,7 +479,7 @@ translate Japanese natsuki_exclusive_1_d0ddcf73:
     n "「パパに見つかったらどうなるか分からないし」"
 
 translate Japanese natsuki_exclusive_1_df80381b:
-    n "「部室に置いておけばせめては安全だから」"
+    n "「部室に置いておけば安全だから」"
 
 translate Japanese natsuki_exclusive_1_ca96df24:
     n "「モニカのことはさておき……」"
@@ -548,7 +548,7 @@ translate Japanese natsuki_exclusive_1_ef8c2291:
     n "「でも特にひどいのが――」"
 
 translate Japanese natsuki_exclusive_1_e349a681:
-    n "「うっ……」"
+    n "「うう……」"
 
 translate Japanese natsuki_exclusive_1_59cb15ff:
     n "「まだそこは喋ったらダメね」"
@@ -680,7 +680,7 @@ translate Japanese natsuki_exclusive_1_af2a614d:
     mc "「……分かったよ！」"
 
 translate Japanese natsuki_exclusive_1_1950528a:
-    "俺は立ち上がり……"
+    "俺は立ち上がる。"
 
 translate Japanese natsuki_exclusive_1_d9693005:
     "自分の荷物を置いた場所まで戻り、借りたマンガを慎重にカバンにしまった。"
@@ -1016,7 +1016,7 @@ translate Japanese natsuki_exclusive_2_ch3_070c6d61:
     "ナツキはこの棚で一番重いであろう『パフェガールズ』の箱を腕で抱え込む。"
 
 translate Japanese natsuki_exclusive_2_ch3_358de399:
-    n "「うぅ……重い……」"
+    n "「うう……重い……」"
 
 translate Japanese natsuki_exclusive_2_ch3_c88e1762:
     n "「ちょっと、[player]……」"
@@ -1154,7 +1154,7 @@ translate Japanese natsuki_exclusive_2_ch3_3c359cf4:
     "俺の右腕と背中に尋常でない衝撃を感じた。"
 
 translate Japanese natsuki_exclusive_2_ch3_ace1a5dd:
-    n "「う――うぅ……」"
+    n "「う――うう……」"
 
 translate Japanese natsuki_exclusive_2_ch3_b5ed8c6d:
     "ゆっくりとナツキは我に返る。"
@@ -1256,7 +1256,7 @@ translate Japanese natsuki_exclusive_2_ch3_fb2e5377_1:
     mc "「え？」"
 
 translate Japanese natsuki_exclusive_2_ch3_f68cfca4:
-    "俺は床の方を見る。"
+    "俺は視線を落とす。"
 
 translate Japanese natsuki_exclusive_2_ch3_056d83b1:
     "ナツキは床にしゃがみ込んで、散らばった本の中から一冊を掴み上げた。"

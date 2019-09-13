@@ -509,7 +509,7 @@ translate Japanese yuri_exclusive2_1_ch22_e73bd860:
     mc "「自分の発言について後からあれこれ考えるところとか、それっぽいと思ったんだけどな……」"
 
 translate Japanese yuri_exclusive2_1_ch22_ceede073:
-    y "「あ、ああ……」"
+    y "「あ、ああ」"
 
 translate Japanese yuri_exclusive2_1_ch22_1781bc54:
     y "「そういうことでしたか……」"
@@ -947,7 +947,7 @@ translate Japanese yuri_exclusive2_2_ch22_93deaf69:
     mc "「そうか！」"
 
 translate Japanese yuri_exclusive2_2_ch22_1c90c29a:
-    mc "「すごく良いことだと思うぞ、ユリ！」"
+    mc "「すごく良い事だと思うぞ、ユリ！」"
 
 translate Japanese yuri_exclusive2_2_ch22_28e6d662:
     mc "「ただ無理はするなよ」"
@@ -983,7 +983,7 @@ translate Japanese yuri_exclusive2_2_ch22_953ca257:
     y 1h "「そうした方が背中が楽なので……」"
 
 translate Japanese yuri_exclusive2_2_ch22_4b80e874:
-    y "「机に前のめりにならず、壁を背もたれにして読めるので。」"
+    y "「机に前のめりにならず、壁を背もたれにして読めるので」"
 
 translate Japanese yuri_exclusive2_2_ch22_c34e0b47:
     mc "「ああそうか、気付かなくてすまなかった」"

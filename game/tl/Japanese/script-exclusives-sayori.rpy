@@ -332,7 +332,7 @@ translate Japanese sayori_exclusive_1_b05e7ba0:
     mc "「これで印象がどれだけ変わるか知ったら、気も変わるよ」"
 
 translate Japanese sayori_exclusive_1_c98e38ed:
-    s "「えへへ……」"
+    s "「えへへ～」"
 
 translate Japanese sayori_exclusive_1_e508380c:
     s "「なんだか変な感じ」"
@@ -425,7 +425,7 @@ translate Japanese sayori_exclusive_1_b1aa4bc1:
     s "「でもきつい……」"
 
 translate Japanese sayori_exclusive_1_20d2fea2:
-    s "「ううぅ……」"
+    s "「うう……」"
 
 translate Japanese sayori_exclusive_1_08daea23:
     s "「こんなの割に合わないよー！」"
@@ -503,7 +503,7 @@ translate Japanese sayori_exclusive_1_3523f30e:
     mc "「またそれか、サヨリ……」"
 
 translate Japanese sayori_exclusive_1_8d0c9209:
-    s 1h "「え〜、今のは冗談だったのに！」"
+    s 1h "「え～、今のは冗談だったのに！」"
 
 translate Japanese sayori_exclusive_1_bd8edec3:
     mc "「お前の言うことはたまに本気かどうか分からなくなる……」"
@@ -1166,7 +1166,7 @@ translate Japanese sayori_exclusive_2_c27fc0da:
     mc "「怪我した直後に急に立ち上がるな！」"
 
 translate Japanese sayori_exclusive_2_772b7720:
-    s "「ううぅ……」"
+    s "「うう……」"
 
 translate Japanese sayori_exclusive_2_d61cd406:
     mc "「まあ、時すでに遅しか……」"

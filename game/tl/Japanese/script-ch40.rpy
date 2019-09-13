@@ -71,7 +71,7 @@ translate Japanese ch40_main_4fe8273d:
     s 1q "「えへへ～」"
 
 translate Japanese ch40_main_f870d325:
-    "俺たちは道を渡り、学校へ歩みを進める。"
+    "俺たちは道路を渡り、学校へ歩みを進める。"
 
 translate Japanese ch40_main_6fc63fca:
     "学校に近づくと、通学路には他の生徒の姿が徐々に増えていく。"
@@ -308,7 +308,7 @@ translate Japanese ch40_main_dd182ef4:
     "ナツキとユリは教室の隅に向かった。ナツキはホイルで包まれたトレイを取り、ユリはクローゼットを開けている。"
 
 translate Japanese ch40_main_7b148be6:
-    "なんだか未だ気まずさを感じて、俺はとりあえずサヨリの隣の席に座る。"
+    "未だに気まずさを感じつつも、俺はサヨリの隣の席に座る。"
 
 translate Japanese ch40_main_f4e1d6dd:
     "ナツキはトレイを持って、誇らしげにテーブルへやって来た。"
@@ -326,7 +326,7 @@ translate Japanese ch40_main_f7578acc:
     "ナツキがアルミホイルをめくると白くてかわいい、子猫のようなカップケーキが12個顔を見せた。"
 
 translate Japanese ch40_main_96ece77f:
-    "猫のひげはアイシングで、耳はチョコで作られているようだ。"
+    "猫のひげはアイシングで、耳は少量のチョコで作られているようだ。"
 
 translate Japanese ch40_main_697c694e:
     s 4r "「すっごくかわいいぃ～！」"
@@ -347,7 +347,7 @@ translate Japanese ch40_main_5fdd7380:
     s 4q "「おいしい！」"
 
 translate Japanese ch40_main_2e786edb:
-    "サヨリはカップケーキを口いっぱいにして話し、顔にアイシングがついてしまっている。"
+    "サヨリはカップケーキで口をいっぱいにして話し、顔にアイシングがついてしまっている。"
 
 translate Japanese ch40_main_9137625a:
     "俺は食べやすい向きを探してカップケーキを回す。"
@@ -452,7 +452,7 @@ translate Japanese ch40_main_68d50b2d:
     mc "「……今後の変化の余地はある……」"
 
 translate Japanese ch40_main_ccf38a3c:
-    "俺は何を言ってるんだろう。"
+    "俺は何を言っているんだろう。"
 
 translate Japanese ch40_main_3b4ce5c9:
     "ユリが悲しそうに笑ってたから考えなしに言ってしまった。"
@@ -572,7 +572,7 @@ translate Japanese ch40_main_3ed60310:
     n "「さすがは部長って感じね」"
 
 translate Japanese ch40_main_4fe8273d_1:
-    s 1q "「えへへぇ～」"
+    s 1q "「えへへ～」"
 
 translate Japanese ch40_main_98db7ced:
     n 2c "「ということは、何か小説を読み始めた方がいいみたいね……？」"

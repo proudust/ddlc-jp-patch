@@ -191,7 +191,7 @@ translate Japanese ch2_main_cca31a61:
     y "「少し本に熱中していて……」"
 
 translate Japanese ch2_main_6559e79e:
-    y "「うぅ……」"
+    y "「うう……」"
 
 translate Japanese ch2_main_50e118dc:
     s 1r "「あはは！」"
@@ -419,7 +419,7 @@ translate Japanese ch2_main_e72cdf66:
     "モニカはいない。"
 
 translate Japanese ch2_main_078274a3:
-    n 4q "「うぅ……」"
+    n 4q "「うう……」"
 
 translate Japanese ch2_main_0bb33328:
     n "「モニカはどこよ？」"
@@ -584,7 +584,7 @@ translate Japanese ch2_main_d72b952e:
     m "「[player]君をがっかりさせないためにも頑張らなきゃ」"
 
 translate Japanese ch2_main_3049c3ae:
-    "モニカは愛らしく微笑んだ。"
+    "モニカは優しくほほ笑む。"
 
 translate Japanese ch2_main_93deaf69:
     mc "「あ……」"
@@ -647,7 +647,7 @@ translate Japanese ch2_end_e5e5ca00:
     m "「ええ、まあね」"
 
 translate Japanese ch2_end_2dd4b404:
-    n "「うぅ……本当に文化祭で何かしなきゃいけないわけ？」"
+    n "「うう……本当に文化祭で何かしなきゃいけないわけ？」"
 
 translate Japanese ch2_end_a8b0c466:
     n "「あと数日しかないのに何かやろうとしたって、何もできっこないわよ」"
@@ -863,7 +863,7 @@ translate Japanese ch2_end_ec8adcf1:
     "ナツキはそれ以上反論の言葉が無いようだ。"
 
 translate Japanese ch2_end_e349a681:
-    n "「うぅ……」"
+    n "「うう……」"
 
 translate Japanese ch2_end_49b6c84c:
     n 1q "「……もう、わかったわよ！」"

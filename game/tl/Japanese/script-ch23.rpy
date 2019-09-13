@@ -17,7 +17,7 @@ translate Japanese ch23_main_9e09898f:
     n "「それはやめてって言ってるで――」"
 
 translate Japanese ch23_main_51576242:
-    n 1g "「うぅ……」"
+    n 1g "「うう……」"
 
 translate Japanese ch23_main_2ea6ab87:
     n "「モニカはまた遅刻なの？」"
@@ -356,7 +356,7 @@ translate Japanese ch23_end_override_42c8edbf:
     n "「ほら、ユリですら影響を受けちゃってるし」"
 
 translate Japanese ch23_end_override_6559e79e:
-    y "「うぅ……」"
+    y "「うう……」"
 
 translate Japanese ch23_end_override_3d9092ae:
     y "「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」"

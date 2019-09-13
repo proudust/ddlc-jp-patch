@@ -512,7 +512,7 @@ translate Japanese ch4_main_23d81314:
     s "「[player]……」"
 
 translate Japanese ch4_main_bf3e34d4:
-    mc "「サヨリ」 "
+    mc "「サヨリ」"
 
 translate Japanese ch4_main_6c10d11d:
     mc "「お前が自分勝手だろうと何でもいい」 "
@@ -1466,7 +1466,7 @@ translate Japanese ch4_exclusive_natsuki_8699c01e:
     mc "「みんながどの言葉のカップケーキを選ぶか見るの、面白そうじゃないか？」"
 
 translate Japanese ch4_exclusive_natsuki_f44c40ad:
-    n 1bq "「うぅ……」"
+    n 1bq "「うう……」"
 
 translate Japanese ch4_exclusive_natsuki_582359ea:
     mc "「ん？」"
@@ -1544,7 +1544,7 @@ translate Japanese ch4_exclusive_natsuki_2e14ea6e:
     mc "「ああ、本当にそうだな」"
 
 translate Japanese ch4_exclusive_natsuki_ff581b84:
-    n 1bm "「うぅ……今食べられたらいいのに！」"
+    n 1bm "「うう……今食べられたらいいのに！」"
 
 translate Japanese ch4_exclusive_natsuki_d403f6fb:
     mc "「なら食べてもいいんじゃないのか？」"
@@ -1724,7 +1724,7 @@ translate Japanese ch4_exclusive_natsuki_e7f19355:
     n "「あんたはこれを終わらせることにしか興味がないと思ってたのに……」"
 
 translate Japanese ch4_exclusive_natsuki_b2a0bf7e:
-    n 1br "「うぅ……」"
+    n 1br "「うう……」"
 
 translate Japanese ch4_exclusive_natsuki_ba247806:
     n 1bn "「今日は早く帰らないといけなくてごめん」"
@@ -1793,7 +1793,7 @@ translate Japanese ch4_exclusive_natsuki_67281b29:
     s 1bq "「えへへ」"
 
 translate Japanese ch4_exclusive_natsuki_9751c7af:
-    s "「いいんだよ、 [player]」"
+    s "「いいんだよ、[player]」"
 
 translate Japanese ch4_exclusive_natsuki_22ed0333:
     s 1ba "「ただあいさつしに来ただけだから」"
@@ -2309,10 +2309,10 @@ translate Japanese ch4_exclusive_yuri_ea5c6bb2:
     y "「何故かは分かりませんが……」"
 
 translate Japanese ch4_exclusive_yuri_585a09bb:
-    y "「職人技と危険な魅力が組み合わせ、でしょうか……」"
+    y "「職人技と危険な魅力の組み合わせ、でしょうか……」"
 
 translate Japanese ch4_exclusive_yuri_1035f297:
-    y 4bb "「うぅ、私は何を言ってるんでしょう……」"
+    y 4bb "「うう、私は何を言ってるんでしょう……」"
 
 translate Japanese ch4_exclusive_yuri_5053aa7a:
     y "「変だって思わないでください……」"
@@ -2468,7 +2468,7 @@ translate Japanese ch4_exclusive_yuri_0b0e5f5b:
     mc "「ユリ、気にしすぎだと思うぞ……」"
 
 translate Japanese ch4_exclusive_yuri_71fa57dd:
-    y "「うぅ……」"
+    y "「うう……」"
 
 translate Japanese ch4_exclusive_yuri_73c62ed6:
     "ユリは顔をあげない。"
@@ -3254,13 +3254,13 @@ translate Japanese ch4_end_de92f417:
     s "「[player]にいい友達ができて」"
 
 translate Japanese ch4_end_194142fb:
-    s "「それがわたしにとって唯一の大事なことだから」"
+    s "「それがわたしにとって一番大事なことだから」"
 
 translate Japanese ch4_end_d97a01d7:
     "サヨリの顔に涙が伝いはじめる。"
 
 translate Japanese ch4_end_bedd3333:
-    s 4bv "「それが唯一大事なことなの……！」"
+    s 4bv "「それが一番大事なことなの……！」"
 
 translate Japanese ch4_end_cfa94369:
     s "「なのになんでわたしこんな気持ちなの、[player]？」"

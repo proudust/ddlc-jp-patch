@@ -470,7 +470,7 @@ translate Japanese ch3_y_end_special_40da8714:
     "しかし、これは明らかにナツキが言っていた彼女の書いた詩ではない……"
 
 translate Japanese ch3_y_end_special_bacefe7d:
-    "……つまり、彼女がこれを見せているのは俺だけだということだ。"
+    "……つまり、ユリがこれを見せているのは俺だけだということだ。"
 
 translate Japanese ch3_y_end_special_66a66311:
     y 2v "「こ、これをどう説明したら良いか分かりませんが……」"
@@ -767,7 +767,7 @@ translate Japanese ch2_n_end_5437b16a:
     n "「……でも悪いことじゃないわよ！」"
 
 translate Japanese ch2_n_end_84b5aa9d:
-    n 1u "「うぅ……」"
+    n 1u "「うう……」"
 
 translate Japanese ch2_n_end_6c4b6440:
     n "「わたしは……それを批判なんかしないし……」"
@@ -956,7 +956,7 @@ translate Japanese ch3_n_end_special_83b6981f:
     "これは明らかにユリが言っていた詩ではない……"
 
 translate Japanese ch3_n_end_special_bacefe7d:
-    "……つまり、ナツキがこれを見せているのはおそらく俺だけだということだ。"
+    "……つまり、ナツキがこれを見せているのは俺だけだということだ。"
 
 translate Japanese ch3_n_end_special_ea8aa9a8:
     mc "「えっと……ナツキはこんなに良い詩が書けるんだなと驚いて……」"
@@ -1649,7 +1649,7 @@ translate Japanese ch1_n_good_445bc0d6:
     mc "「せっかくこれを書くために時間を割いたのに」"
 
 translate Japanese ch1_n_good_def3e8a4:
-    n 4r "「うぅ……」"
+    n 4r "「うう……」"
 
 translate Japanese ch1_n_good_b3544d0e:
     mc "「それに、お前の詩を読んでみたいって言ったの覚えてるだろ？」"
@@ -1772,7 +1772,7 @@ translate Japanese ch2_n_bad_sharedwithch3_0beb0948:
     mc "「ユリは確かに上手いけど……い、いやつまり……」"
 
 translate Japanese ch2_n_bad_sharedwithch3_ea8d5567:
-    n 1o "「ううぅ……！！」"
+    n 1o "「うう……！！」"
 
 translate Japanese ch2_n_bad_sharedwithch3_250ca20f:
     "ヤバイ状況になった。"
@@ -1805,7 +1805,7 @@ translate Japanese ch2_n_bad_sharedwithch3_28817dab:
     n 1k "「……ふむ」"
 
 translate Japanese ch2_n_bad_sharedwithch3_74244aa4:
-    n "「前の方がよかったわね」"
+    n "「前の方が良かったわね」"
 
 translate Japanese ch2_n_bad_sharedwithch3_d7b8459d:
     mc "「えっ？ 本当に？」"
@@ -1925,7 +1925,7 @@ translate Japanese ch2_n_med_shared_293ad1f3:
     mc "「お前の意見が多分一番批評的だし」"
 
 translate Japanese ch2_n_med_shared_7783e711:
-    n 1p "「ちょ、ちょっと！ それってどういう――」"
+    n 1p "「ちょ、ちょっと！それってどういう――」"
 
 translate Japanese ch2_n_med_shared_8968fb51:
     n 1q "{i}（待って、これってもしかして褒められてる……？）{/i}"
@@ -2231,7 +2231,7 @@ translate Japanese ch2_n_good_sharedwithch3_9193d56a:
     m 1j "「もちろんよ！ 気に入ったわ！」"
 
 translate Japanese ch2_n_good_sharedwithch3_83b5fd61:
-    n 1r "「うぅ……」"
+    n 1r "「うう……」"
 
 translate Japanese ch2_n_good_sharedwithch3_ba4328fe:
     n "「これはあんたのためのものじゃないんだから、読んじゃ駄目なの分かるでしょ」"
@@ -2279,7 +2279,7 @@ translate Japanese ch2_n_good_sharedwithch3_ad760861:
     m "「どんな目？」"
 
 translate Japanese ch2_n_good_sharedwithch3_010455dc:
-    n 12b "「うぅ……」"
+    n 12b "「うう……」"
 
 translate Japanese ch2_n_good_sharedwithch3_03648893:
     n "「なんでもないわ」"
@@ -3803,7 +3803,7 @@ translate Japanese ch3_s_bad_d43dfd71:
     s 1a "「言うよ」"
 
 translate Japanese ch3_s_bad_075703d6:
-    s "「わたしのことは心配はしないで、ね？」"
+    s "「わたしのことは心配しないで、ね？」"
 
 translate Japanese ch3_s_bad_2c8d383a:
     s "「あとはみんなと遊んできて」"
@@ -4454,7 +4454,7 @@ translate Japanese ch2_y_bad_42db5513:
     y "「だから……私の詩を誰かに好きになってもらおうなんて思ってません」"
 
 translate Japanese ch2_y_bad_530f484c:
-    mc "「ユリ？」"
+    mc "「ユリ！」"
 
 translate Japanese ch2_y_bad_b953c215:
     y 3t "「は、はい？」"
@@ -5660,7 +5660,7 @@ translate Japanese ch2_m_start_12abdfd9:
     mc "「よし、それなら見せてもらおうか」"
 
 translate Japanese ch3_m_start_06937b8f:
-    m 2a "「やっほー、[player]君〜」"
+    m 2a "「やっほー、[player]君～」"
 
 translate Japanese ch3_m_start_f87a90cf:
     m "「文化祭でどの詩を発表するか、考えたりしてる？」"
@@ -5933,7 +5933,7 @@ translate Japanese m_yuri_1_d258e98b:
     m "「新しいことに挑戦し続けましょう！ そうやって経験を積んでいくのよ！」"
 
 translate Japanese m_natsuki_2_1141cfe5:
-    m 1j "「いいじゃない〜」"
+    m 1j "「いいじゃない～」"
 
 translate Japanese m_natsuki_2_7b2b6d58:
     m 1a "「あなた、最近よくナツキと一緒にいるでしょ」"
@@ -5954,7 +5954,7 @@ translate Japanese m_natsuki_2_ad415b83:
     m "「ナツキの詩はかわいいけど、同時に深いのよね」"
 
 translate Japanese m_natsuki_2_ee1667f2:
-    m "「あなたが気に入るのもわかるわ」"
+    m "「あなたが気に入るのも分かるわ」"
 
 translate Japanese m_natsuki_2_2aee740c:
     m "「でもそれって、ユリの詩にはあまり共感しないってことかしら？」"
@@ -6392,7 +6392,7 @@ translate Japanese m_yuri_3_22db7fde:
     mc "「それにあの小説も悪くないし……」"
 
 translate Japanese m_yuri_3_c9922848:
-    m 1k "「はいはい〜」"
+    m 1k "「はいはい～」"
 
 translate Japanese m_yuri_3_d23928af:
     m "「分かったわよ」"

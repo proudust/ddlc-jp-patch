@@ -285,7 +285,7 @@ translate Japanese ch0_main_2b35b6fe:
     mc "「……」"
 
 translate Japanese ch0_main_00244a6d:
-    "この光景に二の句を継げなくなった。"
+    "つい言葉を失ってしまった。"
 
 translate Japanese ch0_main_7903e6e7:
     "この部活は……"
@@ -306,7 +306,7 @@ translate Japanese ch0_main_98d9573e:
     y "「ナツキちゃん……」"
 
 translate Japanese ch0_main_bc64dbb8:
-    n 5s "「ふんっ」"
+    n 5s "「ふん」"
 
 translate Japanese ch0_main_3b270b09:
     "なんだか当たりの強いこの女の子は初めて見る子だ。ナツキというらしい。"
@@ -351,7 +351,7 @@ translate Japanese ch0_main_3049c3ae:
     "モニカは優しくほほ笑む。"
 
 translate Japanese ch0_main_7c7cb783:
-    "お互いに顔は知っている。まあ、話したことはほとんどなかったが、去年クラスメイトだったから。"
+    "俺たちは去年同じクラスだったから、お互いのことは知っている。とはいえ滅多に話さないが。"
 
 translate Japanese ch0_main_f583350f:
     "モニカは容姿端麗・文武両道。おそらくクラスで一番人気だった女の子だ。"
@@ -381,7 +381,7 @@ translate Japanese ch0_main_4c9bc219:
     y "「それでは、私はお茶を淹れますね」"
 
 translate Japanese ch0_main_9f8ec8cb:
-    "いくつかの机を並べて、一つのテーブルにしている。"
+    "机が並べられて作られたテーブルがある。"
 
 translate Japanese ch0_main_8c49885c:
     "サヨリの言った通り、モニカとサヨリの隣が一つずつ空いている。"
@@ -390,7 +390,7 @@ translate Japanese ch0_main_dd182ef4:
     "ナツキとユリは教室の隅に向かった。ナツキはホイルで包まれたトレイを取り、ユリはクローゼットを開けている。"
 
 translate Japanese ch0_main_7b148be6:
-    "それでも気まずさを感じて、俺はとりあえずサヨリの隣の席に座る。"
+    "未だに気まずさを感じつつも、俺はサヨリの隣の席に座る。"
 
 translate Japanese ch0_main_f4e1d6dd:
     "ナツキはトレイを持って、誇らしげにテーブルへやって来た。"
@@ -405,10 +405,10 @@ translate Japanese ch0_main_496daacd:
     s "「うっわああぁぁ～～っ！！」"
 
 translate Japanese ch0_main_f7578acc:
-    "ナツキがアルミホイルをめくると白くてかわいい、子猫のような1ダースのカップケーキが顔を見せた。"
+    "ナツキがアルミホイルをめくると白くてかわいい、子猫のようなカップケーキが12個顔を見せた。"
 
 translate Japanese ch0_main_96ece77f:
-    "猫のひげはアイシングで描き、耳は少量のチョコで作られているようだ。"
+    "猫のひげはアイシングで、耳は少量のチョコで作られているようだ。"
 
 translate Japanese ch0_main_697c694e:
     s 4r "「すっごくかわいいぃ～！」"
@@ -474,7 +474,7 @@ translate Japanese ch0_main_3963d9b0:
     n "「で、でも、あくまで新入部員のためで、{i}あんた個人{/i}のためじゃないんだからね！ バカ……」"
 
 translate Japanese ch0_main_62185db9_1:
-    mc "「分かった、分かったって」"
+    mc "「分かった、分かった……」"
 
 translate Japanese ch0_main_e11ca288:
     "ナツキの変な論理には降参して、会話を終わらせる。"
@@ -900,10 +900,10 @@ translate Japanese ch0_main_8911e105:
     m 1p "「で、でも……」"
 
 translate Japanese ch0_main_a403322e:
-    y 2v "「ごめんなさい。てっきり……」"
+    y 2v "「ごめんなさい、てっきり……」"
 
 translate Japanese ch0_main_bc64dbb8_1:
-    n 5s "「ふんっ」"
+    n 5s "「ふん」"
 
 translate Japanese ch0_main_48b8805c:
     s 1k "「[player]……」"
@@ -999,7 +999,7 @@ translate Japanese ch0_main_336bf349:
     mc "「ああ、そうするか」"
 
 translate Japanese ch0_main_df253bf7:
-    s 4q "「やったあ～」"
+    s 4q "「やった～」"
 
 translate Japanese ch0_main_55e5370a:
     "という訳で、俺とサヨリは部室を出て、一緒に帰ることにした。"

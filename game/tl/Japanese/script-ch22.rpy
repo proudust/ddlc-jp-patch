@@ -344,7 +344,7 @@ translate Japanese ch22_main_d72b952e:
     m "「[player]君をがっかりさせないためにも頑張らなきゃ」"
 
 translate Japanese ch22_main_3049c3ae:
-    "モニカは愛らしく微笑んだ。"
+    "モニカは優しくほほ笑む。"
 
 translate Japanese ch22_main_93deaf69:
     mc "「あ……」"
@@ -509,7 +509,7 @@ translate Japanese ch22_end_e5e5ca00:
     m "「ええ、まあね」"
 
 translate Japanese ch22_end_2dd4b404:
-    n "「うぅ……本当に文化祭で何かしなきゃいけないわけ？」"
+    n "「うう……本当に文化祭で何かしなきゃいけないわけ？」"
 
 translate Japanese ch22_end_a8b0c466:
     n "「あと数日しかないのに何かやろうとしたって、何もできっこないわよ」"

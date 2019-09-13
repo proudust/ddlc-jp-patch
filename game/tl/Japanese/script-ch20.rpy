@@ -56,19 +56,19 @@ translate Japanese ch20_main2_62e2fb41:
     mc "「うん、そうだな」"
 
 translate Japanese ch20_main2_3049c3ae:
-    "モニカは可愛らしく笑った。"
+    "モニカは優しくほほ笑む。"
 
 translate Japanese ch20_main2_7c7cb783:
     "俺たちは去年同じクラスだったから、お互いのことは知っている。とはいえ滅多に話さないが。"
 
 translate Japanese ch20_main2_f583350f:
-    "モニカは才色兼備でおそらくクラスでも一番人気な女の子だ。"
+    "モニカは容姿端麗・文武両道。おそらくクラスで一番人気だった女の子だ。"
 
 translate Japanese ch20_main2_e3e8565d:
     "要するに、高嶺の花だ。"
 
 translate Japanese ch20_main2_f83977c1:
-    "だから、そんな彼女に俺に微笑まれると、少し……"
+    "だから彼女に微笑まれて、なんというか……"
 
 translate Japanese ch20_main2_36039a80:
     mc "「それで、何をしに来たんだ？」"
@@ -504,10 +504,10 @@ translate Japanese ch20_main2_30d11e87:
     "俺が入室した瞬間から控えめでおどおどした様子だった彼女の目が急にぱっと明るくなったことから察するに、彼女は人より本の世界に安らぎを見出すのだろう。"
 
 translate Japanese ch20_main2_830d7316:
-    y 2m "「でもね、他にもいろんなのが好きですよ」"
+    y 2m "「でもね、他にも様々なものが好きですよ」"
 
 translate Japanese ch20_main2_7aa57972:
-    y "「奥深い心理的要素を含む物語には思わず夢中になっちゃいますね」"
+    y "「奥深い心理的要素を含む物語には思わず夢中になってしまいますね」"
 
 translate Japanese ch20_main2_b1a75737:
     y 2a "「作家が読者の想像力不足を逆手に取って驚かせにくるなんて凄いですよね？」"
@@ -720,7 +720,7 @@ translate Japanese ch20_main2_a403322e:
     y 2v "「ごめんなさい、てっきり……」"
 
 translate Japanese ch20_main2_bc64dbb8:
-    n 5s "「ふんっ」"
+    n 5s "「ふん」"
 
 translate Japanese ch20_main2_bbe4458e:
     mc "「えっ……」"

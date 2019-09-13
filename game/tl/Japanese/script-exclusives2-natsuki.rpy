@@ -149,7 +149,7 @@ translate Japanese natsuki_exclusive2_1_7bb26e7b:
     "ナツキは俺の腕を掴んでクローゼットの中から引っ張り出した。"
 
 translate Japanese natsuki_exclusive2_1_dd24a43a:
-    "そして彼女は窓際の壁を背に、床に座り込んだ。"
+    "そして彼女は窓際の壁を背に床に座り込んだ。"
 
 translate Japanese natsuki_exclusive2_1_257d9d09:
     "すぐ隣の床を手でとんとん叩き、俺にそこに座るよう合図する。"
@@ -296,7 +296,7 @@ translate Japanese natsuki_exclusive2_1_8c8bfeaa:
     mc "「あっ、すまん……」"
 
 translate Japanese natsuki_exclusive2_1_ffa2b290:
-    n "「ふんっ」"
+    n "「ふん」"
 
 translate Japanese natsuki_exclusive2_1_ef747705:
     n "「こんなの友達に読ませられるわけないでしょ……」"
@@ -341,7 +341,7 @@ translate Japanese natsuki_exclusive2_1_52f40a00:
     n "「パパに見つかったら死ぬほどボコボコにされるし」"
 
 translate Japanese natsuki_exclusive2_1_df80381b:
-    n "「部室に置いておけばせめて安全だから」"
+    n "「部室に置いておけば安全だから」"
 
 translate Japanese natsuki_exclusive2_1_2606ec80:
     n "「モニカのことはさておき……」"
