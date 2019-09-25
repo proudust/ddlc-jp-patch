@@ -1,4 +1,5 @@
 translate Japanese ch0_main_41e273ca:
+    $ ddmm_earn_achievement(ACHIEVEMENT_START_GAME_ID)
     s "「おーはーよーーー！」"
 
 translate Japanese ch0_main_bcc5bb00:

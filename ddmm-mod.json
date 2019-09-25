@@ -2,7 +2,7 @@
     "name": "非公式日本語化パッチ",
     "description": "Doki Doki Literature Club v1.1.1を日本語化するパッチです。",
     "author": "DDLC翻訳部",
-    "uses_sdk": false,
+    "uses_sdk": true,
     "discord": "9U9QCN2",
     "website": "https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205"
 }
