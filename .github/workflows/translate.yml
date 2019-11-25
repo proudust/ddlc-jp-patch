@@ -1,0 +1,39 @@
+name: Update translate files
+
+on:
+  deployment:
+  push:
+    branches:
+      - "master"
+  schedule:
+    - cron: "21 0 * * *"
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Download translate file
+        run: |
+          curl -s -L ${{ secrets.TRANSLATE_URL }} | base64 -d > scripts.zip
+          unzip -qu scripts.zip -d game/tl/Japanese/
+          rm scripts.zip
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v1.8.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: ":sparkles: 翻訳の更新"
+          author-email: action@github.com
+          author-name: github-actions
+          title: 翻訳の更新
+          body: |
+            この Pull Request は GitHub Actions により自動生成されています。
+            毎朝 6 時に翻訳所から最新の翻訳が反映されます。
+          assignees: proudust
+          reviewers: proudust
+          base: master
+          branch: translate
+          branch-suffix: none
