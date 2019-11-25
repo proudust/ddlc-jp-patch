@@ -1,0 +1,72 @@
+name: Build by Ren'Py 6.99.12.4
+
+on: [push]
+
+env:
+  FOLDER_NAME: "DDLC_JP"
+  # PATCH_VERSION: $(git describe --tags)
+  BASE_VERSION: "v1.1.1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Get Git describe version and set to env
+        run: echo ::set-env name=PATCH_VERSION::$(git describe --tags)
+
+      - name: Download Doki Doki Literature Club! v1.1.1
+        run: |
+          wget -qO ddlc.zip `curl -qsX POST https://teamsalvato.itch.io/ddlc/file/594897 | jq -r .url`
+          unzip -q ddlc.zip
+          rm ddlc.zip
+          cp -fpr DDLC-1.1.1-pc/* .
+
+      - name: Build by Ren'Py 6.99.12.4
+        id: build
+        uses: ProjectAliceDev/renpy-build-action@v1.1.0
+        with:
+          sdk-version: "6.99.12.4"
+          project-dir: "."
+        env:
+          SDL_AUDIODRIVER: dummy
+          SDL_VIDEODRIVER: dummy
+
+      - name: Repackage
+        run: |
+          unzip -q $(ls -d ${{ steps.build.outputs.dir }}/*-MOD.zip) -d temp
+          mv temp/$(ls temp | head -n1)/ artifacts/
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: ${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}
+          path: artifacts
+
+      - name: Release preparation
+        if: startsWith(github.ref, 'refs/tags/')
+        run: zip -q -r ${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}.zip artifacts/
+
+      - name: Create Release
+        if: startsWith(github.ref, 'refs/tags/')
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ env.PATCH_VERSION }}
+          release_name: ver${{ env.PATCH_VERSION }} for ${{ env.BASE_VERSION }}
+          draft: true
+
+      - name: Upload Release Asset
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}.zip
+          asset_name: ${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}.zip
+          asset_content_type: application/zip
