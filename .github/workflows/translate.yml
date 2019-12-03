@@ -6,7 +6,7 @@ on:
     branches:
       - "master"
   schedule:
-    - cron: "21 0 * * *"
+    - cron: "0 21 * * *"
 
 jobs:
   translate:
@@ -22,7 +22,7 @@ jobs:
           rm scripts.zip
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v1.8.0
+        uses: peter-evans/create-pull-request@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: ":sparkles: 翻訳の更新"
