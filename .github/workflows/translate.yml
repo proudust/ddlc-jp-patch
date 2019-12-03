@@ -1,10 +1,10 @@
 name: Update translate files
 
 on:
-  deployment:
   push:
     branches:
       - "master"
+  repository_dispatch:
   schedule:
     - cron: "0 21 * * *"
 
