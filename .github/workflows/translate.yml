@@ -18,7 +18,7 @@ jobs:
       - name: Download translate file
         run: |
           curl -s -L ${{ secrets.TRANSLATE_URL }} | base64 -d > scripts.zip
-          unzip -qu scripts.zip -d game/tl/Japanese/
+          unzip -oq scripts.zip -d game/tl/Japanese/
           rm scripts.zip
 
       - name: Create Pull Request
