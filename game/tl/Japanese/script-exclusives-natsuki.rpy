@@ -530,7 +530,7 @@ translate Japanese natsuki_exclusive_1_15f483ef:
     "その瞬間、ナツキが突然笑いだした。"
 
 translate Japanese natsuki_exclusive_1_f991fa72:
-    n "「あははははっ！！」"
+    n "「あははははっ！」"
 
 translate Japanese natsuki_exclusive_1_1cd62078:
     n "「こういう展開だったの、すっかり忘れてたわ！」"

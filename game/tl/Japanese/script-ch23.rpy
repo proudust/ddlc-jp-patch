@@ -587,7 +587,7 @@ translate Japanese ch23_end_override_c3d21cd4:
     y 1y4 "「一つ提案があります。あなた自殺を考えたことはありますか？」"
 
 translate Japanese ch23_end_override_07331406:
-    y "「あなたの精神衛生に役立つんではないですか」"
+    y "「あなたの精神衛生に役立つのではないですか」"
 
 translate Japanese ch23_end_override_930a0609:
     n 5u "「ユリ、ちょっと怖がらせないでよ……」"

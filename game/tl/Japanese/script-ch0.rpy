@@ -1071,7 +1071,7 @@ translate Japanese ch0_kill_a2d41fd3:
     s "「私は何？」"
 
 translate Japanese ch0_kill_33a08944:
-    s "「止めさせて！」"
+    s "「止めて！」"
 
 translate Japanese ch0_kill_ace8097a:
-    s "「お願いだから止めさせて！！」"
+    s "「お願いだから止めて！！」"
