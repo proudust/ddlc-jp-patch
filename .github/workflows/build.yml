@@ -3,8 +3,6 @@ name: Build by Ren'Py 6.99.12.4
 on: [push]
 
 env:
-  FOLDER_NAME: "DDLC_JP"
-  # PATCH_VERSION: $(git describe --tags)
   BASE_VERSION: "v1.1.1"
 
 jobs:
@@ -12,42 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
 
       - name: Get Git describe version and set to env
-        run: echo ::set-env name=PATCH_VERSION::$(git describe --tags)
-
-      - name: Download Doki Doki Literature Club! v1.1.1
         run: |
-          wget -qO ddlc.zip `curl -qsX POST https://teamsalvato.itch.io/ddlc/file/594897 | jq -r .url`
-          unzip -q ddlc.zip
-          rm ddlc.zip
-          cp -fpr DDLC-1.1.1-pc/* .
+          git fetch --prune --unshallow
+          PATCH_VERSION=`git describe --tags`
+          ARTIFACT_NAME=DDLC_JP_$PATCH_VERSION
+          echo ::set-env name=PATCH_VERSION::$PATCH_VERSION
+          echo ::set-env name=ARTIFACT_NAME::$ARTIFACT_NAME
 
       - name: Build by Ren'Py 6.99.12.4
-        id: build
-        uses: ProjectAliceDev/renpy-build-action@master
-        with:
-          sdk-version: "6.99.12.4"
-          project-dir: "."
-        env:
-          SDL_AUDIODRIVER: dummy
-          SDL_VIDEODRIVER: dummy
-
-      - name: Repackage
-        run: |
-          unzip -q $(ls -d ${{ steps.build.outputs.dir }}/*-MOD.zip) -d temp
-          mv temp/$(ls temp | head -n1)/ artifacts/
+        run: chmod -R +x ./tools/*.sh && ./tools/distribute.sh
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v1
         with:
-          name: ${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}
-          path: artifacts
-
-      - name: Release preparation
-        if: startsWith(github.ref, 'refs/tags/')
-        run: zip -q -r ${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}.zip artifacts/
+          name: ${{ env.ARTIFACT_NAME }}
+          path: ${{ env.ARTIFACT_NAME }}
 
       - name: Create Release
         if: startsWith(github.ref, 'refs/tags/')
@@ -67,6 +47,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}.zip
-          asset_name: ${{ env.FOLDER_NAME }}_${{ env.PATCH_VERSION }}.zip
+          asset_path: ./${{ env.ARTIFACT_NAME }}.zip
+          asset_name: ${{ env.ARTIFACT_NAME }}.zip
           asset_content_type: application/zip
+
+  check-translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Check translates
+        run: chmod -R +x ./tools/*.sh && python3 -c 'from tools.check_translate import main; main()'
+
+      - if: failure()
+        name: Upload build artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: Check translates error report
+          path: ./error_report.tab

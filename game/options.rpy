@@ -2,7 +2,7 @@ define build.name = "DDLC_JP"
 define config.layers = [ 'master', 'transient', 'screens', 'overlay', 'front' ]
 
 init python:
-    build.package(build.directory_name + "MOD", 'zip', build.name, description='DDLC Compatible Mod')
+    build.package(build.directory_name + "Mod", 'zip', build.name, description='DDLC Compatible Mod')
 
     build.archive("jp", build.name)
     build.classify("game/tl/Japanese/**.jpg", "jp")
