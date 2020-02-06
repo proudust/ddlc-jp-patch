@@ -5,6 +5,7 @@ renpy/
 *.rpa
 *.rpy[bc]
 *.save
+*.tab
 log.txt
 errors.txt
 traceback.txt
@@ -22,6 +23,12 @@ hxppy thxughts.png
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt
 README.html
 
+# Python
+__pycache__/
+
 # VSCode
 .history
 .vscode
+
+# ddlc-jp-patch
+/DDLC_JP_*
