@@ -166,7 +166,7 @@ translate None screen:
             label _(message):
                 style "confirm_prompt"
                 xalign 0.5
-            input default "" value VariableInputValue("player") length 12 pixel_width 168
+            input default "" value VariableInputValue("player") length 12 pixel_width 168 exclude "{}"
             hbox:
                 xalign 0.5
                 spacing 100
