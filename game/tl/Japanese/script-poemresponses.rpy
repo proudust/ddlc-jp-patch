@@ -2693,7 +2693,7 @@ translate Japanese ch3_n_good_fd65c270:
     n 5q "「それはもうゴミ同然よ」"
 
 translate Japanese ch3_n_good_395ef125:
-    n "「それにあんたはわたしの詩が嫌いなんでしょ」"
+    n "「それにあんたはわたしの詩が嫌いだって分かってるし」"
 
 translate Japanese ch3_n_good_c7a152d1:
     n "「だから読む必要なんて無いわよね」"
@@ -2714,10 +2714,10 @@ translate Japanese ch3_n_good_e9ca074e:
     mc "「本当にな」"
 
 translate Japanese ch3_n_good_89d63b52:
-    mc "「俺が詩の書き方の良し悪しなんて判断できるか？」"
+    mc "「どうして俺が詩のスタイルでお前を判断できるんだ？」"
 
 translate Japanese ch3_n_good_9a77974b:
-    mc "「別に俺の書き方がおかしいことの言い訳じゃないが」"
+    mc "「自分のスタイルがおかしいなんて限らないじゃないか」"
 
 translate Japanese ch3_n_good_671d522b:
     mc "「確かに、お前の詩を最初に読んだ時、俺はちゃんと読み取れていなかった」"
@@ -2732,7 +2732,7 @@ translate Japanese ch3_n_good_67c00169:
     mc "「サヨリも……いつも悪気は無いんだ……」"
 
 translate Japanese ch3_n_good_88f16d00:
-    mc "「でもサヨリは単純だから、表面上の面白いことに気を取られて、他人が本当は何を考えているかなんて分かってない時がある」"
+    mc "「でもサヨリは単純だから、表面上の面白いことに気を取られて、他人が本当は何を求めているかなんて分かってない時がある」"
 
 translate Japanese ch3_n_good_00a2eab2:
     mc "「ああ……俺もお前がどれだけ苦労しているかちゃんと考えてなかったよ」"
@@ -4259,7 +4259,7 @@ translate Japanese ch1_y_good_3d222e4c:
     y 1a "「どのような執筆経験をお持ちですか？」"
 
 translate Japanese ch1_y_good_cfb79c7c:
-    y "「比喩と隠喩の使い方からあなたが多くの詩を書いてきたことが見てとれます」"
+    y "「形象化と暗喩の使い方からあなたが多くの詩を書いてきたことが見てとれます」"
 
 translate Japanese ch1_y_good_72610a7c:
     mc "「本当か……？」"
@@ -4487,7 +4487,7 @@ translate Japanese ch2_y_shared_7f01fce7:
     y "「比喩はとても効果的なんです」"
 
 translate Japanese ch2_y_shared_4b5ff4b6:
-    y "「沢山のギアを正確に組み合わせるような考え方をする必要はありません」"
+    y "「沢山の歯車を正確に組み合わせるような考え方をする必要はありません」"
 
 translate Japanese ch2_y_shared_8bfd21ff:
     y 1m "「自分の感情に従って思うがままに……」"
@@ -4559,7 +4559,7 @@ translate Japanese ch2_y_med_e307176a:
     y "「お役に立てているならそれだけで私は満足ですし……」"
 
 translate Japanese ch2_y_med_79d95be2:
-    y "「あなたはまだ初心者ですから、上手くいかないと感じたとしても気にしないでくださいね」"
+    y "「あなたはまだ初めたばかりなんですから、上手くいかないと感じたとしても気にしないでくださいね」"
 
 translate Japanese ch2_y_med_595439f7_1:
     y 1a "「それでは今日の詩を拝見します」"
@@ -4829,7 +4829,7 @@ translate Japanese ch3_y_bad12_shared_40909dc5:
     mc "「もっと分かりやすいことになっていると思うぞ」"
 
 translate Japanese ch3_y_bad12_shared_1fab1b1f:
-    mc "「ユリ深読みしすぎることは俺も知っている」"
+    mc "「ユリが深読みしすぎることは俺も知っている」"
 
 translate Japanese ch3_y_bad12_shared_e463565f:
     mc "「でも、時には額面通りに受け取ってもいいこともあるんだ」"
@@ -5138,10 +5138,10 @@ translate Japanese ch3_y_good_886256e6:
     "手には汗をかいているようだ。"
 
 translate Japanese ch3_y_good_b0152027:
-    y "「わ、私……慣れていなくて……」"
+    y "「わ、私……こういうのに慣れていなくて……」"
 
 translate Japanese ch3_y_good_4f3efe52:
-    mc "「慣れてないって何に？」"
+    mc "「こういうのって？」"
 
 translate Japanese ch3_y_good_a4567583:
     y 3o "「何と言えば良いのか……！」"
@@ -5483,7 +5483,7 @@ translate Japanese ch1_m_start_666605e3:
     m 1k "「それなら良かった！」"
 
 translate Japanese ch1_m_start_93e2ca00:
-    m 4a "「そうそう、あなたはまだ新入りだから言っておきたいんだけど……」"
+    m 4a "「そうそう、あなたはまだ慣れていないだろうけど……」"
 
 translate Japanese ch1_m_start_2c3797ba:
     m "「部活で何か提案したいことや、改善したいことが思い浮かんだら……」"
@@ -5897,7 +5897,7 @@ translate Japanese m_yuri_1_8d0f13fc:
     m 2a "「ところで、この詩はユリの好きな書き方でしょう？」"
 
 translate Japanese m_yuri_1_0ec7a5f5:
-    m "「象徴性と比喩表現が満載の書き方ね」"
+    m "「形象化と暗喩が満載の書き方ね」"
 
 translate Japanese m_yuri_1_b447b75b:
     m 2d "「サヨリは逆に、簡単で率直な言葉で幸せや悲しみを表現するのが好きなんだけど……」"

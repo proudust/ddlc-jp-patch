@@ -401,7 +401,7 @@ translate Japanese sayori_exclusive_1_4f1389df:
     mc "「なにニヤニヤしてるんだよ」"
 
 translate Japanese sayori_exclusive_1_7c1d17ee:
-    s "「胸がまた大きくなったってことだ！」"
+    s "「胸がまた大きくなったってことだね！」"
 
 translate Japanese sayori_exclusive_1_dbe188cc:
     mc "「で、デカい声で言うな！」"

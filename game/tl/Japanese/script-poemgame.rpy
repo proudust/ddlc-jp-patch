@@ -372,7 +372,7 @@ translate Japanese strings:
     new "うずまく"
 
     old "lollipop"
-    new "飴ん棒"
+    new "ロリポップ"
 
     old "poof"
     new "パッと"

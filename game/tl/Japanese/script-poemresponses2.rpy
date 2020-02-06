@@ -17,7 +17,7 @@ translate Japanese ch22_y_end_56626e8b:
     y "「私、えっと……」"
 
 translate Japanese ch22_y_end_5663b4c6:
-    y 2y6 "「ただ書き心地が……すごく……好きなんです」"
+    y 2y6 "「ただ……すごく……いいんです……書き心地が」"
 
 translate Japanese ch22_y_end_12f2538c:
     y "「なのでこれを使って……この詩を書きました……」"
