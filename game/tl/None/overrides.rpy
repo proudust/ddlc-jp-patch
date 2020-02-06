@@ -8,7 +8,7 @@ init python:
 
 translate None python:
     # 接頭詞・接尾詞の設定
-    mc = DynamicCharacter('player', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+    mc = DynamicCharacter('player + "{w}"', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
     s = DynamicCharacter('s_name', image='sayori', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
     m = DynamicCharacter('m_name', image='monika', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
     n = DynamicCharacter('n_name', image='natsuki', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
