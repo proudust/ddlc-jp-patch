@@ -32,6 +32,7 @@ jobs:
           body: |
             この Pull Request は GitHub Actions により自動生成されています。
             毎朝 6 時に翻訳所から最新の翻訳が反映されます。
+          labels: automated pr
           assignees: proudust
           reviewers: proudust
           branch: translate

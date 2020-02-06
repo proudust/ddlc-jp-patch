@@ -1,4 +1,4 @@
-name: Build by Ren'Py 6.99.12.4
+name: Build
 
 on: [push]
 
