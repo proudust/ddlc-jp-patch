@@ -227,7 +227,7 @@ translate Japanese yuri_exclusive_1_1b4a2d9b:
     y 3t "「なのでもし変なことを言ったらごめんなさい！」"
 
 translate Japanese yuri_exclusive_1_7e573792:
-    y "「あと喋りすぎていたら遠慮なく止めてください！」"
+    y "「あと、喋りすぎていたら遠慮なく止めてください！」"
 
 translate Japanese yuri_exclusive_1_db2f7cec:
     mc "「それは――」"
@@ -305,7 +305,7 @@ translate Japanese yuri_exclusive_1_678618c7:
     y "「嫌だという訳ではないんです」"
 
 translate Japanese yuri_exclusive_1_b683d384:
-    y "「こういったことに慣れていなくて……」"
+    y "「こういうことに慣れていなくて……」"
 
 translate Japanese yuri_exclusive_1_a44cd31c:
     y "「その、誰かのそばで読書をすることに」"
@@ -404,7 +404,7 @@ translate Japanese yuri_exclusive_1_93deaf69:
     mc "「なるほど……」"
 
 translate Japanese yuri_exclusive_1_8aa7edbf:
-    "俺も右手で本の右側を同じように持つ。"
+    "俺も右手で本の右端を同じように持つ。"
 
 translate Japanese yuri_exclusive_1_f4605bd6:
     "こうすることで、俺がページをめくれば、反対側へ落ちるページをユリが親指の下にすべらせることができる。"
@@ -440,7 +440,7 @@ translate Japanese yuri_exclusive_1_5252b0b0:
     "再度ユリの顔を方を見ると、ちょうど目が合ってしまった。"
 
 translate Japanese yuri_exclusive_1_7a860699:
-    "……この状況、俺はいつまで耐えられるだろうか……"
+    "この状況、俺はいつまで耐えられるだろうか……"
 
 translate Japanese yuri_exclusive_1_728dcbc5_2:
     y "「あっ……」"

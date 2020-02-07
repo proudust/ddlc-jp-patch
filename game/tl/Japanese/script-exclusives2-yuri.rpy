@@ -206,7 +206,7 @@ translate Japanese yuri_exclusive2_1_ch22_ae7f22e8:
     y "「それなら……」"
 
 translate Japanese yuri_exclusive2_1_ch22_9520be33:
-    y "「それなら、良いんですけど……」"
+    y "「それなら、いいんですけど……」"
 
 translate Japanese yuri_exclusive2_1_ch22_432dd786:
     y 4a "「でもこれは伝えておいた方が良いかもしれません……」"
@@ -323,7 +323,7 @@ translate Japanese yuri_exclusive2_1_ch22_695b1b6b:
     "しばらく読み進めてから、ユリの言っていたことが分かった。"
 
 translate Japanese yuri_exclusive2_1_ch22_d2bc4359:
-    "こうやってすぐそばで読書していると、肩越しに彼女の気配を感じる。"
+    "こうやってすぐそばで読書をしていると、肩越しに彼女の気配を感じる。"
 
 translate Japanese yuri_exclusive2_1_ch22_336c3ecb:
     "だが大して悪いことだとは思わない。"
@@ -404,7 +404,7 @@ translate Japanese yuri_exclusive2_1_ch22_93deaf69:
     mc "「なるほど……」"
 
 translate Japanese yuri_exclusive2_1_ch22_8aa7edbf:
-    "俺も本の右端を右手で同じように持つ。"
+    "俺も右手で本の右端を同じように持つ。"
 
 translate Japanese yuri_exclusive2_1_ch22_f4605bd6:
     "こうすることで、俺がページをめくれば、反対側へ落ちるページをユリが親指の下にすべらせることができる。"

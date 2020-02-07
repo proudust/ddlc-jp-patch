@@ -932,7 +932,7 @@ translate Japanese ch21_m_start_666605e3:
     m 1k "「それなら良かった！」"
 
 translate Japanese ch21_m_start_93e2ca00:
-    m 4a "「そうそう、あなたはまだ新入りだから言っておきたいんだけど……」"
+    m 4a "「そうそう、あなたはまだ慣れていないだろうけど……」"
 
 translate Japanese ch21_m_start_2c3797ba:
     m "「部活で何か提案したいことや、改善したいことが思い浮かんだら……」"
@@ -980,7 +980,7 @@ translate Japanese ch21_m_start_18b074dd:
     "俺はモニカに詩を渡す。"
 
 translate Japanese ch21_m_start_e918c8cd:
-    m 2a "「……うんっ！」"
+    m 2a "「……ふうん！」"
 
 translate Japanese ch21_m_start_9d47e097:
     m 1a "「そんなことより、私の詩を読んでみる？」"
@@ -1175,7 +1175,7 @@ translate Japanese m2_yuri_1_8d0f13fc:
     m 2a "「ところで、この詩はユリの好きな書き方でしょう？」"
 
 translate Japanese m2_yuri_1_0ec7a5f5:
-    m "「象徴性と比喩表現が満載の書き方ね」"
+    m "「形象化と暗喩が満載の書き方ね」"
 
 translate Japanese m2_yuri_1_920fac83:
     m 2d "「ユリの心って、現実から完璧かけ離れてしまってるって思うことがあるの」"

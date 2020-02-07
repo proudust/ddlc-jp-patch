@@ -5,7 +5,7 @@ translate Japanese ch4_main_e8881ae0:
     "ナツキの訪問が近づくにつれ、不安になってきた。"
 
 translate Japanese ch4_main_1e3fd2be:
-    "何も心配することはないと自問自答し続けてはいるが、何の助けにもなりゃしなかった。"
+    "何も心配することはないと言い聞かせるが、どうもうまくいかない。"
 
 translate Japanese ch4_main_d63e1a44:
     "二人きりになったら、ナツキは態度が変わったりするだろうか？"
@@ -29,7 +29,7 @@ translate Japanese ch4_main_533ca6d9:
     "ユリの訪問が近づくにつれ、不安になってきた。"
 
 translate Japanese ch4_main_1e3fd2be_1:
-    "自分に心配する必要ないと言い聞かせるが、どうもうまくいかない。"
+    "何も心配することはないと言い聞かせるが、どうもうまくいかない。"
 
 translate Japanese ch4_main_6a261072:
     "ユリは普段は内向的で静かな人間だ。"
