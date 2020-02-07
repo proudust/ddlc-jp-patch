@@ -483,13 +483,13 @@ translate Japanese natsuki_exclusive2_1_a968bb9a:
 
 translate Japanese strings:
     old "Freaking Monika..."
-    new "「モニカのやつ……」"
+    new "モニカのやつ……"
 
     old "Consider this a lesson straight from the Literature Club: Don't judge a book by its cover!"
-    new "「これは文芸部直々の教えだと思いなさい。本を表紙で判断しないことよ！」"
+    new "これは文芸部直々の教えだと思いなさい。本を表紙で判断しないことよ！"
 
     old "I don't even know what my dad would do if he found this."
-    new "「パパに見つかったらどうなるか分からないし」"
+    new "パパに見つかったらどうなるか分からないし"
 
     old "{#natsuki_exclusive2_1_f5f51468}"
     new "「もうっ……！」"
