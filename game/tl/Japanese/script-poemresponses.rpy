@@ -4625,10 +4625,10 @@ translate Japanese ch2_y_good_shared_886256e6:
     "手には汗をかいているようだ。"
 
 translate Japanese ch2_y_good_shared_b0152027:
-    y "「わ、私……慣れていなくて……」"
+    y "「わ、私……こういうのに慣れていなくて……」"
 
 translate Japanese ch2_y_good_shared_4f3efe52:
-    mc "「慣れてないって何に？」"
+    mc "「こういうのって？」"
 
 translate Japanese ch2_y_good_shared_a4567583:
     y 3o "「何と言えば良いのか……！」"
@@ -5129,7 +5129,7 @@ translate Japanese ch3_y_good_f8777275:
     mc "「ユリの教え方が良かったってことだ」"
 
 translate Japanese ch3_y_good_34dbd777:
-    mc "「もうちょっと感情を表現したかったんだけど」"
+    mc "「もうちょっと比喩的表現を使いたかったんだけど」"
 
 translate Japanese ch3_y_good_4ba84665:
     "ユリは唾を飲んだ。"
