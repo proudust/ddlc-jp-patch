@@ -856,3 +856,849 @@ translate Japanese strings:
 
     old "Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with"
     new "文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？文芸部へようこそ！私の夢は大好きなことを通して、特別なものを作り出すこと。新入部員のあなたには、その夢をこの可愛いゲームで実現させるお手伝いをしてほしいの！部活は毎日お喋りと楽しい活動でいっぱい！一緒に過ごす個性豊かなかわいい部員たちを紹介するわ。幸せを大事にする、太陽のように元気なサヨリ。芯が強くて、ちょっと小悪魔なナツキ。本の世界に安らぎを見出す、ひかえめでミステリアスなユリ。そしてもちろん、部長のモニカ！それが私！部員と絆を深めて、文芸部をみんなにとって特別な場所にしましょうね。でも私はあなたのことももっと知りたいな。誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束してくれる？誰よりも私と一緒に過ごすって約束して"
+
+    old "{#ch23_main_7050b825}"
+    new "「こんにちは、[player]さん」"
+
+    old "{#ch23_main_1df6e5d1}"
+    new "「あなたの事を待ってました」"
+
+    old "{#ch23_main_710e8cd1}"
+    new "「続きを読む用意はできていますか？」"
+
+    old "{#ch23_main_7ae62c8f}"
+    new "「今日は私の一番気に入っているお茶を持ってきたん――」"
+
+    old "{#ch23_main_f551a3f1}"
+    new "「モニカ！」"
+
+    old "{#ch23_main_9e09898f}"
+    new "「それはやめてって言ってるで――」"
+
+    old "{#ch23_main_51576242}"
+    new "「うう……」"
+
+    old "{#ch23_main_2ea6ab87}"
+    new "「モニカはまた遅刻なの？」"
+
+    old "{#ch23_main_ce267a6e}"
+    new "「相変わらずそそっかしいですね、ナツキちゃんは」"
+
+    old "{#ch23_main_ea04149f}"
+    new "「何ですって？」"
+
+    old "{#ch23_main_ff693c61}"
+    new "「まくし立てて私が話すのを邪魔しようとしないでくださいます？」"
+
+    old "{#ch23_main_f3c12a1b}"
+    new "「何言ってんの？」"
+
+    old "{#ch23_main_3c0c663d}"
+    new "「それだとわたしがいつも邪魔してるみたいじゃん」"
+
+    old "{#ch23_main_61fe94b7}"
+    new "「わたしが気づかなかっただけ、分かった？ 悪かったわね」"
+
+    old "{#ch23_main_688e23bd}"
+    new "「真面目な話、最近どうしちゃったの？」"
+
+    old "{#ch23_main_aec99ee7}"
+    new "「ねえ……」"
+
+    old "{#ch23_main_77a57419}"
+    new "「昨日のことをちょっと考えてたんだけど」"
+
+    old "{#ch23_main_b06fe910}"
+    new "「わたしって自分が思ってたよりちょっとキツイ感じだったかも……」"
+
+    old "{#ch23_main_6a970664}"
+    new "「実際怯えか何かを感じてたというか……」"
+
+    old "{#ch23_main_c611de3f}"
+    new "「でもこれはみんなでやるべきことでしょ？」"
+
+    old "{#ch23_main_9d78240c}"
+    new "「良いやつなら新入部員が入ってくるのも悪くないし……」"
+
+    old "{#ch23_main_3f2648e5}"
+    new "「それに今度は女子が入ってきたら嬉しいじゃない……」"
+
+    old "{#ch23_main_d3a83711}"
+    new "「だから……」"
+
+    old "{#ch23_main_61e07ad0}"
+    new "「ナツキちゃん……」"
+
+    old "{#ch23_main_2c85ff6d}"
+    new "「どうでもいいです」"
+
+    old "{#ch23_main_83c58f04}"
+    new "「自販機の下にある小銭でも探して来たらどうですか？」"
+
+    old "{#ch23_main_a2465aed}"
+    new "「っ！」"
+
+    old "{#ch23_main_80e20624}"
+    new "「……」"
+
+    old "{#ch23_main_03fdb2df}"
+    new "「……」"
+
+    old "{#ch23_main_9f4a56c4}"
+    new "「あら……」"
+
+    old "{#ch23_main_055e03b2}"
+    new "「また私が最後だったのね」"
+
+    old "{#ch23_main_6add972a}"
+    new "「またピアノを練習していたんですか？」"
+
+    old "{#ch23_main_36ae6554}"
+    new "「そうなの……」"
+
+    old "{#ch23_main_f6daf90a}"
+    new "「あはは……」"
+
+    old "{#ch23_main_f6674ca2}"
+    new "「モニカちゃんは意志が強いですね」"
+
+    old "{#ch23_main_2e753773}"
+    new "「この部活を作ったり、今度はピアノの練習だったり……」"
+
+    old "{#ch23_main_d085cf7d}"
+    new "「うーん、たぶん意志が強いっていうよりは……」"
+
+    old "{#ch23_main_1c6578c8}"
+    new "「そう、これはきっと熱意ね」"
+
+    old "{#ch23_main_d97c7a77}"
+    new "「情熱が文化祭に向けて私をやる気にさせてるんだから」"
+
+    old "{#ch23_main_e28db252}"
+    new "「私？」"
+
+    old "{#ch23_main_6707b26d}"
+    new "「な、何でも……」"
+
+    old "{#ch23_main_bb2cf764}"
+    new "「……」"
+
+    old "{#ch23_main_18e5bacb}"
+    new "「そんなに悪いの……？」"
+
+    old "{#ch23_main_3cc8808d}"
+    new "「ほら、やっぱり何があったんじゃない」"
+
+    old "{#ch23_main_08cc4542}"
+    new "「もうこの話はやめましょう！」"
+
+    old "{#ch23_main_47f66db8}"
+    new "「大したことではありませんし……」"
+
+    old "{#ch23_main_48539aa4}"
+    new "「最近ちょっとイライラしているだけです……」"
+
+    old "{#ch23_main_c4a524c3}"
+    new "「と、とにかく、この話を続ける必要はありません！」"
+
+    old "{#ch23_main_3259bf54}"
+    new "「まあ、聞いてみようと思っただけよ」"
+
+    old "{#ch23_main_83be9d6f}"
+    new "「別に気にしてる訳じゃないし……」"
+
+    old "{#ch23_main_9f4a56c4_1}"
+    new "「あら……」"
+
+    old "{#ch23_main_055e03b2_1}"
+    new "「また私が最後だったのね」"
+
+    old "{#ch23_main_e9f977cc}"
+    new "「まあ、[player]も今来たとこだし」"
+
+    old "{#ch23_main_6add972a_1}"
+    new "「またピアノを練習していたんですか？」"
+
+    old "{#ch23_main_36ae6554_1}"
+    new "「そうなの……」"
+
+    old "{#ch23_main_f6daf90a_1}"
+    new "「あはは……」"
+
+    old "{#ch23_main_f6674ca2_1}"
+    new "「モニカちゃんは意志が強いですね」"
+
+    old "{#ch23_main_2e753773_1}"
+    new "「この部活を作ったり、今度はピアノの練習だったり……」"
+
+    old "{#ch23_main_d085cf7d_1}"
+    new "「うーん、たぶん意志が強いっていうよりは……」"
+
+    old "{#ch23_main_1c6578c8_1}"
+    new "「そう、これはきっと熱意ね」"
+
+    old "{#ch23_main_baac88a3}"
+    new "「情熱が文化祭に向けて私をやる気にさせてるし……」"
+
+    old "{#ch23_main_a9dfe205}"
+    new "「その……」"
+
+    old "{#ch23_main_9977936e}"
+    new "「……」"
+
+    old "{#ch23_main_a2744047}"
+    new "「そうね……」"
+
+    old "{#ch23_main_fd135007}"
+    new "「わ、忘れちゃった……」"
+
+    old "{#ch23_main_3754a60b}"
+    new "「えっと、そんなことよりナツキちゃん……」"
+
+    old "{#ch23_main_6f1da170}"
+    new "「昨日、私たち色々話しあって、それで……」"
+
+    old "{#ch23_main_93c7a69f}"
+    new "「あの……私たちは文化祭の準備を手伝うつもりなんです」"
+
+    old "{#ch23_main_a7088884}"
+    new "「とはいえ……！」"
+
+    old "{#ch23_main_dac27ea1}"
+    new "「この部活が変わってほしくないというあなたの気持ちも分かります」"
+
+    old "{#ch23_main_edf39968}"
+    new "「私たちみんなそう感じてるのではないでしょうか」"
+
+    old "{#ch23_main_8a809ddc}"
+    new "「だから、私達全員が一緒に活動していれば、きっとこの部活が望まない方向に進むことはないと思うんです」"
+
+    old "{#ch23_main_bb2cf764_1}"
+    new "「……」"
+
+    old "{#ch23_main_c6a1d93a}"
+    new "「えっと、それに……」"
+
+    old "{#ch23_main_fadce1c3}"
+    new "「ナツキちゃんがお手伝いしてくれるのなら……」"
+
+    old "{#ch23_main_f9ac06bc}"
+    new "「……その時はあなたに新しいマンガを買いますから！」"
+
+    old "{#ch23_main_00e847a6}"
+    new "「……」"
+
+    old "{#ch23_main_b932777d}"
+    new "「あははは！」"
+
+    old "{#ch23_main_5a4d1655}"
+    new "「ごめん、最後のとこが本当に面白くて」"
+
+    old "{#ch23_main_795c1df2}"
+    new "「ねえ……」"
+
+    old "{#ch23_main_77a57419_1}"
+    new "「昨日のことをちょっと考えてたんだけど」"
+
+    old "{#ch23_main_b06fe910_1}"
+    new "「わたしって自分が思ってたよりちょっとキツイ感じだったかも……」"
+
+    old "{#ch23_main_6a970664_1}"
+    new "「実際怯えか何かを感じてたというか……」"
+
+    old "{#ch23_main_c611de3f_1}"
+    new "「でもこれはみんなでやるべきことでしょ？」"
+
+    old "{#ch23_main_9d78240c_1}"
+    new "「良いやつなら新入部員が入ってくるのも悪くないし……」"
+
+    old "{#ch23_main_3f2648e5_1}"
+    new "「それに今度は女子が入ってきたら嬉しいじゃない……」"
+
+    old "{#ch23_main_5b5b4f34}"
+    new "「……でも第一、わたしが断ったせいで酷い出来の文化祭を見るハメになるのはゴメンだわ！」"
+
+    old "{#ch23_main_0dc50158}"
+    new "「わたしはプロなのよ！」"
+
+    old "{#ch23_main_6991fd65}"
+    new "「だから手伝うつもりだし、わたしたちならちゃんとできるわよ」"
+
+    old "{#ch23_main_6405094c}"
+    new "「良かった……」"
+
+    old "{#ch23_main_bc78cc3f}"
+    new "「これって素敵じゃないですか、モニカちゃん？」"
+
+    old "{#ch23_main_c3e4602b}"
+    new "「……モニカ？」"
+
+    old "{#ch23_main_4db600d5}"
+    new "「あ――」"
+
+    old "{#ch23_main_357961d6}"
+    new "「ええ、素晴らしいわ！」"
+
+    old "{#ch23_main_2e60affc}"
+    new "「ナツキ、あなたがいてくれて本当に助かるわ」"
+
+    old "{#ch23_main_96ff8363}"
+    new "「さて、[player]君……」"
+
+    old "{#ch23_main_ba6cd59b}"
+    new "「今日は何したい？」"
+
+    old "{#ch23_main_c183fdb2}"
+    new "「よかったら一緒に――」"
+
+    old "{#ch23_main_5cfe00eb}"
+    new "「今日やる事はもう決まっていますよ」"
+
+    old "{#ch23_main_07eab780}"
+    new "「えっ……」"
+
+    old "{#ch23_main_56ad88e4}"
+    new "「ユリ、そうなの？」"
+
+    old "{#ch23_main_d470cf0a}"
+    new "「ええ、そうです」"
+
+    old "{#ch23_main_8a88fa85}"
+    new "「[player]さんは私たち二人で読んでいる小説にもう読み更けていますから」"
+
+    old "{#ch23_main_c4c4045b}"
+    new "「[player]さんがもう文学にのめり込んでるだなんて喜ばしいことですよね、モニカちゃん？」"
+
+    old "{#ch23_main_a7c87622}"
+    new "「私……」"
+
+    old "{#ch23_main_1164b425}"
+    new "「思うんだけど……」"
+
+    old "{#ch23_main_4ada0fd4}"
+    new "「私はただ……」"
+
+    old "{#ch23_main_a5ae1347}"
+    new "「いえ、何でもないわ」"
+
+    old "{#ch23_main_09d0fb57}"
+    new "「大したことでもないし」"
+
+    old "{#ch23_main_79fd62df}"
+    new "「あなたたちがしたいことなら何でもいいわ」"
+
+    old "{#ch23_main_13ff9bc7}"
+    new "「{i}(やった！){/i}{w=0.5}{nw}」"
+
+    old "{#ch23_main_727caeb4}"
+    new "「ええ……分かってくれてありがとうございます、モニカちゃん」"
+
+    old "{#ch23_end_override_90de9c4d}"
+    new "「よし、みんな！」"
+
+    old "{#ch23_end_override_0993759e}"
+    new "「文化祭の準備をする時間よ」"
+
+    old "{#ch23_end_override_772ec4c7}"
+    new "「急いでさっさと片付けてしまいましょ」"
+
+    old "{#ch23_end_override_bb2cf764}"
+    new "「……」"
+
+    old "{#ch23_end_override_a8557d5c}"
+    new "「もう……」"
+
+    old "{#ch23_end_override_2035e967}"
+    new "「なんで今日は全体的に妙な雰囲気なのよ？」"
+
+    old "{#ch23_end_override_42c8edbf}"
+    new "「ほら、ユリですら影響を受けちゃってるし」"
+
+    old "{#ch23_end_override_6559e79e}"
+    new "「うう……」"
+
+    old "{#ch23_end_override_3d9092ae}"
+    new "「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」"
+
+    old "{#ch23_end_override_08590660}"
+    new "「ほら、いいから終わらせましょう？」"
+
+    old "{#ch23_end_override_5a08f549}"
+    new "「私は詩を集めて印刷してパンフレットにするわ」"
+
+    old "{#ch23_end_override_dd665f4a}"
+    new "「ナツキ、あなたカップケーキを作れるでしょ？」"
+
+    old "{#ch23_end_override_18c7cbb6}"
+    new "「それだけは得意だものね」"
+
+    old "{#ch23_end_override_07a96f6a}"
+    new "「……」"
+
+    old "{#ch23_end_override_770e4677}"
+    new "「ナツキ、私が思うに――」"
+
+    old "{#ch23_end_override_b0ad33ab}"
+    new "「わたし、カップケーキ作りたい！」"
+
+    old "{#ch23_end_override_b02e47f8}"
+    new "「……その意気よ」"
+
+    old "{#ch23_end_override_58304296}"
+    new "「分かってもらえて嬉しいわ」"
+
+    old "{#ch23_end_override_31d39fd0}"
+    new "「ユリ、あなたは……」"
+
+    old "{#ch23_end_override_bed9d866}"
+    new "「……まあ、何をしたって構わないわ」"
+
+    old "{#ch23_end_override_222e42cb}"
+    new "「手伝いになりそうなことなら何でもして」"
+
+    old "{#ch23_end_override_a17b13bf}"
+    new "「モニカちゃん……」"
+
+    old "{#ch23_end_override_c0d26207}"
+    new "「私は役立たずではありません！」"
+
+    old "{#ch23_end_override_acf82de7}"
+    new "「そ、それくらい分かってるわよ！」"
+
+    old "{#ch23_end_override_78d0b4fa}"
+    new "「私が何をしたいかはもう決めてます」"
+
+    old "{#ch23_end_override_364de31c}"
+    new "「詩の朗読会はそれに適したムードの中でないと成功しません」"
+
+    old "{#ch23_end_override_e9660d91}"
+    new "「だから、飾り付けをして、雰囲気を作る照明を取り付けるんです」"
+
+    old "{#ch23_end_override_19a8f971}"
+    new "「ほらね？」"
+
+    old "{#ch23_end_override_2d145eae}"
+    new "「良いアイデアが出てきたじゃない！」"
+
+    old "{#ch23_end_override_2ef36761}"
+    new "「これでみんなの役割が決まったわね」"
+
+    old "{#ch23_end_override_5f1028e8}"
+    new "「え？」"
+
+    old "{#ch23_end_override_69b689b0}"
+    new "「[player]さんは何をするのですか？」"
+
+    old "{#ch23_end_override_f12d9d00}"
+    new "「[player]君は私のお手伝いよ」"
+
+    old "{#ch23_end_override_03042821}"
+    new "「待って、モニカの？」"
+
+    old "{#ch23_end_override_1cff0263}"
+    new "「モニカはいっちばん簡単な仕事じゃない！」"
+
+    old "{#ch23_end_override_ec97ece1}"
+    new "「ごめんなさいね、でもそういうことよ」"
+
+    old "{#ch23_end_override_1cadb8f9}"
+    new "「最悪！」"
+
+    old "{#ch23_end_override_8c2e73b8}"
+    new "「何をするつもりなのよ？」"
+
+    old "{#ch23_end_override_2d1ca9bc}"
+    new "「な、ナツキちゃんに同意です！」"
+
+    old "{#ch23_end_override_2fcdee48}"
+    new "「一人でも十分にこなせる仕事ですし……」"
+
+    old "{#ch23_end_override_916ef5f0}"
+    new "「私のする作業は猫の手を借りたいほどですもの」"
+
+    old "{#ch23_end_override_613a8351}"
+    new "「わたしもよ！」"
+
+    old "{#ch23_end_override_55f6cc17}"
+    new "「えっ、カップケーキが？」"
+
+    old "{#ch23_end_override_43eb3793}"
+    new "「本気ですか……？」"
+
+    old "{#ch23_end_override_6c43f72e}"
+    new "「{i}あんたに{/i}何が分かるのよ！ 」"
+
+    old "{#ch23_end_override_337d9e3a}"
+    new "「あんたは自分の読書に[player]を巻き込むことしか頭にないんだから」"
+
+    old "{#ch23_end_override_65c4d2ca}"
+    new "「あんた{i}と{/i}モニカよ！」"
+
+    old "{#ch23_end_override_302246ea}"
+    new "「ちょっと！」"
+
+    old "{#ch23_end_override_c61da5ee}"
+    new "「私は何もしてないじゃない！」"
+
+    old "{#ch23_end_override_83974bd9}"
+    new "「分かったわ。モニカが権力を悪用しないように、[player]に誰を手伝うか決めさせない？」"
+
+    old "{#ch23_end_override_53e2984b}"
+    new "「私は……権力を悪用なんてしてないわ」"
+
+    old "{#ch23_end_override_5c462463}"
+    new "「していますよ、モニカちゃん」"
+
+    old "{#ch23_end_override_6cda4708}"
+    new "「[player]さんに選ばせましょう、それでいいですよね？」"
+
+    old "{#ch23_end_override_c26d6924}"
+    new "「ええ、良いわ！」"
+
+    old "{#ch23_end_override_34212887}"
+    new "「もちろん」"
+
+    old "{#ch23_end_override_cc188cde}"
+    new "「まったく……」"
+
+    old "{#ch23_end_override_73b7482c}"
+    new "「[player]、あんたが二人にどれだけうんざりしてるかよく分かるわ」"
+
+    old "{#ch23_end_override_c9ec79af}"
+    new "「わたしたちはただ――」"
+
+    old "{#ch23_end_override_f1c1e0f4}"
+    new "「ナツキちゃん、今すぐそのふざけた口をつぐんで彼に選択させましょう」"
+
+    old "{#ch23_end_override_01f5b930}"
+    new "「あんたこそ黙りなさいよ！」"
+
+    old "{#ch23_end_override_9976091a}"
+    new "「ああもう……」"
+
+    old "{#ch23_end_override_bf2e6adc}"
+    new "「このままじゃ終わらないわ。いいから選ぶのよ、分かった？」"
+
+    old "{#ch23_end_override_9128784d}"
+    new "「やったー！ 私を選んでくれるのね」"
+
+    old "{#ch23_end_override_8c48ee6a}"
+    new "「週末はあなたの家で会いましょう」"
+
+    old "{#ch23_end_override_bb9bc753}"
+    new "「きっと楽しいわよ」"
+
+    old "{#ch23_end_override_67ca5074}"
+    new "「日曜日は空いているかしら？ 」"
+
+    old "{#ch23_end_override_308070ea}"
+    new "「冗談でしょ？」"
+
+    old "{#ch23_end_override_77a6e6ae}"
+    new "「ぜんっぜん不公平だから！」"
+
+    old "{#ch23_end_override_08045a7c}"
+    new "「公平よ、ナツキ」"
+
+    old "{#ch23_end_override_a5a60aa3}"
+    new "「これは彼の選択だもの」"
+
+    old "{#ch23_end_override_c092a8ae}"
+    new "「いえ、不公平です！」"
+
+    old "{#ch23_end_override_c3761d87}"
+    new "「私たちに仕事を押し付けておいて、自分は[player]さんを取るだなんて」"
+
+    old "{#ch23_end_override_de7db816}"
+    new "「恥ずべきことをしています！」"
+
+    old "{#ch23_end_override_eb1ce579}"
+    new "「ユリ、私は今まであなたに仕事を一つも押し付けてなんかないわ」"
+
+    old "{#ch23_end_override_882dcfe0}"
+    new "「あなた自身で決めたことでしょ」"
+
+    old "{#ch23_end_override_0f02c58e}"
+    new "「それは少し不合理なんじゃない？」"
+
+    old "{#ch23_end_override_ab03ad61}"
+    new "「不合理ですって？」"
+
+    old "{#ch23_end_override_f0b3f2ff}"
+    new "「アハハハ！」"
+
+    old "{#ch23_end_override_18e83623}"
+    new "「モニカちゃん、あなたのその妄想と偉そうな態度が信じられません！」"
+
+    old "{#ch23_end_override_545f48d9}"
+    new "「部外者になるたびに毎回毎回[player]さんを私から奪い取って」"
+
+    old "{#ch23_end_override_97fd4494}"
+    new "「妬んでるのですか？」"
+
+    old "{#ch23_end_override_c6ade6c2}"
+    new "「いかれてるのですか？」"
+
+    old "{#ch23_end_override_d50febc8}"
+    new "「それとも自己嫌悪で周りに八つ当たりしてるだけですか？」"
+
+    old "{#ch23_end_override_c3d21cd4}"
+    new "「一つ提案があります。あなた自殺を考えたことはありますか？」"
+
+    old "{#ch23_end_override_07331406}"
+    new "「あなたの精神衛生に役立つのではないですか」"
+
+    old "{#ch23_end_override_930a0609}"
+    new "「ユリ、ちょっと怖がらせないでよ……」"
+
+    old "{#ch23_end_override_f56c7ce9}"
+    new "「ナツキ、行くわよ」"
+
+    old "{#ch23_end_override_21e3a942}"
+    new "「ユリは私たちにここにいて欲しくないみたいだし」"
+
+    old "{#ch23_end_override_7dedcc9b}"
+    new "「ほら、難しいことではないでしょう」"
+
+    old "{#ch23_end_override_3556f8ae}"
+    new "「私は[player]さんとしばらく一緒にいたいだけなのです」"
+
+    old "{#ch23_end_override_24e5486c}"
+    new "「そんなに大変なお願いでしたか？」"
+
+    old "{#ch23_end_override_745f0277}"
+    new "ユリはモニカとナツキをドアへと進ませる。"
+
+    old "{#ch23_end_override_a6fb49ba}"
+    new "「ねえ、[player]君……」"
+
+    old "{#ch23_end_override_289f2833}"
+    new "「ユリったらどうしちゃったのかしらね？」"
+
+    old "{#ch23_end_override_1bd53e19}"
+    new "ユリにドアの外に追いやられながら、モニカはくすくす笑う。"
+
+    old "{#ch23_end_override_48472cac}"
+    new "「やっと」"
+
+    old "{#ch23_end_override_6f7becde}"
+    new "「やっと！」"
+
+    old "{#ch23_end_override_0ea00341}"
+    new "「この時を待ち望んでいました！」"
+
+    old "{#ch23_end_override_e0675fad}"
+    new "「[player]さん、モニカちゃんと週末を過ごす必要なんてありません！」"
+
+    old "{#ch23_end_override_1c42a8cc}"
+    new "「あんなのなんて無視して……」"
+
+    old "{#ch23_end_override_8b46655e}"
+    new "「代わりに私の家に来てください」"
+
+    old "{#ch23_end_override_0c29b271}"
+    new "「一日中、ただ二人きりで……」"
+
+    old "{#ch23_end_override_def926ca}"
+    new "「素敵だと思いませんか……？」"
+
+    old "{#ch23_end_override_fd7f98ce}"
+    new "「アハハハ！」"
+
+    old "{#ch23_end_override_90d54275}"
+    new "「ああ……本当に私ったらどうかしてしまったのでしょうか？」"
+
+    old "{#ch23_end_override_84558ab0}"
+    new "「でもね」"
+
+    old "{#ch23_end_override_5b7c6a6a}"
+    new "「そんなこともうどうでもいいんです」"
+
+    old "{#ch23_end_override_7c8fd563}"
+    new "「今までの人生でこんなにも良い気分になったことはありません」"
+
+    old "{#ch23_end_override_112ff60f}"
+    new "「あなたと一緒にいることは私の最高の喜びなんです」"
+
+    old "{#ch23_end_override_1362d6af}"
+    new "「私はあなたに夢中なんです」"
+
+    old "{#ch23_end_override_5e6ebd2a}"
+    new "「あなたと同じ空気を吸っていないと死んでしまいそう」"
+
+    old "{#ch23_end_override_14185dfe}"
+    new "「誰かからひどく慕われるのは気持ちが良いでしょう？」"
+
+    old "{#ch23_end_override_9de8a560}"
+    new "「あなたを人生の軸にしたい人がいるのは気持ちが良いでしょう？」"
+
+    old "{#ch23_end_override_d81ffb78}"
+    new "「でも、気持ち良くなるのなら……」"
+
+    old "{#ch23_end_override_e06606db}"
+    new "「そう思うごとにどうしてますます不吉なことが起こるような予感になるんでしょう」"
+
+    old "{#ch23_end_override_36ddf789}"
+    new "「初めはそんな理由で自分を抑えようとしていたのでしょうね……」"
+
+    old "{#ch23_end_override_3bbfc16f}"
+    new "「でも、今ではこの感情を抑えきれない」"
+
+    old "{#ch23_end_override_17c9d53a}"
+    new "「もう何もかもどうでも良いんです、 [player]さん！」"
+
+    old "{#ch23_end_override_b7ae0f1d}"
+    new "「あなたに話さないといけない！」"
+
+    old "{#ch23_end_override_80a57d60}"
+    new "「私は……私はあなたを狂おしい程愛しています！」"
+
+    old "{#ch23_end_override_343025a1}"
+    new "「私の身体の細胞の一つ一つが……血の一滴一滴が……あなたの名前を叫んでいるんです！」"
+
+    old "{#ch23_end_override_715e5a8d}"
+    new "「もはやどうなろうと構わない！」"
+
+    old "{#ch23_end_override_3927c53b}"
+    new "「モニカちゃんが聞いていようと知ったことじゃない！」"
+
+    old "{#ch23_end_override_9d16ea33}"
+    new "「[player]さん、お願い、あなたをどれだけ愛してるかを知って欲しいんです」"
+
+    old "{#ch23_end_override_fd055dd7}"
+    new "「あなたの事を愛し過ぎてあなたから盗んだペンで自らを慰めてしまう程なんです」"
+
+    old "{#ch23_end_override_1e8884fa}"
+    new "「あなたの皮膚を切り裂いてあなたの中に入り込みたいんです」"
+
+    old "{#ch23_end_override_e203cdfd}"
+    new "「あなたの全てが欲しい」"
+
+    old "{#ch23_end_override_149971d3}"
+    new "「そして私もあなただけのものになる」"
+
+    old "{#ch23_end_override_b99df2bd}"
+    new "「これで完璧でしょう？」"
+
+    old "{#ch23_end_override_e11c83e6}"
+    new "「[player]さん、教えてください」"
+
+    old "{#ch23_end_override_c162d243}"
+    new "「私の恋人になってくれるか」"
+
+    old "{#ch23_end_override_ce414874}"
+    new "「私の告白を受け入れてくれますか？」"
+
+    old "{#yuri_kill_1_4d4c9c12}"
+    new "「……ハハ」"
+
+    old "{#yuri_kill_1_3d40b880}"
+    new "「アハハハハハ！」"
+
+    old "{#yuri_kill_1_4ddc816c}"
+    new "「アハハハハハハハハハ！」"
+
+    old "{#yuri_kill_1_76475273}"
+    new "「アハハハハハハハハハハハハハハハハハハハハハハハハ{nw}」"
+
+    old "{#yuri_kill_loop_18a69774}"
+    new "「[persistent.yuri_kill] [gtext]」"
+
+    old "{#yuri_kill_loop_356cde31}"
+    new "「[gtext]」"
+
+    old "{#yuri_kill_3_b1967a39}"
+    new "[gtext]"
+
+    old "{#yuri_kill_3_090fa498}"
+    new "「よし、今日は文化祭ね！」"
+
+    old "{#yuri_kill_3_b205d720}"
+    new "「あれ？ わたしより来るのが早いなんて」"
+
+    old "{#yuri_kill_3_c740f295}"
+    new "「てっきりわたしが一番だと思ったの――{nw}」"
+
+    old "{#yuri_kill_3_05b631cb}"
+    new "「ひいっ！」"
+
+    old "{#yuri_kill_3_1e7c525c}"
+    new "「キャアアアアアアアアアアアアアアアアアア！！！」"
+
+    old "{#yuri_kill_3_a59d99d8}"
+    new "ナツキは走って出ていった。"
+
+    old "{#yuri_kill_3_e612037c}"
+    new "「……」"
+
+    old "{#yuri_kill_3_49be24e9}"
+    new "「おはよう！」"
+
+    old "{#yuri_kill_3_bac95057}"
+    new "「[player]君、何かあったの？」"
+
+    old "{#yuri_kill_3_1913d5f2}"
+    new "「ナツキが目の前を走って行ったけど……」"
+
+    old "{#yuri_kill_3_3ac5a02b}"
+    new "「……あら……」"
+
+    old "{#yuri_kill_3_0362ff41}"
+    new "「……あらら」"
+
+    old "{#yuri_kill_3_f1cff12f}"
+    new "「……」"
+
+    old "{#yuri_kill_3_3cbf362f}"
+    new "「あははは！」"
+
+    old "{#yuri_kill_3_6834df2a}"
+    new "「まあ、これは残念ね」"
+
+    old "{#yuri_kill_3_49f56652}"
+    new "「もしかして[player]君は週末中ずっとここにいたの？」"
+
+    old "{#yuri_kill_3_fe7c1a9b}"
+    new "「ええ、気の毒に……」"
+
+    old "{#yuri_kill_3_7f0b2e96}"
+    new "「こんなにスクリプトが壊れてるとは知らなかったの」"
+
+    old "{#yuri_kill_3_6ea274cb}"
+    new "「本当にごめんなさい！」"
+
+    old "{#yuri_kill_3_afa45be0}"
+    new "「週末はすごく退屈だったでしょうね……」"
+
+    old "{#yuri_kill_3_989d77b0}"
+    new "「埋め合わせをさせて欲しいんだけど、いいかしら？」"
+
+    old "{#yuri_kill_3_0fc97937}"
+    new "「ちょっと待っててね……」"
+
+    old "{#yuri_kill_3_da4f4260}"
+    new "「もうちょっとだから」"
+
+    old "{#yuri_kill_3_4fdfebc5}"
+    new "「その前にちょっとカップケーキを食べたいの！」"
+
+    old "{#yuri_kill_3_651eefb8}"
+    new "モニカは[gtext]のトレイにかかっているアルミホイルを外してカップケーキを取った。"
+
+    old "{#yuri_kill_3_c05aafc0}"
+    new "「これ、本当に美味しいわよね！」"
+
+    old "{#yuri_kill_3_38b79e4c}"
+    new "「これが最後になるからどうしても食べておきたかったの」"
+
+    old "{#yuri_kill_3_19b43c0c}"
+    new "「存在がなくなる前にね」"
+
+    old "{#yuri_kill_3_0b28b069}"
+    new "「……ともかく、これ以上は待たせないから」"
+
+    old "{#yuri_kill_3_78bd679a}"
+    new "「もうちょっとだけ、ね？」"
+
+    old "{#yuri_kill_3_1ffc01fd}"
+    new "「一瞬で終わるから」"

@@ -88,3 +88,30 @@ translate Japanese strings:
 
     old "Hint: You can use the \"Skip\" button to\nfast-forward through text you've already read."
     new "ヒント：\"スキップ\"ボタンを使うと既読テキストを\n早送りすることができます"
+
+    old "{#splashscreen_f490803a}"
+    new "セーブデータを削除しています…{nw}"
+
+    old "{#splashscreen_365de68f}"
+    new "このゲームには子供に相応しくない内容、または刺激の強い表現が含まれています。"
+
+    old "{#splashscreen_b895d9b1}"
+    new "不安や鬱病に苦しんでいる方はこのゲームをプレイするべきではないかもしれません。当コンテンツに関する諸注意はこちらを参照してください: http://ddlc.moe/warning.html"
+
+    old "{#after_load_78a4e9dc}"
+    new "セーブデータをロードできませんでした。"
+
+    old "{#after_load_5c5510ae}"
+    new "チートをしようとしたの？"
+
+    old "{#after_load_46c240e4}"
+    new "面白い人ね。"
+
+    old "{#after_load_e5a463d0}"
+    new "面白い人ね。[persistent.playername]。"
+
+    old "{#readonly_c0c137c6}"
+    new "インストールディレクトリが読み込み専用に設定されているため、起動ができません。"
+
+    old "{#readonly_db394637}"
+    new "書き込み可能な別のディレクトリにコピーしてから再度起動して下さい。"

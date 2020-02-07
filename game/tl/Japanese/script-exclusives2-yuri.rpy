@@ -1530,3 +1530,1537 @@ translate Japanese yuri_exclusive2_2_ch23_ab92186d:
 
 translate Japanese yuri_exclusive2_2_ch23_993e4d8e:
     y "「私と{space=60}[gtext]{nw}」"
+
+translate Japanese strings:
+    old "{#yuri_exclusive2_1_e440bb66}"
+    new "この機会にユリともう少し話をしてみたいが……"
+
+    old "{#yuri_exclusive2_1_621b29bd}"
+    new "けど読書の邪魔をしては悪いとも思う。"
+
+    old "{#yuri_exclusive2_1_98b79815}"
+    new "ユリが読んでる本の表紙をチラッと見てみる。"
+
+    old "{#yuri_exclusive2_1_1385bf59}"
+    new "俺に貸してくれた本と同じ物のようだ。"
+
+    old "{#yuri_exclusive2_1_e35e4f57}"
+    new "それに、まだ最初の数ページしか読んでないようだ。"
+
+    old "{#yuri_exclusive2_1_728dcbc5}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_1_a3e7f3d1}"
+    new "やべっ――"
+
+    old "{#yuri_exclusive2_1_f669242a}"
+    new "見てたのがバレたか……？"
+
+    old "{#yuri_exclusive2_1_990b5d3a}"
+    new "彼女がまたチラッとこちらを見た一瞬、目が合う。"
+
+    old "{#yuri_exclusive2_1_0dbaabdd}"
+    new "「……」"
+
+    old "{#yuri_exclusive2_1_aef29682}"
+    new "それによってユリは顔をさらに本の方へと隠してしまった。"
+
+    old "{#yuri_exclusive2_1_4bbe5891}"
+    new "「悪い……」"
+
+    old "{#yuri_exclusive2_1_225dcd47}"
+    new "「ボーッとしてて……」"
+
+    old "{#yuri_exclusive2_1_9a0048e8}"
+    new "気まずくさせてしまったと思い、つぶやいた。"
+
+    old "{#yuri_exclusive2_1_e02af5ad}"
+    new "「いえ……」"
+
+    old "{#yuri_exclusive2_1_a41cea99}"
+    new "「大丈夫です……」"
+
+    old "{#yuri_exclusive2_1_3b99d5e9}"
+    new "「私もちゃんと集中して読んでいたら、きっと気づきませんでしたから」"
+
+    old "{#yuri_exclusive2_1_749d562e}"
+    new "「でも軽く読み返してるだけなので……」"
+
+    old "{#yuri_exclusive2_1_8dcab0c1}"
+    new "「それって俺に貸してくれた本だよな？」"
+
+    old "{#yuri_exclusive2_1_7b0a03ee}"
+    new "「はいっ」"
+
+    old "{#yuri_exclusive2_1_9de78180}"
+    new "「少し読み直してみたくなりまして」"
+
+    old "{#yuri_exclusive2_1_b6b08cc7}"
+    new "「と、特に理由はありませんが……！」"
+
+    old "{#yuri_exclusive2_1_63031f4d}"
+    new "「気になったんだが、なんで同じ本を二冊持ってたんだ？」"
+
+    old "{#yuri_exclusive2_1_728dcbc5_1}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_1_8be5857f}"
+    new "「それは、昨日本屋へ寄ったとき――」"
+
+    old "{#yuri_exclusive2_1_56924230}"
+    new "「そ、そうではなくて……」"
+
+    old "{#yuri_exclusive2_1_5daab38f}"
+    new "「ええと……」"
+
+    old "{#yuri_exclusive2_1_1fb27bb9}"
+    new "「た……たまたま二冊買ってあったんです」"
+
+    old "{#yuri_exclusive2_1_236ab8d0}"
+    new "「ふーん、そっか」"
+
+    old "{#yuri_exclusive2_1_40855474}"
+    new "おそらくユリは何かを隠そうとしていたが、あまり気にしないことにした。"
+
+    old "{#yuri_exclusive2_1_4f372d32}"
+    new "「近いうちに俺も読み始めるよ！」"
+
+    old "{#yuri_exclusive2_1_9fa7e925}"
+    new "「良かったです……」"
+
+    old "{#yuri_exclusive2_1_6a834c69}"
+    new "「一度読み始めたら、止まらなくなるかもしれませんよ？」"
+
+    old "{#yuri_exclusive2_1_336b89ef}"
+    new "「とても魅力的で、共感できるお話ですから」"
+
+    old "{#yuri_exclusive2_1_85d4ab1c}"
+    new "「そうなのか……」"
+
+    old "{#yuri_exclusive2_1_ch22_5345ad5d}"
+    new "「どういう話なんだ？」"
+
+    old "{#yuri_exclusive2_1_ch22_cae7b7d0}"
+    new "「そうですね……」"
+
+    old "{#yuri_exclusive2_1_ch22_5c53d1aa}"
+    new "「うーん……」"
+
+    old "{#yuri_exclusive2_1_ch22_4330ddf7}"
+    new "俺は本の表紙に目をやる。"
+
+    old "{#yuri_exclusive2_1_ch22_0c75c656}"
+    new "本のタイトルは『マルコフの肖像』だ。"
+
+    old "{#yuri_exclusive2_1_ch22_fd714eb0}"
+    new "表紙には禍々しい雰囲気の目のシンボルがある。"
+
+    old "{#yuri_exclusive2_1_ch22_1cb43c2f}"
+    new "「簡単に説明すると、とある宗教のキャンプが人体実験の監獄にされてしまうお話なのですが……」"
+
+    old "{#yuri_exclusive2_1_ch22_554d83a6}"
+    new "「そこに収容された人々は血を欲する殺戮マシンになってしまう特徴があるんです」"
+
+    old "{#yuri_exclusive2_1_ch22_461c88e8}"
+    new "「でも状況は悪化の一途をたどって、繁殖をするために特定の人々が選ばれると四肢を切断してそれを貼り付ける場所が――」"
+
+    old "{#yuri_exclusive2_1_ch22_cfffa461}"
+    new "「あっ、そこまで言うとネタバレになってしまいますね……」"
+
+    old "{#yuri_exclusive2_1_ch22_4b29aa25}"
+    new "「と、とにかくすごくハマってるんです！」"
+
+    old "{#yuri_exclusive2_1_ch22_00ecd4f3}"
+    new "「……ほ、本にですよ！」"
+
+    old "{#yuri_exclusive2_1_ch22_48f0c396}"
+    new "「四肢切断に、という意味ではなくて……」"
+
+    old "{#yuri_exclusive2_1_ch22_0a469adb}"
+    new "「それって――！」"
+
+    old "{#yuri_exclusive2_1_ch22_89546258}"
+    new "それってなんだか暗くないか？"
+
+    old "{#yuri_exclusive2_1_ch22_7bcce1db}"
+    new "ユリの語り口からして良い話になると思ったから、その暗い展開はあまりに突然すぎた。"
+
+    old "{#yuri_exclusive2_1_ch22_948c895b}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_1_ch22_7bc89322}"
+    new "「[player]さんはそういった話は好きではありませんでしたか？」"
+
+    old "{#yuri_exclusive2_1_ch22_ce487936}"
+    new "「いや、そうじゃなくて……」"
+
+    old "{#yuri_exclusive2_1_ch22_7c7d4031}"
+    new "「その、そういう話でも楽しめるから大丈夫だ」"
+
+    old "{#yuri_exclusive2_1_ch22_3c899c8c}"
+    new "「それだと良いのですが……」"
+
+    old "{#yuri_exclusive2_1_ch22_2269e4aa}"
+    new "そうだった……ユリにそういう趣味があったのを忘れてた。"
+
+    old "{#yuri_exclusive2_1_ch22_b87c0f68}"
+    new "外見は大人しくて控えめそうなのに、心の中は全く違うようだ。"
+
+    old "{#yuri_exclusive2_1_ch22_79229864}"
+    new "「ただ、こういったお話って……」"
+
+    old "{#yuri_exclusive2_1_ch22_1abf1220}"
+    new "「いつもとは違う、変わった視点から世界を見るという挑戦を投げかけてくるんです」"
+
+    old "{#yuri_exclusive2_1_ch22_93e29306}"
+    new "「ひどい出来事が起きるのは、誰かが悪になるからではなく……」"
+
+    old "{#yuri_exclusive2_1_ch22_3ff5a78e}"
+    new "「世界は醜い人で溢れていて、どうせ私たちみんな価値はありませんから」"
+
+    old "{#yuri_exclusive2_1_ch22_2257168a}"
+    new "「すると、突然んんんんんnnnnnnnnnnnnnnnnnnnnn{nw}」"
+
+    old "{#yuri_exclusive2_1_ch22_2d6e3c72}"
+    new "「わ、私ったら長々と……」"
+
+    old "{#yuri_exclusive2_1_ch22_5dac5c99}"
+    new "「またやってしまいました……」"
+
+    old "{#yuri_exclusive2_1_ch22_d287205e}"
+    new "「すみません……」"
+
+    old "{#yuri_exclusive2_1_ch22_47b1016d}"
+    new "「そう謝るなよ！」"
+
+    old "{#yuri_exclusive2_1_ch22_0fbafffa}"
+    new "「話に飽きてたわけじゃないから」"
+
+    old "{#yuri_exclusive2_1_ch22_ae7f22e8}"
+    new "「それなら……」"
+
+    old "{#yuri_exclusive2_1_ch22_9520be33}"
+    new "「それなら、いいんですけど……」"
+
+    old "{#yuri_exclusive2_1_ch22_432dd786}"
+    new "「でもこれは伝えておいた方が良いかもしれません……」"
+
+    old "{#yuri_exclusive2_1_ch22_f902f7cf}"
+    new "「本や文芸のことで頭がいっぱいになると……」"
+
+    old "{#yuri_exclusive2_1_ch22_f1d585ba}"
+    new "「ぜんしんがほんとうに[gtext]{nw}」"
+
+    old "{#yuri_exclusive2_1_ch22_cbb32f29}"
+    new "「周りに配慮することを忘れてしまうんです……」"
+
+    old "{#yuri_exclusive2_1_ch22_1b4a2d9b}"
+    new "「なので、もし変なことを言ったらごめんなさい！」"
+
+    old "{#yuri_exclusive2_1_ch22_7e573792}"
+    new "「あと、喋りすぎていたら遠慮なく止めてください！」"
+
+    old "{#yuri_exclusive2_1_ch22_db2f7cec}"
+    new "「それは――」"
+
+    old "{#yuri_exclusive2_1_ch22_c443f13d}"
+    new "「心配する必要はないんじゃないか？」"
+
+    old "{#yuri_exclusive2_1_ch22_9c6f8ec5}"
+    new "「それって読書がすごく好きだってことだろ？」"
+
+    old "{#yuri_exclusive2_1_ch22_7bfa8270}"
+    new "「なら俺がせめてできることは聞くことだ」"
+
+    old "{#yuri_exclusive2_1_ch22_3bea2478}"
+    new "「それに、ここは文芸部なんだし……」"
+
+    old "{#yuri_exclusive2_1_ch22_c2dd3459}"
+    new "「あっ――」"
+
+    old "{#yuri_exclusive2_1_ch22_717cb0f3}"
+    new "「それは……」"
+
+    old "{#yuri_exclusive2_1_ch22_7c11a798}"
+    new "「その、言われてみればそうですね……」"
+
+    old "{#yuri_exclusive2_1_ch22_0a788c2f}"
+    new "「ていうか……」"
+
+    old "{#yuri_exclusive2_1_ch22_23631788}"
+    new "「なんなら俺も今読み始めようかな」"
+
+    old "{#yuri_exclusive2_1_ch22_6961466a}"
+    new "「は、はい！」"
+
+    old "{#yuri_exclusive2_1_ch22_3a42219b}"
+    new "「そ、その、強制はしませんが……！」"
+
+    old "{#yuri_exclusive2_1_ch22_4e8c6ca5}"
+    new "「ははっ、何言ってるんだよ」"
+
+    old "{#yuri_exclusive2_1_ch22_5a6499dc}"
+    new "「……」"
+
+    old "{#yuri_exclusive2_1_ch22_d671f554}"
+    new "「ちょっとあの本取ってくるな……」"
+
+    old "{#yuri_exclusive2_1_ch22_5b5dd31b}"
+    new "俺はカバンに仕舞っていた本をすぐに回収した。"
+
+    old "{#yuri_exclusive2_1_ch22_64614a30}"
+    new "「よし、っと……ここに座っても構わないか？」"
+
+    old "{#yuri_exclusive2_1_ch22_6ab0c7c0}"
+    new "俺はユリの隣の席に座った。"
+
+    old "{#yuri_exclusive2_1_ch22_acedfa3b}"
+    new "「あっ……！」"
+
+    old "{#yuri_exclusive2_1_ch22_92fa2786}"
+    new "「はい……」"
+
+    old "{#yuri_exclusive2_1_ch22_cfce055e}"
+    new "「本当にいいのか？」"
+
+    old "{#yuri_exclusive2_1_ch22_17b81435}"
+    new "「なんだか不安そうだが……」"
+
+    old "{#yuri_exclusive2_1_ch22_717cb0f3_1}"
+    new "「それは……」"
+
+    old "{#yuri_exclusive2_1_ch22_d287205e_1}"
+    new "「ごめんなさい……」"
+
+    old "{#yuri_exclusive2_1_ch22_678618c7}"
+    new "「嫌だという訳ではないんです」"
+
+    old "{#yuri_exclusive2_1_ch22_b683d384}"
+    new "「こういうことに慣れていなくて……」"
+
+    old "{#yuri_exclusive2_1_ch22_a44cd31c}"
+    new "「その、誰かのそばで読書をすることに」"
+
+    old "{#yuri_exclusive2_1_ch22_a7bcf340}"
+    new "「そうか……」"
+
+    old "{#yuri_exclusive2_1_ch22_7ddffb3c}"
+    new "「気が散るようなら遠慮なく言ってくれ」"
+
+    old "{#yuri_exclusive2_1_ch22_6efff781}"
+    new "「わ、分かりました……」"
+
+    old "{#yuri_exclusive2_1_ch22_b7550a3e}"
+    new "俺は本を開けてプロローグを読み始める。"
+
+    old "{#yuri_exclusive2_1_ch22_695b1b6b}"
+    new "しばらく読み進めてから、ユリの言っていたことが分かった。"
+
+    old "{#yuri_exclusive2_1_ch22_d2bc4359}"
+    new "こうやってすぐそばで読書をしていると、肩越しに彼女の気配を感じる。"
+
+    old "{#yuri_exclusive2_1_ch22_336c3ecb}"
+    new "だが大して悪いことだとは思わない。"
+
+    old "{#yuri_exclusive2_1_ch22_7099b9f9}"
+    new "若干気にはなるが、なんだか落ち着く気もする。"
+
+    old "{#yuri_exclusive2_1_ch22_79904e73}"
+    new "視界の端にユリが見える。"
+
+    old "{#yuri_exclusive2_1_ch22_ffe5cfa7}"
+    new "ユリは自分の本を見ていないことに俺は気づいた。"
+
+    old "{#yuri_exclusive2_1_ch22_e241e6b4}"
+    new "俺はユリの方を向く。"
+
+    old "{#yuri_exclusive2_1_ch22_c5bc1b32}"
+    new "どうやら自分の本ではなく、俺の本から読んでいるようだ……"
+
+    old "{#yuri_exclusive2_1_ch22_510cdaf3}"
+    new "「ご、ごめんなさい！」"
+
+    old "{#yuri_exclusive2_1_ch22_0a665800}"
+    new "「私はただ――！{nw}」"
+
+    old "{#yuri_exclusive2_1_ch22_167110f3}"
+    new "「私はただ{fast}あなたの体温の感触を浴びてててててて浴びて　びてててててて{nw}」"
+
+    old "{#yuri_exclusive2_1_ch22_d23d4ffa}"
+    new "「ユリっていつも謝ってるよな」"
+
+    old "{#yuri_exclusive2_1_ch22_4712ee86}"
+    new "「そ、そうでしょうか？」"
+
+    old "{#yuri_exclusive2_1_ch22_6e71265b}"
+    new "「そのつもりは……」"
+
+    old "{#yuri_exclusive2_1_ch22_485fb852}"
+    new "「ごめんなさい……」"
+
+    old "{#yuri_exclusive2_1_ch22_89f89f32}"
+    new "「ではなく――！」"
+
+    old "{#yuri_exclusive2_1_ch22_ee7d9dbd}"
+    new "「あははっ」"
+
+    old "{#yuri_exclusive2_1_ch22_42937a87}"
+    new "「ほら、こうすればいいんじゃないか？」"
+
+    old "{#yuri_exclusive2_1_ch22_4be018f3}"
+    new "俺は自分の机をユリの机とくっつくように移動させ、自分の持っていた本を机と机の境目のところに置いた。"
+
+    old "{#yuri_exclusive2_1_ch22_74f60a14}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_1_ch22_adb995cc}"
+    new "「そ、そうかもしれません……」"
+
+    old "{#yuri_exclusive2_1_ch22_bdf7b243}"
+    new "ユリはおずおずと自分の本を閉じた。"
+
+    old "{#yuri_exclusive2_1_ch22_c8915827}"
+    new "二人で少し前にかがむと、肩が触れてしまいそうな距離まで接近した。"
+
+    old "{#yuri_exclusive2_1_ch22_ffa8cf07}"
+    new "俺の左手が邪魔になるかと思い、右手に持ち替えて本を開けて押さえた。"
+
+    old "{#yuri_exclusive2_1_ch22_7d3a640c}"
+    new "「あっ、でもこうするとページがめくりにくいか……」"
+
+    old "{#yuri_exclusive2_1_ch22_9572fcba}"
+    new "「でしたら……」"
+
+    old "{#yuri_exclusive2_1_ch22_e50b1a55}"
+    new "ユリは左手で本の左端を親指と人差し指で支えた。"
+
+    old "{#yuri_exclusive2_1_ch22_93deaf69}"
+    new "「なるほど……」"
+
+    old "{#yuri_exclusive2_1_ch22_8aa7edbf}"
+    new "俺も右手で本の右端を同じように持つ。"
+
+    old "{#yuri_exclusive2_1_ch22_f4605bd6}"
+    new "こうすることで、俺がページをめくれば、反対側へ落ちるページをユリが親指の下にすべらせることができる。"
+
+    old "{#yuri_exclusive2_1_ch22_24340c2f}"
+    new "しかし、この持ち方をしたことで……"
+
+    old "{#yuri_exclusive2_1_ch22_34a46315}"
+    new "二人の距離はますます近くなった。"
+
+    old "{#yuri_exclusive2_1_ch22_274fbd4a}"
+    new "だいぶ気になってしまうほどに……！"
+
+    old "{#yuri_exclusive2_1_ch22_e1a2be34}"
+    new "視界の端に見えるユリの顔の熱が伝わってきそうだ……"
+
+    old "{#yuri_exclusive2_1_ch22_44384bd1}"
+    new "「……そろそろ大丈夫ですか？」"
+
+    old "{#yuri_exclusive2_1_ch22_fb2e5377}"
+    new "「えっ？」"
+
+    old "{#yuri_exclusive2_1_ch22_22bd46cd}"
+    new "「ページをめくっていただいても……」"
+
+    old "{#yuri_exclusive2_1_ch22_960cc2a4}"
+    new "「あっ……すまん！」"
+
+    old "{#yuri_exclusive2_1_ch22_103817d4}"
+    new "「一瞬気が逸れたというか……」"
+
+    old "{#yuri_exclusive2_1_ch22_5252b0b0}"
+    new "再度ユリの顔を方を見ると、ちょうど目が合ってしまった。"
+
+    old "{#yuri_exclusive2_1_ch22_7a860699}"
+    new "この状況、俺はいつまで耐えられるだろうか……"
+
+    old "{#yuri_exclusive2_1_ch22_728dcbc5}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_1_ch22_6668580d}"
+    new "「気にしないでください」"
+
+    old "{#yuri_exclusive2_1_ch22_dd97e184}"
+    new "「読書にはあまり慣れていないんですよね？」"
+
+    old "{#yuri_exclusive2_1_ch22_f5f71ae0}"
+    new "「もう少し時間が必要でしたら待ちますが……」"
+
+    old "{#yuri_exclusive2_1_ch22_506c74d6}"
+    new "「それくらいしか私にはできませんから……」"
+
+    old "{#yuri_exclusive2_1_ch22_9f203c74}"
+    new "「ずっと気長に私に付き合ってくださってますし……」"
+
+    old "{#yuri_exclusive2_1_ch22_5aa72ccd}"
+    new "「あ、ああ」"
+
+    old "{#yuri_exclusive2_1_ch22_a64e8bc0}"
+    new "「ありがとうな」"
+
+    old "{#yuri_exclusive2_1_ch22_880606e6}"
+    new "俺たちは読書を再開した。"
+
+    old "{#yuri_exclusive2_1_ch22_91dcd78e}"
+    new "ユリはページをめくるか聞かなくなった。"
+
+    old "{#yuri_exclusive2_1_ch22_6051933b}"
+    new "先にユリが読み終わるだろうから、俺が自分のペースでめくるようになったからだ。"
+
+    old "{#yuri_exclusive2_1_ch22_e76a0690}"
+    new "第１章を静かに読み進める。"
+
+    old "{#yuri_exclusive2_1_ch22_94aeb271}"
+    new "それでも、ページ一つめくる動作も親密なものに感じてならない……"
+
+    old "{#yuri_exclusive2_1_ch22_b3d1da47}"
+    new "俺の親指がゆっくりとページを離し、ひらひらと反対側まではためかせ、ユリの親指はそれを指元で押さえる。"
+
+    old "{#yuri_exclusive2_1_ch22_54daf6f3}"
+    new "「なあ、ユリ……」"
+
+    old "{#yuri_exclusive2_1_ch22_a38f93a8}"
+    new "「変なことを言うかもしれないが……」"
+
+    old "{#yuri_exclusive2_1_ch22_dc2668cf}"
+    new "「この主人公って、ちょっとユリに似てるよな」"
+
+    old "{#yuri_exclusive2_1_ch22_9d8b3104}"
+    new "「え、えっ？」"
+
+    old "{#yuri_exclusive2_1_ch22_ba519416}"
+    new "「い、いえ、私はこの主人公には全く共感できません！」"
+
+    old "{#yuri_exclusive2_1_ch22_c0929641}"
+    new "「まったく！」"
+
+    old "{#yuri_exclusive2_1_ch22_72610a7c}"
+    new "「そうなのか……？」"
+
+    old "{#yuri_exclusive2_1_ch22_e73bd860}"
+    new "「自分の発言について後からあれこれ考えるところとか、それっぽいと思ったんだけどな……」"
+
+    old "{#yuri_exclusive2_1_ch22_ceede073}"
+    new "「あ、ああ」"
+
+    old "{#yuri_exclusive2_1_ch22_1781bc54}"
+    new "「そういうことでしたか……」"
+
+    old "{#yuri_exclusive2_1_ch22_485fb852_1}"
+    new "「ごめんなさい……」"
+
+    old "{#yuri_exclusive2_1_ch22_e72103a9}"
+    new "「てっきり……他の特徴の話をしているのかと……」"
+
+    old "{#yuri_exclusive2_1_ch22_982ae76b}"
+    new "「他の特徴……？」"
+
+    old "{#yuri_exclusive2_1_ch22_1b764312}"
+    new "「な、なんでもありません！」"
+
+    old "{#yuri_exclusive2_1_ch22_16fb9d35}"
+    new "「まだそこまで読み進めていないのに……」"
+
+    old "{#yuri_exclusive2_1_ch22_435cedc6}"
+    new "「何故そんなことを思ったのか……」"
+
+    old "{#yuri_exclusive2_1_ch22_0c3b4eb3}"
+    new "「あはは！」"
+
+    old "{#yuri_exclusive2_1_ch22_a57fba06}"
+    new "「ユリ、大丈夫か？」"
+
+    old "{#yuri_exclusive2_1_ch22_5121d691}"
+    new "「えっ……？」"
+
+    old "{#yuri_exclusive2_1_ch22_88f6e69b}"
+    new "読書を始めてからユリはなんだかそわそわしている……"
+
+    old "{#yuri_exclusive2_1_ch22_f719f5f3}"
+    new "「気分が悪いなら休憩していいんだぞ」"
+
+    old "{#yuri_exclusive2_1_ch22_a5ab9975}"
+    new "「なんだか呼吸が……」"
+
+    old "{#yuri_exclusive2_1_ch22_31f57b57}"
+    new "「こ、呼吸……？」"
+
+    old "{#yuri_exclusive2_1_ch22_a117d3a8}"
+    new "ユリは脈を感じるかのように自分の両手を胸に当てた。"
+
+    old "{#yuri_exclusive2_1_ch22_2d7a579e}"
+    new "「ま、まったく……気がつきませんでした……」"
+
+    old "{#yuri_exclusive2_1_ch22_eefb49b8}"
+    new "「……わ、私なら大丈夫です！」"
+
+    old "{#yuri_exclusive2_1_ch22_b97476b1}"
+    new "「少し水を飲んできます……！」"
+
+    old "{#yuri_exclusive2_1_ch22_a7ea9b30}"
+    new "「それならいいけど……無理はするなよ」"
+
+    old "{#yuri_exclusive2_1_ch22_75dbc8b4}"
+    new "ユリは立ち上がると大急ぎで教室を出て行ってしまった。"
+
+    old "{#yuri_exclusive2_1_ch22_6455f543}"
+    new "「一体なんだったんだ……？」"
+
+    old "{#yuri_exclusive2_1_ch22_de87a206}"
+    new "「[player]君？」"
+
+    old "{#yuri_exclusive2_1_ch22_a5c5f36b}"
+    new "「何かあったの？」"
+
+    old "{#yuri_exclusive2_1_ch22_fb2e5377_1}"
+    new "「ん？」"
+
+    old "{#yuri_exclusive2_1_ch22_e818ac0a}"
+    new "「いや、さっぱりだ……」"
+
+    old "{#yuri_exclusive2_1_ch22_2f09279f}"
+    new "「ただユリの様子がちょっとおかしかったような……」"
+
+    old "{#yuri_exclusive2_1_ch22_6fa2f8f2}"
+    new "「本当に何も知らないのね……」"
+
+    old "{#yuri_exclusive2_1_ch22_586d91c8}"
+    new "「悪いが、それは否定できないと思うな」"
+
+    old "{#yuri_exclusive2_1_ch22_99f8c0f4}"
+    new "「あいつのことが心配か？」"
+
+    old "{#yuri_exclusive2_1_ch22_77db1662}"
+    new "「えっ……いえ、そうでもないわ」"
+
+    old "{#yuri_exclusive2_1_ch22_33736deb}"
+    new "「あの子に何かしたのか気になってね」"
+
+    old "{#yuri_exclusive2_1_ch22_4eb2d28b}"
+    new "「な、何もしてない！」"
+
+    old "{#yuri_exclusive2_1_ch22_12430d68}"
+    new "「ふふっ、大丈夫よ……信用してるから。おバカさんね」"
+
+    old "{#yuri_exclusive2_1_ch22_f38c45b0}"
+    new "「ユリはたまにこうする事があるから、驚くほどの事でもないわ」"
+
+    old "{#yuri_exclusive2_1_ch22_12d62518}"
+    new "「分かった……そう言うのなら」"
+
+    old "{#yuri_exclusive2_1_ch22_cfc78ab0}"
+    new "「それより、詩の見せ合いを始めない？」"
+
+    old "{#yuri_exclusive2_1_ch22_fb2e5377_2}"
+    new "「えっ？」"
+
+    old "{#yuri_exclusive2_1_ch22_09c5199e}"
+    new "「ユリを待った方がいいんじゃないのか？」"
+
+    old "{#yuri_exclusive2_1_ch22_fb54e9d7}"
+    new "「ちょっと時間かかるかもしれないから、先に始めちゃおうかと思って」"
+
+    old "{#yuri_exclusive2_1_ch22_2780ba84}"
+    new "「それでも構わないかしら？」"
+
+    old "{#yuri_exclusive2_1_ch22_63b0d5d4}"
+    new "「ああ、俺も聞いてみただけだから……」"
+
+    old "{#yuri_exclusive2_1_ch22_1950528a}"
+    new "俺は立ち上がった。"
+
+    old "{#yuri_exclusive2_1_ch22_c0c90965}"
+    new "俺は読み進めた場所を覚えてから、本をカバンの中にしまった。"
+
+    old "{#yuri_exclusive2_2_e72920b3}"
+    new "「なあ、ユリ」"
+
+    old "{#yuri_exclusive2_2_444e7092}"
+    new "「えっ？」"
+
+    old "{#yuri_exclusive2_2_93deaf69}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_2_826f0290}"
+    new "よく見たらユリは二人で読んでいるものとは違う本を読んでいたことに気づいた。"
+
+    old "{#yuri_exclusive2_2_58cac761}"
+    new "「悪い！ 邪魔するつもりはなかったんだ……」"
+
+    old "{#yuri_exclusive2_2_8849a940}"
+    new "「ああ、いえ……」"
+
+    old "{#yuri_exclusive2_2_043b8fc5}"
+    new "「あなたを待っていたようなものだったので……」"
+
+    old "{#yuri_exclusive2_2_17aaad6d}"
+    new "「そっか、それなら……」"
+
+    old "{#yuri_exclusive2_2_9814a6fd}"
+    new "「そろそろ始めようか？」"
+
+    old "{#yuri_exclusive2_2_fb0e5788}"
+    new "「はい、ぜひ！」"
+
+    old "{#yuri_exclusive2_2_ch22_8bdc1c86}"
+    new "「実は、その前に一つお願いがあるのですが……」"
+
+    old "{#yuri_exclusive2_2_ch22_8649e7f4}"
+    new "「……先にお茶を淹れても良いですか？」"
+
+    old "{#yuri_exclusive2_2_ch22_5a86862f}"
+    new "「構わないよ」"
+
+    old "{#yuri_exclusive2_2_ch22_61544195}"
+    new "「ありがとうございます」"
+
+    old "{#yuri_exclusive2_2_ch22_68e78420}"
+    new "「おいしいお茶があるだけで、ここでの読書の時間がより楽しくなるんです」"
+
+    old "{#yuri_exclusive2_2_ch22_1ac81ad1}"
+    new "「きっとあなたにとっても」"
+
+    old "{#yuri_exclusive2_2_ch22_f364f34f}"
+    new "ユリは立ち上がってクローゼットへ向かった。"
+
+    old "{#yuri_exclusive2_2_ch22_2a287e1b}"
+    new "俺はその後について、ユリが小さめのウォーターピッチャーを取り出すのを見守る。中にフィルターが付いているタイプだ。"
+
+    old "{#yuri_exclusive2_2_ch22_ec60897b}"
+    new "「これを少しの間持っていただけませんか？」"
+
+    old "{#yuri_exclusive2_2_ch22_2fcc7ac5}"
+    new "「ああ……」"
+
+    old "{#yuri_exclusive2_2_ch22_bd9eb39a}"
+    new "ユリは俺にピッチャーを渡し、さらに棚から電気ケトルを取り出した。"
+
+    old "{#yuri_exclusive2_2_ch22_1db2bb6a}"
+    new "「これを教卓のコンセントに差してから、お水を入れに行ってきます」"
+
+    old "{#yuri_exclusive2_2_ch22_35920c24}"
+    new "ユリは俺を通り過ぎて教卓にケトルを設置した。"
+
+    old "{#yuri_exclusive2_2_ch22_ecb93295}"
+    new "俺は彼女の動作をただ観察する。"
+
+    old "{#yuri_exclusive2_2_ch22_1c3b026c}"
+    new "驚くことに、彼女の立ち居振る舞いは喋り方とまるで正反対だ。"
+
+    old "{#yuri_exclusive2_2_ch22_c89e5a0e}"
+    new "脚が長いから余計にユリが上品で整然として見える。"
+
+    old "{#yuri_exclusive2_2_ch22_38a1bb11}"
+    new "「それでは、ピッチャーをいただいても？」"
+
+    old "{#yuri_exclusive2_2_ch22_5219ddb4}"
+    new "「ありがとうございます。すぐ戻ります」"
+
+    old "{#yuri_exclusive2_2_ch22_9e2c0e50}"
+    new "「ああ、どうせなら一緒に行くよ……」"
+
+    old "{#yuri_exclusive2_2_ch22_19cc1f85}"
+    new "「い、いえ！」"
+
+    old "{#yuri_exclusive2_2_ch22_e63c264e}"
+    new "「ここにいてください……」"
+
+    old "{#yuri_exclusive2_2_ch22_6b56a0d7}"
+    new "「あまり時間はかかりませんから」"
+
+    old "{#yuri_exclusive2_2_ch22_dbe6ffb8}"
+    new "ピッチャーを持ってユリは慌てて教室を出ていった。"
+
+    old "{#yuri_exclusive2_2_ch22_f0139694}"
+    new "「あら……」"
+
+    old "{#yuri_exclusive2_2_ch22_6d1a8f0e}"
+    new "「またユリに置いていかれたの？」"
+
+    old "{#yuri_exclusive2_2_ch22_beb1eb80}"
+    new "「いや、今のはそういうのじゃない」"
+
+    old "{#yuri_exclusive2_2_ch22_65fc93d4}"
+    new "「お茶を淹れるための水を汲みに行っただけだ」"
+
+    old "{#yuri_exclusive2_2_ch22_9b88e971}"
+    new "「あっ、そうだったのね！」"
+
+    old "{#yuri_exclusive2_2_ch22_fcdac63a}"
+    new "「誤解してごめんなさいね～」"
+
+    old "{#yuri_exclusive2_2_ch22_a20cefa7}"
+    new "……"
+
+    old "{#yuri_exclusive2_2_ch22_b3947111}"
+    new "10分が過ぎた。"
+
+    old "{#yuri_exclusive2_2_ch22_de8365b1}"
+    new "ユリはそんなにかからないと言っていたが……"
+
+    old "{#yuri_exclusive2_2_ch22_fec3b346}"
+    new "何かあったのだろうか？"
+
+    old "{#yuri_exclusive2_2_ch22_50bc102a}"
+    new "待ってるばかりも退屈なので、探しに行くことにした。"
+
+    old "{#yuri_exclusive2_2_ch22_d24bc72b}"
+    new "「さてと……」"
+
+    old "{#yuri_exclusive2_2_ch22_a09a01c8}"
+    new "ユリはここから一番近い水飲み場に向かったと考えるのが合理的だ……"
+
+    old "{#yuri_exclusive2_2_ch22_ddee1921}"
+    new "俺は廊下を歩き始める。"
+
+    old "{#yuri_exclusive2_2_ch22_c9858fd4}"
+    new "「はぁーっ……はぁーっ……」"
+
+    old "{#yuri_exclusive2_2_ch22_b426398d}"
+    new "「……はぁーっ……はぁーっ……」"
+
+    old "{#yuri_exclusive2_2_ch22_e9a92b61}"
+    new "……何の音だ？"
+
+    old "{#yuri_exclusive2_2_ch22_ec9aa814}"
+    new "角を曲がったところから聞こえてくる……"
+
+    old "{#yuri_exclusive2_2_ch22_9c10999d}"
+    new "誰かの呼吸のようだ。"
+
+    old "{#yuri_exclusive2_2_ch22_57bf0dd5}"
+    new "「シィィーーーッ……」"
+
+    old "{#yuri_exclusive2_2_ch22_39b8793e}"
+    new "歯を食いしばりながら息を吸い込むかのような鋭い呼吸。"
+
+    old "{#yuri_exclusive2_2_ch22_7198b1bf}"
+    new "苦しんでいるのか……？"
+
+    old "{#yuri_exclusive2_2_ch22_d5819e1c}"
+    new "角を曲がった先を覗く。"
+
+    old "{#yuri_exclusive2_2_ch22_c934e5a0}"
+    new "「ユリ……？」"
+
+    old "{#yuri_exclusive2_2_ch22_8bb5a442}"
+    new "「はっ――！」"
+
+    old "{#yuri_exclusive2_2_ch22_d1bae097}"
+    new "「{cps=150}ユリ……？{/cps}{nw}」"
+
+    old "{#yuri_exclusive2_2_ch22_e6152f36}"
+    new "{cps=150}角を曲がった先を覗く。{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_32ca75d9}"
+    new "{cps=150}苦しんでいるのか……？{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_4bb5f0fa}"
+    new "{cps=150}歯を食いしばりながら息を吸い込むかのような鋭い呼吸。{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_58bb6295}"
+    new "「{cps=150}シィーーーッ……{/cps}{nw}」"
+
+    old "{#yuri_exclusive2_2_ch22_08f21ca7}"
+    new "{cps=150}誰かの呼吸のようだ。{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_8cbb7ddd}"
+    new "{cps=150}角を曲がったところから聞こえてくる……{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_9efe41bb}"
+    new "{cps=150}……何の音だ？{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_2170fe8c}"
+    new "「{cps=150}……はぁーっ……はぁーっ……{/cps}{nw}」"
+
+    old "{#yuri_exclusive2_2_ch22_931edd08}"
+    new "「{cps=150}はぁーっ……はぁーっ……{/cps}{nw}」"
+
+    old "{#yuri_exclusive2_2_ch22_88faba50}"
+    new "{cps=150}俺は廊下を歩き始める。{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_e4fb0c07}"
+    new "{cps=150}ユリはここから一番近い水飲み場に向かったと考えるのが合理的だ……{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_bd04a622}"
+    new "「{cps=150}さてと……{/cps}{nw}」"
+
+    old "{#yuri_exclusive2_2_ch22_6e4de4a6}"
+    new "{cps=150}待ってるばかりも退屈なので、探しに行くことにした。{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_023a44ec}"
+    new "{cps=150}何かあったのだろうか？{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_e4a41be3}"
+    new "{cps=150}ユリはそんなにかからないと言っていたが……{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_aba8093d}"
+    new "{cps=150}10分が過ぎた。{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_231f46ba}"
+    new "{cps=150}……{/cps}{nw}"
+
+    old "{#yuri_exclusive2_2_ch22_deebf71c}"
+    new "「ただいま戻りました」"
+
+    old "{#yuri_exclusive2_2_ch22_a0dcfa6e}"
+    new "「お待たせしてすみません」"
+
+    old "{#yuri_exclusive2_2_ch22_ca073357}"
+    new "「[player]さん、烏龍茶はお好きですか？」"
+
+    old "{#yuri_exclusive2_2_ch22_eafd0bfb}"
+    new "「ああ」"
+
+    old "{#yuri_exclusive2_2_ch22_1c080aaf}"
+    new "「なんでも構わないよ」"
+
+    old "{#yuri_exclusive2_2_ch22_5304a307}"
+    new "「分かりました」"
+
+    old "{#yuri_exclusive2_2_ch22_b1265635}"
+    new "ユリは電気ケトルの温度を100度に調節した。"
+
+    old "{#yuri_exclusive2_2_ch22_cbbbfba3}"
+    new "「次にティーポットの用意ですね」"
+
+    old "{#yuri_exclusive2_2_ch22_e0a461fa}"
+    new "「随分凝ってるんだな？」"
+
+    old "{#yuri_exclusive2_2_ch22_ac6b359f}"
+    new "「もちろんです……」"
+
+    old "{#yuri_exclusive2_2_ch22_9eec2a3c}"
+    new "「誰かのためなら、より一層丁寧に淹れないと」"
+
+    old "{#yuri_exclusive2_2_ch22_5199bad0}"
+    new "「俺がお茶のことをよく分かってなくてもか？」"
+
+    old "{#yuri_exclusive2_2_ch22_976e8033}"
+    new "「ふふっ」"
+
+    old "{#yuri_exclusive2_2_ch22_38b77528}"
+    new "「それならより一層おいしくいただけるかと思いますよ」"
+
+    old "{#yuri_exclusive2_2_ch22_beb50f2c}"
+    new "「おっ……それもそうだな！」"
+
+    old "{#yuri_exclusive2_2_ch22_bd6ceeb4}"
+    new "ユリはティーポットを取り出すと茶葉を測り始めた。"
+
+    old "{#yuri_exclusive2_2_ch22_b78eae4f}"
+    new "驚くことに、鼻歌まで歌い始めた。"
+
+    old "{#yuri_exclusive2_2_ch22_ba599efa}"
+    new "「ご機嫌そうだな……」"
+
+    old "{#yuri_exclusive2_2_ch22_c32eedbb}"
+    new "「そうですか？」"
+
+    old "{#yuri_exclusive2_2_ch22_ab893d32}"
+    new "「わざとそうしてみましたが……」"
+
+    old "{#yuri_exclusive2_2_ch22_7f41b19f}"
+    new "「ちゃんと気づいてくれましたね」"
+
+    old "{#yuri_exclusive2_2_ch22_bca12f15}"
+    new "「少し考えてみたのですが……」"
+
+    old "{#yuri_exclusive2_2_ch22_0164772c}"
+    new "「もう少しだけ自分の気持ちを表に出していってみようかと思いまして」"
+
+    old "{#yuri_exclusive2_2_ch22_b699d4da}"
+    new "「予想よりも難しいことでもなかったようです……」"
+
+    old "{#yuri_exclusive2_2_ch22_c52c4a97}"
+    new "「それもきっとあなたがいるからですね」"
+
+    old "{#yuri_exclusive2_2_ch22_93deaf69}"
+    new "「そうか！」"
+
+    old "{#yuri_exclusive2_2_ch22_1c90c29a}"
+    new "「すごく良い事だと思うぞ、ユリ！」"
+
+    old "{#yuri_exclusive2_2_ch22_28e6d662}"
+    new "「ただ無理はするなよ」"
+
+    old "{#yuri_exclusive2_2_ch22_5aab8dd2}"
+    new "「[player]さんはいつも私の心配をしてくださるのですね……」"
+
+    old "{#yuri_exclusive2_2_ch22_6f88fe35}"
+    new "「そこがとても愛らしいです」"
+
+    old "{#yuri_exclusive2_2_ch22_b7f7559b}"
+    new "「それは……」"
+
+    old "{#yuri_exclusive2_2_ch22_04ca9dc1}"
+    new "ユリの言ったことは本音のようだ……"
+
+    old "{#yuri_exclusive2_2_ch22_7604063e}"
+    new "いつまでこの雰囲気が続くんだ……！"
+
+    old "{#yuri_exclusive2_2_ch22_58805ea1}"
+    new "とりあえず俺はユリが二人ぶんのお茶を淹れてくれるのを見守る。"
+
+    old "{#yuri_exclusive2_2_ch22_f2be1624}"
+    new "「[player]さん、もう一つお願いがあります」"
+
+    old "{#yuri_exclusive2_2_ch22_dcf2efbc}"
+    new "「今日は床に座っても良いですか？」"
+
+    old "{#yuri_exclusive2_2_ch22_635adbe8}"
+    new "「えっ？ なんでまた？」"
+
+    old "{#yuri_exclusive2_2_ch22_953ca257}"
+    new "「そうした方が背中が楽なので……」"
+
+    old "{#yuri_exclusive2_2_ch22_4b80e874}"
+    new "「机に前のめりにならず、壁を背もたれにして読めるので」"
+
+    old "{#yuri_exclusive2_2_ch22_c34e0b47}"
+    new "「ああそうか、気付かなくてすまなかった」"
+
+    old "{#yuri_exclusive2_2_ch22_1b0a66cf}"
+    new "「いえ、気にしないでください」"
+
+    old "{#yuri_exclusive2_2_ch22_d5b75401}"
+    new "「よく背中が痛くなってしまうので、予防しておきたくて」"
+
+    old "{#yuri_exclusive2_2_ch22_09f2de35}"
+    new "「そうなのか？」"
+
+    old "{#yuri_exclusive2_2_ch22_f735ccd8}"
+    new "「なんでなんだろうな……」"
+
+    old "{#yuri_exclusive2_2_ch22_e8d54652}"
+    new "「それはおそらく私の――」"
+
+    old "{#yuri_exclusive2_2_ch22_504ba04a}"
+    new "「あっ……」"
+
+    old "{#yuri_exclusive2_2_ch22_68c6e8a6}"
+    new "「わ、私の……」"
+
+    old "{#yuri_exclusive2_2_ch22_3c30f162}"
+    new "「姿勢のせいか？」"
+
+    old "{#yuri_exclusive2_2_ch22_2462174e}"
+    new "「読書してる時はいつも猫背になってるもんな」"
+
+    old "{#yuri_exclusive2_2_ch22_579a96b7}"
+    new "「そ、そうなんです！」"
+
+    old "{#yuri_exclusive2_2_ch22_ef46eb2d}"
+    new "「私、読書する時の姿勢が本当に悪いんです！」"
+
+    old "{#yuri_exclusive2_2_ch22_5a43e3b2}"
+    new "「だから床に座れたらと思いまして」"
+
+    old "{#yuri_exclusive2_2_ch22_d5ae2301}"
+    new "「分かった」"
+
+    old "{#yuri_exclusive2_2_ch22_ba08de52}"
+    new "「それじゃあ本出してくるな」"
+
+    old "{#yuri_exclusive2_2_ch22_fa75c129}"
+    new "俺はカバンから本を取り出した。"
+
+    old "{#yuri_exclusive2_2_ch22_33179bd7}"
+    new "「あっ、チョコレートがあるんだった……」"
+
+    old "{#yuri_exclusive2_2_ch22_0c515ba0}"
+    new "小さなチョコレート菓子が入った袋がある。"
+
+    old "{#yuri_exclusive2_2_ch22_e1063e85}"
+    new "お茶に合うかと思って、それも取り出した。"
+
+    old "{#yuri_exclusive2_2_ch22_d9a2ecee}"
+    new "俺とユリはそれぞれティーカップを横に、壁にもたれて座った。"
+
+    old "{#yuri_exclusive2_2_ch22_ad740ef3}"
+    new "気の合うことに、何も言わずとも前回と同じポジションを取り、それぞれの本の端を持った。"
+
+    old "{#yuri_exclusive2_2_ch22_308596e5}"
+    new "ただ今回は……"
+
+    old "{#yuri_exclusive2_2_ch22_de366d08}"
+    new "さらに身体の距離が近くなっている。"
+
+    old "{#yuri_exclusive2_2_ch22_5d023884}"
+    new "「少し見にくいです……」"
+
+    old "{#yuri_exclusive2_2_ch22_55feb8f4}"
+    new "「――っ！」"
+
+    old "{#yuri_exclusive2_2_ch22_b25a40d6}"
+    new "二人の肩が触れ合う距離までユリが接近してきた。"
+
+    old "{#yuri_exclusive2_2_ch22_85980a12}"
+    new "この状況でどう読書に集中しろと……！？"
+
+    old "{#yuri_exclusive2_2_ch22_73b16b02}"
+    new "ユリってかわいいなあ、と前から思ってはいたが……"
+
+    old "{#yuri_exclusive2_2_ch22_784f0af8}"
+    new "こうも急に積極的になられては俺が耐えられるかどうか……"
+
+    old "{#yuri_exclusive2_2_ch22_afd2de9d}"
+    new "「ティーカップを……」"
+
+    old "{#yuri_exclusive2_2_ch22_7075f030}"
+    new "ユリが俺のティーカップを手渡してきた。"
+
+    old "{#yuri_exclusive2_2_ch22_b94c1535}"
+    new "空いてる手でそれを受け取ると、俺はさらに集中できない体勢になってしまった。"
+
+    old "{#yuri_exclusive2_2_ch22_738fef00}"
+    new "誤って胸に触れてしまわないか気を付けねばならないじゃないか……！"
+
+    old "{#yuri_exclusive2_2_ch22_31a38b20}"
+    new "一方、ユリは何も気づいていない。"
+
+    old "{#yuri_exclusive2_2_ch22_cb5218b7}"
+    new "読書する時のいつもの懸命な顔つきをしている。きっと意識から周りの世界が薄らいでしまっているのだろう。"
+
+    old "{#yuri_exclusive2_2_ch22_8b064b16}"
+    new "俺は読書に集中することに全力で努めた。"
+
+    old "{#yuri_exclusive2_2_ch22_a20cefa7_1}"
+    new "……"
+
+    old "{#yuri_exclusive2_2_ch22_c510b9b5}"
+    new "数分後、ようやく少し落ち着くことができた。"
+
+    old "{#yuri_exclusive2_2_ch22_76549943}"
+    new "俺は脚の間の床にティーカップを置き、チョコの包みをいじくる。"
+
+    old "{#yuri_exclusive2_2_ch22_2787f9a7}"
+    new "「あっ、悪い……」"
+
+    old "{#yuri_exclusive2_2_ch22_61683ed9}"
+    new "包みを開けるために一瞬、本から手を離す。"
+
+    old "{#yuri_exclusive2_2_ch22_0183dede}"
+    new "「好きなだけ食べていいからな」"
+
+    old "{#yuri_exclusive2_2_ch22_a9ce267b}"
+    new "「あ、それは……」"
+
+    old "{#yuri_exclusive2_2_ch22_54b4955c}"
+    new "「私は結構です……」"
+
+    old "{#yuri_exclusive2_2_ch22_276afef2}"
+    new "「えっ？ 本当か？」"
+
+    old "{#yuri_exclusive2_2_ch22_de41a4f9}"
+    new "「その……」"
+
+    old "{#yuri_exclusive2_2_ch22_701aa4c1}"
+    new "「チョコレートを触った指で本を触ったら、ページを汚してしまうかと思いまして……」"
+
+    old "{#yuri_exclusive2_2_ch22_6a87efd4}"
+    new "「ああ、確かに……」"
+
+    old "{#yuri_exclusive2_2_ch22_db8aec53}"
+    new "「そこまで配慮が至らなかったよ」"
+
+    old "{#yuri_exclusive2_2_ch22_9e480491}"
+    new "「悪かった」"
+
+    old "{#yuri_exclusive2_2_ch22_0eb2861d}"
+    new "「謝る必要はありませんよ」"
+
+    old "{#yuri_exclusive2_2_ch22_13b3e059}"
+    new "「私が本を持っておきますから、ね？」"
+
+    old "{#yuri_exclusive2_2_ch22_977e733b}"
+    new "「いいのか……？」"
+
+    old "{#yuri_exclusive2_2_ch22_d32f8ecc}"
+    new "「もちろんです」"
+
+    old "{#yuri_exclusive2_2_ch22_f9749fd6}"
+    new "ユリは両手で本を開いた。"
+
+    old "{#yuri_exclusive2_2_ch22_d4c91dff}"
+    new "俺にも読みやすいように持ってくれている。"
+
+    old "{#yuri_exclusive2_2_ch22_d764c329}"
+    new "俺の脚の上に彼女の左腕が乗っかることになってしまったが。"
+
+    old "{#yuri_exclusive2_2_ch22_59dd503e}"
+    new "「それなら……」"
+
+    old "{#yuri_exclusive2_2_ch22_54138664}"
+    new "ユリは再び読書に完全に集中していた。"
+
+    old "{#yuri_exclusive2_2_ch22_a28daeb1}"
+    new "俺はチョコを一粒取って自分の口にひょいと入れる。"
+
+    old "{#yuri_exclusive2_2_ch22_2fbb5434}"
+    new "そしてもう一粒を手に取り……"
+
+    old "{#yuri_exclusive2_2_ch22_6bf56b05}"
+    new "ユリの口元へ向けた。"
+
+    old "{#yuri_exclusive2_2_ch22_73bd295b}"
+    new "ユリは見向きもしない。"
+
+    old "{#yuri_exclusive2_2_ch22_b1c5258a}"
+    new "ごく自然な状況であるかのように、唇を少し開けているだけだ。"
+
+    old "{#yuri_exclusive2_2_ch22_cd91f7db}"
+    new "だがここで止めるわけにはいかない！"
+
+    old "{#yuri_exclusive2_2_ch22_dd709b9d}"
+    new "俺はためらいながらも彼女の唇の間にチョコを置くと……"
+
+    old "{#yuri_exclusive2_2_ch22_ff42d43c}"
+    new "ユリはそのまま唇を閉じ、それを口の中に収めた。"
+
+    old "{#yuri_exclusive2_2_ch22_d1820aca}"
+    new "「えっ……？」"
+
+    old "{#yuri_exclusive2_2_ch22_5dbb8342}"
+    new "ユリの表情が突然崩れる。"
+
+    old "{#yuri_exclusive2_2_ch22_66238965}"
+    new "「い……」"
+
+    old "{#yuri_exclusive2_2_ch22_64718e50}"
+    new "「いま、私……」"
+
+    old "{#yuri_exclusive2_2_ch22_f2565bf9}"
+    new "今の出来事を俺に確認するかのようにユリはこちらを見る。"
+
+    old "{#yuri_exclusive2_2_ch22_35dc00ff}"
+    new "「えっと……」"
+
+    old "{#yuri_exclusive2_2_ch22_c60c5441}"
+    new "「[player]さん……」"
+
+    old "{#yuri_exclusive2_2_ch22_c817a551}"
+    new "「わ、悪い！」"
+
+    old "{#yuri_exclusive2_2_ch22_304b7207}"
+    new "「や、やるべきじゃなかったか……」"
+
+    old "{#yuri_exclusive2_2_ch22_ceede073}"
+    new "「あ、あ……」"
+
+    old "{#yuri_exclusive2_2_ch22_66721784}"
+    new "ユリの呼吸が荒くなる。"
+
+    old "{#yuri_exclusive2_2_ch22_507dcdd3}"
+    new "「私……」"
+
+    old "{#yuri_exclusive2_2_ch22_622ccc92}"
+    new "「私もう……」"
+
+    old "{#yuri_exclusive2_2_ch22_c60c5441_1}"
+    new "「[player]さん……」"
+
+    old "{#yuri_exclusive2_2_ch22_c67875db}"
+    new "突然ユリは強引に俺の腕を掴み、立ち上がらせるように物凄い力で引っ張り上げた。"
+
+    old "{#yuri_exclusive2_2_ch22_5030e90f}"
+    new "反動でティーカップが倒れる。"
+
+    old "{#yuri_exclusive2_2_ch22_c60c5441_2}"
+    new "「[player]さん……」"
+
+    old "{#yuri_exclusive2_2_ch22_dc13b2d4}"
+    new "「心臓の……」"
+
+    old "{#yuri_exclusive2_2_ch22_b1a7b8eb}"
+    new "「心臓の高鳴りが止まらないんです、[player]さん……」"
+
+    old "{#yuri_exclusive2_2_ch22_4ac7b4fd}"
+    new "「落ち着くことができません」"
+
+    old "{#yuri_exclusive2_2_ch22_590afa30}"
+    new "「もう何にも集中できません……！」"
+
+    old "{#yuri_exclusive2_2_ch22_aade508a}"
+    new "「感じますか、[player]さん？」"
+
+    old "{#yuri_exclusive2_2_ch22_598578e6}"
+    new "ユリは突然俺の手を自分の胸に押し当てた。"
+
+    old "{#yuri_exclusive2_2_ch22_263af7c8}"
+    new "「どうしてこうなるのでしょう？」"
+
+    old "{#yuri_exclusive2_2_ch22_74c994c6}"
+    new "「頭がおかしくなりそう……」"
+
+    old "{#yuri_exclusive2_2_ch22_6f78b6f9}"
+    new "「止められないんです」"
+
+    old "{#yuri_exclusive2_2_ch22_a9ecf625}"
+    new "「読書する気も失せるほどに……」"
+
+    old "{#yuri_exclusive2_2_ch22_8d2e9564}"
+    new "「ずっと……」"
+
+    old "{#yuri_exclusive2_2_ch22_03b1703d}"
+    new "「見ていたい……」"
+
+    old "{#yuri_exclusive2_2_ch22_ee16f3da}"
+    new "「……あなたを」"
+
+    old "{#yuri_exclusive2_2_ch22_dd745922}"
+    new "「……はーっ……」"
+
+    old "{#yuri_exclusive2_2_ch22_dd745922_1}"
+    new "「……はーっ……」"
+
+    old "{#yuri_exclusive2_2_ch22_dd745922_2}"
+    new "「……はーっ……」"
+
+    old "{#yuri_exclusive2_2_ch22_d0015b90}"
+    new "「え、えっと……」"
+
+    old "{#yuri_exclusive2_2_ch22_5f395221}"
+    new "「そ……そろそろ詩の読み合いを……」"
+
+    old "{#yuri_exclusive2_2_ch23_7461c080}"
+    new "「{cps=70}[gtext]{nw}」"
+
+    old "{#yuri_exclusive2_2_ch23_a1300026}"
+    new "「えっと……」"
+
+    old "{#yuri_exclusive2_2_ch23_eaa24d5f}"
+    new "「あら……」"
+
+    old "{#yuri_exclusive2_2_ch23_e59a21cd}"
+    new "「私どうして……」"
+
+    old "{#yuri_exclusive2_2_ch23_a41c7fe0}"
+    new "「……すみません、なんだかデジャブが……」"
+
+    old "{#yuri_exclusive2_2_ch23_43020291}"
+    new "「以前にも同じことが起きたこと……ありませんよね？」"
+
+    old "{#yuri_exclusive2_2_ch23_cc28ec22}"
+    new "「最近頭がしゃんとしなくて……」"
+
+    old "{#yuri_exclusive2_2_ch23_c581930f}"
+    new "「それが表に出てたりしませんでしたよね！？」"
+
+    old "{#yuri_exclusive2_2_ch23_3aa2ff40}"
+    new "「せっかく一緒に過ごすようになってきたのに変だと思われては嫌ですから……」"
+
+    old "{#yuri_exclusive2_2_ch23_e70a97ca}"
+    new "「とはいえ……」"
+
+    old "{#yuri_exclusive2_2_ch23_2cbb2905}"
+    new "「誰でも変なところなんてありますよね」"
+
+    old "{#yuri_exclusive2_2_ch23_ca668879}"
+    new "「でも誰かと知り合ってからすぐに自分のそういった部分をさらけ出すのは不適切というか……嫌われやすいようです」"
+
+    old "{#yuri_exclusive2_2_ch23_ef82f4ff}"
+    new "「少なくとも私はそう学びました」"
+
+    old "{#yuri_exclusive2_2_ch23_738f216d}"
+    new "「子供の頃は気づかないうちに過激に言い過ぎることがあったせいか……」"
+
+    old "{#yuri_exclusive2_2_ch23_6f9e2416}"
+    new "「周りから誰もいなくなってしまって」"
+
+    old "{#yuri_exclusive2_2_ch23_3a913476}"
+    new "「その時から……自分のそういったところが嫌いになりました」"
+
+    old "{#yuri_exclusive2_2_ch23_a8f348de}"
+    new "「自分の趣味の一部と……」"
+
+    old "{#yuri_exclusive2_2_ch23_44f7a0aa}"
+    new "「あまりに興奮すると自分が抑えられなくところが」"
+
+    old "{#yuri_exclusive2_2_ch23_87f9f194}"
+    new "「だから……」"
+
+    old "{#yuri_exclusive2_2_ch23_89d13a9a}"
+    new "「次第に人と関わるのをやめました」"
+
+    old "{#yuri_exclusive2_2_ch23_381c8c0e}"
+    new "「私の大切なものが周りに受け入れられず、それが原因で嫌われるくらいなら……」"
+
+    old "{#yuri_exclusive2_2_ch23_4c886802}"
+    new "「……ふさぎ込んだほうがましですから」"
+
+    old "{#yuri_exclusive2_2_ch23_54893c14}"
+    new "「でも、最近何かおかしいんです」"
+
+    old "{#yuri_exclusive2_2_ch23_395e518a}"
+    new "「何故だかわかりませんが……」"
+
+    old "{#yuri_exclusive2_2_ch23_9d91c401}"
+    new "「部活でみんなで集まると、心臓がおかしくなるんです」"
+
+    old "{#yuri_exclusive2_2_ch23_a1554ded}"
+    new "「胸から飛び出るのではないかと思うほどに……」"
+
+    old "{#yuri_exclusive2_2_ch23_5b616b7e}"
+    new "「解放しきれないほどのエネルギーや感情に圧倒されそうになるんです」"
+
+    old "{#yuri_exclusive2_2_ch23_02da2bfb}"
+    new "「そのせいで変な行動に出るようになってしまって」"
+
+    old "{#yuri_exclusive2_2_ch23_f6492765}"
+    new "「どうしてそうなるのか分からないんです！」"
+
+    old "{#yuri_exclusive2_2_ch23_35c52eb9}"
+    new "「[player]さん……」"
+
+    old "{#yuri_exclusive2_2_ch23_7c954359}"
+    new "「最近、モニカちゃんの様子がおかしいのは私の気のせいでしょうか？」"
+
+    old "{#yuri_exclusive2_2_ch23_a00a2313}"
+    new "「私が入部した時から、ずっと優しい方だったのに……」"
+
+    old "{#yuri_exclusive2_2_ch23_ff2cf4af}"
+    new "「最近、彼女がいると何か鋭いものを感じるんです」"
+
+    old "{#yuri_exclusive2_2_ch23_fef409f9}"
+    new "「私がおかしい訳ではありませんよね？」"
+
+    old "{#yuri_exclusive2_2_ch23_e36cb463}"
+    new "「違いますよね！？」"
+
+    old "{#yuri_exclusive2_2_ch23_a4b9217e}"
+    new "「いつもモニカちゃんに聞かれてたので、今までは何も言えなかったんです！」"
+
+    old "{#yuri_exclusive2_2_ch23_aa31091b}"
+    new "「でもようやく二人になれたので……」"
+
+    old "{#yuri_exclusive2_2_ch23_a13c78e2}"
+    new "「しばらくここに居ましょう？」"
+
+    old "{#yuri_exclusive2_2_ch23_3cbd3d18}"
+    new "「そう……」"
+
+    old "{#yuri_exclusive2_2_ch23_71a86863}"
+    new "「……」"
+
+    old "{#yuri_exclusive2_2_ch23_4feeb32b}"
+    new "「ずっとここに居たいです」"
+
+    old "{#yuri_exclusive2_2_ch23_e5b9c767}"
+    new "「二人きりで」"
+
+    old "{#yuri_exclusive2_2_ch23_7765130f}"
+    new "「部活が終わるまでここに居ましょう」"
+
+    old "{#yuri_exclusive2_2_ch23_9cd0b4f3}"
+    new "「そしたら部室は私たちのものです」"
+
+    old "{#yuri_exclusive2_2_ch23_66f5f2c5}"
+    new "「二人の読書を邪魔する者もいません」"
+
+    old "{#yuri_exclusive2_2_ch23_c8630bd0}"
+    new "「自分の喉元を刺したい気分にさせる者も来ません」"
+
+    old "{#yuri_exclusive2_2_ch23_005963c5}"
+    new "「あはは……」"
+
+    old "{#yuri_exclusive2_2_ch23_d51fbac1}"
+    new "「冗談ですよ！」"
+
+    old "{#yuri_exclusive2_2_ch23_f1b4cee4}"
+    new "「ただの冗談」"
+
+    old "{#yuri_exclusive2_2_ch23_5f26be37}"
+    new "「でもナイフは好きです……」"
+
+    old "{#yuri_exclusive2_2_ch23_f22eb532}"
+    new "「変な風に聞こえるかもしれませんが、実際にその美しさを見ればきっと分かっていただけます」"
+
+    old "{#yuri_exclusive2_2_ch23_f28e832b}"
+    new "「そうです！」"
+
+    old "{#yuri_exclusive2_2_ch23_3a824372}"
+    new "「私の家に来ませんか？」"
+
+    old "{#yuri_exclusive2_2_ch23_6889177e}"
+    new "「コレクションをお見せします」"
+
+    old "{#yuri_exclusive2_2_ch23_fb548a0a}"
+    new "「様々な職人から買い集めたものなんです」"
+
+    old "{#yuri_exclusive2_2_ch23_80953160}"
+    new "「一つずつちゃんと使っているのですよ？」"
+
+    old "{#yuri_exclusive2_2_ch23_17db3fe0}"
+    new "「寂しがらせるといけないと思って」"
+
+    old "{#yuri_exclusive2_2_ch23_cbb586c0}"
+    new "「誰も寂しさを味わうべきではありませんから」"
+
+    old "{#yuri_exclusive2_2_ch23_dc605710}"
+    new "「誰も」"
+
+    old "{#yuri_exclusive2_2_ch23_baa8fe98}"
+    new "「だから文芸部に入ってくださって本当に嬉しかったです、[player]さん」"
+
+    old "{#yuri_exclusive2_2_ch23_a3a8a9dc}"
+    new "「これで私たちも寂しくありません」"
+
+    old "{#yuri_exclusive2_2_ch23_464732f9}"
+    new "「お互いが居ますもの」"
+
+    old "{#yuri_exclusive2_2_ch23_04a4a8fa}"
+    new "「毎日」"
+
+    old "{#yuri_exclusive2_2_ch23_b39fee82}"
+    new "「それだけで十分です」"
+
+    old "{#yuri_exclusive2_2_ch23_74f96658}"
+    new "「そうです！」"
+
+    old "{#yuri_exclusive2_2_ch23_5b22e0ca}"
+    new "「文芸部なんて辞めてやりましょう」"
+
+    old "{#yuri_exclusive2_2_ch23_7eac0191}"
+    new "「これ以上モニカちゃんの下品なお喋りに付き合う必要もありませんし」"
+
+    old "{#yuri_exclusive2_2_ch23_1bda629e}"
+    new "「もう一人のクソガキにも」"
+
+    old "{#yuri_exclusive2_2_ch23_a56f179c}"
+    new "「毎日一緒に下校しましょう」"
+
+    old "{#yuri_exclusive2_2_ch23_2a27761b}"
+    new "「そして一緒に読書をして」"
+
+    old "{#yuri_exclusive2_2_ch23_09d3f053}"
+    new "「一緒に食べて」"
+
+    old "{#yuri_exclusive2_2_ch23_4d3956a3}"
+    new "「一緒に寝る」"
+
+    old "{#yuri_exclusive2_2_ch23_3c4f300f}"
+    new "「素敵だと思いませんか？」"
+
+    old "{#yuri_exclusive2_2_ch23_1f89728f}"
+    new "「それ以上何がいると言うのです？」"
+
+    old "{#yuri_exclusive2_2_ch23_9ada9c67}"
+    new "「それを望んで入部したのでしょう？」"
+
+    old "{#yuri_exclusive2_2_ch23_76ed8bee}"
+    new "「まるで運命ですね」"
+
+    old "{#yuri_exclusive2_2_ch23_0805f258}"
+    new "「二人が出会うのは運命だったのです」"
+
+    old "{#yuri_exclusive2_2_ch23_ae9873ce}"
+    new "「何年も待ち焦がれたハッピーエンドをようやく迎えられます」"
+
+    old "{#yuri_exclusive2_2_ch23_ab92186d}"
+    new "「私とそうしてくれますよね、[player]さん？」"
+
+    old "{#yuri_exclusive2_2_ch23_993e4d8e}"
+    new "「私と{space=60}[gtext]{nw}」"

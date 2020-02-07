@@ -1465,3 +1465,1458 @@ translate Japanese strings:
 
     old "Help me, Sayori!!"
     new "助けて、サヨリ！！"
+
+    old "{#ch1_main_0f077782}"
+    new "「[player]君、今日も来たのね！」"
+
+    old "{#ch1_main_95ea4bac}"
+    new "「すっぽかされなくて良かったわ、あははっ！」"
+
+    old "{#ch1_main_ecaf5654}"
+    new "「いや、そんな心配するなって」"
+
+    old "{#ch1_main_a0e98f5a}"
+    new "「意外かも知れないが、これでも俺は約束だけは守るタイプなんだ」"
+
+    old "{#ch1_main_5bff8fb6}"
+    new "そんなこんなで、俺は文芸部へ戻って来た。"
+
+    old "{#ch1_main_0565e928}"
+    new "俺が最後に来たようで、他のみんなはとっくにのんびりとしていた。"
+
+    old "{#ch1_main_209577b0}"
+    new "「約束を守っていただいてありがとうございます、[player]さん」"
+
+    old "{#ch1_main_fc35d1a5}"
+    new "「あなたに気苦労を負わせていないと良いのですが」"
+
+    old "{#ch1_main_0b033aa0}"
+    new "「馴染みがない文学の世界に突然飛び込ませているようなものなので……」"
+
+    old "{#ch1_main_4bc8df14}"
+    new "「もう、なによ！ 甘やかす必要なんてないでしょ」"
+
+    old "{#ch1_main_54887548}"
+    new "「サヨリから聞いたけどあんた、今年はどこの部活にも入るつもりがなかったみたいじゃない」"
+
+    old "{#ch1_main_0e4e14ce}"
+    new "「それに、去年だって！」"
+
+    old "{#ch1_main_131e8e4b}"
+    new "「あんたはここに来て、ただダラダラ過ごそうと考えているのかもしれないけど……」"
+
+    old "{#ch1_main_8ef8abd3}"
+    new "「真面目にやらないのなら、ここで過ごす時間もそう長くないと思いなさい」"
+
+    old "{#ch1_main_e8cad960}"
+    new "「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」"
+
+    old "{#ch1_main_28526ae4}"
+    new "「モ……マ……ム……！！」"
+
+    old "{#ch1_main_6ff88347}"
+    new "ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。"
+
+    old "{#ch1_main_8e1ee84b}"
+    new "「マンガは文学なのっ！！」"
+
+    old "{#ch1_main_036357ba}"
+    new "あっさりと敗北し、ナツキはドサッと席へ戻った。"
+
+    old "{#ch1_main_a84b9413}"
+    new "「心配無用だよ、みんな～」"
+
+    old "{#ch1_main_d7cf9956}"
+    new "「[player]は、楽しいことは全力でやるもんね」"
+
+    old "{#ch1_main_f466355f}"
+    new "「わたしが頼んでもいないのに、何か手伝ってくれたりするんだよ」"
+
+    old "{#ch1_main_13c9b95d}"
+    new "「料理とか、お部屋の掃除とか……」"
+
+    old "{#ch1_main_6c9290b7}"
+    new "「頼りになりますね……」"
+
+    old "{#ch1_main_01768f1a}"
+    new "「サヨリ、それはお前の部屋がすごく汚いからだぞ」"
+
+    old "{#ch1_main_f03a36de}"
+    new "「それに家が火事寸前になったこともあったし」"
+
+    old "{#ch1_main_46619abb}"
+    new "「あ、それは……えへへ……」"
+
+    old "{#ch1_main_e3d60137}"
+    new "「サヨリちゃんたち、本当に仲が良いんですね」"
+
+    old "{#ch1_main_5150f59d}"
+    new "「少し羨ましいです……」"
+
+    old "{#ch1_main_b7fd516c}"
+    new "「そうかな？ ユリちゃんと[player]だってきっとステキな友達になれるよ！」"
+
+    old "{#ch1_main_6897629e}"
+    new "「え、えっと……」"
+
+    old "{#ch1_main_7b7e4806}"
+    new "「サ、サヨリ……」"
+
+    old "{#ch1_main_cb503a81}"
+    new "「んー？」"
+
+    old "{#ch1_main_2b35b6fe}"
+    new "「……」"
+
+    old "{#ch1_main_ba3de90d}"
+    new "いつものことだが、俺をおかしな状況に巻き込んでいることにサヨリは気付いていないようだ。"
+
+    old "{#ch1_main_f55ccd4d}"
+    new "「そうだ！ ユリちゃんなんて[player]のために今日何か持ってきてくれたみたいだし～」"
+
+    old "{#ch1_main_ea01e1e9}"
+    new "「ま、待って！ サヨリちゃ……」"
+
+    old "{#ch1_main_5f167be7}"
+    new "「え？ 俺？」"
+
+    old "{#ch1_main_919bbc2a}"
+    new "「えっと……そういうものでは……」"
+
+    old "{#ch1_main_828bb88b}"
+    new "「恥ずかしがらなくていいのに～」"
+
+    old "{#ch1_main_05eb3e49}"
+    new "「本当そういうものではなくて……」"
+
+    old "{#ch1_main_def0ad19}"
+    new "「なになに？」"
+
+    old "{#ch1_main_637268ae}"
+    new "「き、気にしないでください！」"
+
+    old "{#ch1_main_cb7eb154}"
+    new "「大したものではないのに、サヨリちゃん大げさ過ぎます……」"
+
+    old "{#ch1_main_d9e54b67}"
+    new "「うううう、どうしよう……」"
+
+    old "{#ch1_main_2224ad48}"
+    new "「あれ？ ごめんねユリちゃん、わたし考えてなかった……」"
+
+    old "{#ch1_main_9ff3c337}"
+    new "つまり、この状況をどう切り抜けるかは俺次第なのか……"
+
+    old "{#ch1_main_6f06b205}"
+    new "「まあまあ、そんなに気にしなくていいよ」"
+
+    old "{#ch1_main_04495733}"
+    new "「そもそも俺は、何かを期待してた訳じゃないし」"
+
+    old "{#ch1_main_c8eaf1f5}"
+    new "「ユリが親切にしてくれること自体が嬉しいサプライズだよ」"
+
+    old "{#ch1_main_22fbe112}"
+    new "「どんなものでも俺は嬉しいよ」"
+
+    old "{#ch1_main_a1560f15}"
+    new "「そ、そうでしょうか……」"
+
+    old "{#ch1_main_d86fe35f}"
+    new "「まあな。もしお前がそう思われたくないなら大げさには扱わない」"
+
+    old "{#ch1_main_6e92cc87}"
+    new "「分かりました……」"
+
+    old "{#ch1_main_f4383968}"
+    new "「それでは、これを」"
+
+    old "{#ch1_main_5c6d9095}"
+    new "ユリはカバンから本を一冊取り出した。"
+
+    old "{#ch1_main_394a6121}"
+    new "「仲間外れだと感じてほしくなくて……」"
+
+    old "{#ch1_main_1879c00c}"
+    new "「[player]さんが楽しめそうな本を選んでみました」"
+
+    old "{#ch1_main_c76bcbd9}"
+    new "「短編なので、普段本を読まない[player]さんでも集中力が途切れにくいと思います」"
+
+    old "{#ch1_main_1c1fa68f}"
+    new "「それに、ほら、もしできたら……」"
+
+    old "{#ch1_main_262616a0}"
+    new "「話し合ったり……できればと……」"
+
+    old "{#ch1_main_257a5a4c}"
+    new "こ、これは……"
+
+    old "{#ch1_main_dbd79240}"
+    new "なんだか急にこいつが可愛く見えてきたぞ？"
+
+    old "{#ch1_main_067cb0c1}"
+    new "それに、読書に慣れてない俺が気に入りそうな本まで見繕ってくれて……"
+
+    old "{#ch1_main_063782d3}"
+    new "「ユリ、ありがとう！ 絶対読むよ！」"
+
+    old "{#ch1_main_a0d526be}"
+    new "俺は心を込めて本を受け取った。"
+
+    old "{#ch1_main_f6554ff6}"
+    new "「ほっ……」"
+
+    old "{#ch1_main_3b5e8d6c}"
+    new "「ご自身のペースで読み進めてくださいね」"
+
+    old "{#ch1_main_17c99d12}"
+    new "「あなたの感想、楽しみにしてます」"
+
+    old "{#ch1_main_5d35cc1a}"
+    new "やっとみんながひと段落着いたところで、俺はモニカからの部活らしい指示があるのを待った。"
+
+    old "{#ch1_main_be0f213d}"
+    new "だがそういう訳でもないようだ。"
+
+    old "{#ch1_main_f081c8d6}"
+    new "サヨリとモニカは部屋の隅でワイワイおしゃべりをしているし。"
+
+    old "{#ch1_main_301982d1}"
+    new "ユリは既に本に顔を埋めている。"
+
+    old "{#ch1_main_b18fd321}"
+    new "この瞬間を待っていたかのような彼女の真剣な表情に、つい目が行ってしまう。"
+
+    old "{#ch1_main_6713a333}"
+    new "一方、ナツキはクローゼットを物色している。"
+
+    old "{#ch1_main_25d7e7ce}"
+    new "「ところで、昨晩ちゃんと忘れずに詩を書いてきたかしら？」"
+
+    old "{#ch1_main_5aa72ccd}"
+    new "「あ、ああ」"
+
+    old "{#ch1_main_b8d87d90}"
+    new "身が引き締まる。"
+
+    old "{#ch1_main_070e9df2}"
+    new "こんな恥ずかしいことに、なんで俺は賛成してしまったんだ。"
+
+    old "{#ch1_main_0b915520}"
+    new "今までこんなことをやった経験がないからか、それといったインスピレーションも沸かなかった。"
+
+    old "{#ch1_main_96a5a5c4}"
+    new "「さて、みんなも準備できたみたいだし、詩を見せる相手を見つけましょう！」"
+
+    old "{#ch1_main_ebf4c7a9}"
+    new "「もう待ちきれないよ～！」"
+
+    old "{#ch1_main_65e6fcbd}"
+    new "サヨリとモニカは、張り切りながら詩を取り出している。"
+
+    old "{#ch1_main_b87d3078}"
+    new "サヨリの詩はリングノートから破いた一枚の紙に書かれているようだ。"
+
+    old "{#ch1_main_ccd4f660}"
+    new "一方モニカの詩は、作文用のノートに書いてある。"
+
+    old "{#ch1_main_a3b175bf}"
+    new "俺の席からでも、モニカの純朴な字が見て取れる。"
+
+    old "{#ch1_main_7354e005}"
+    new "ナツキとユリも、しぶしぶバッグから取り出して応じる。"
+
+    old "{#ch1_main_5bc5f049}"
+    new "同じように、俺もそうした。"
+
+    old "{#ch1_end_d91458f0}"
+    new "「ふう……」"
+
+    old "{#ch1_end_1782371d}"
+    new "これで全員かな。"
+
+    old "{#ch1_end_58e4d71b}"
+    new "部屋を見回してみる。"
+
+    old "{#ch1_end_21f37dea}"
+    new "思ったよりプレッシャーが大きかった。"
+
+    old "{#ch1_end_5b12ad4c}"
+    new "まるで俺の文章力の平凡さを査定されているかのような……"
+
+    old "{#ch1_end_72e6b5de}"
+    new "良いように言ってくれてたとしても、俺の詩がみんなの出来に届くはずがないのだ。"
+
+    old "{#ch1_end_3e6d2aa1}"
+    new "なんてったって文芸部なのだから。"
+
+    old "{#ch1_end_3f739ce1}"
+    new "ため息をつく。"
+
+    old "{#ch1_end_e55af38e}"
+    new "俺が首を突っ込んだのはこういう場所だったようだ。"
+
+    old "{#ch1_end_21c3ee10}"
+    new "部屋の向こうでは、サヨリとモニカが楽しそうにおしゃべりをしている。"
+
+    old "{#ch1_end_841184ee}"
+    new "ユリとナツキに目をやる。"
+
+    old "{#ch1_end_1705c9fe}"
+    new "彼女らはそろそろと紙を交換しあい、それぞれの詩を見せている。"
+
+    old "{#ch1_end_37b74d39}"
+    new "並んで詩を読みながら、二人の表情が変わっていく様子が見て取れる。"
+
+    old "{#ch1_end_f3def454}"
+    new "ナツキは苛立ったように眉間にしわを寄せる。"
+
+    old "{#ch1_end_1583e001}"
+    new "一方、ユリは悲しそうに微笑む。"
+
+    old "{#ch1_end_36ce7fb5}"
+    new "{i}（何なのよこの言い回し……？）{/i}"
+
+    old "{#ch1_end_5f1028e8}"
+    new "「えっ？」"
+
+    old "{#ch1_end_392e3f64}"
+    new "「あの……何か言いましたか？」"
+
+    old "{#ch1_end_5a23a338}"
+    new "「いや、何でもないわ」"
+
+    old "{#ch1_end_73b87d84}"
+    new "ナツキは持っていた詩を素っ気なく片手で机の上に置いた。"
+
+    old "{#ch1_end_678d666c}"
+    new "「しゃれた感じなんじゃない」"
+
+    old "{#ch1_end_ee8faee5}"
+    new "「あ、ありがとうございます……」"
+
+    old "{#ch1_end_1705b12d}"
+    new "「あなたのは……かわいいですね……」"
+
+    old "{#ch1_end_d53cb64f}"
+    new "「かわいい？」"
+
+    old "{#ch1_end_d7a2229c}"
+    new "「まさか何を象徴しているのか何にも気づかなかったってわけ？」"
+
+    old "{#ch1_end_a5b7430f}"
+    new "「どう見たって諦めの心情についてでしょ」"
+
+    old "{#ch1_end_0db745ab}"
+    new "「どうしたらかわいく見えるのよ？」"
+
+    old "{#ch1_end_d42c351b}"
+    new "「わ、分かってます！」"
+
+    old "{#ch1_end_b698ba3b}"
+    new "「ただ私が言いたいのは……」"
+
+    old "{#ch1_end_2c3a3a03}"
+    new "「その、言葉選びとか……」"
+
+    old "{#ch1_end_678374ea}"
+    new "「気の利いたことを言えたら良かったんですけど……」"
+
+    old "{#ch1_end_5adabccb}"
+    new "「はあ？」"
+
+    old "{#ch1_end_b10ead8d}"
+    new "「つまり気の利いたことを言うのにそんなに苦労する作品だっていうのね」"
+
+    old "{#ch1_end_f9cdd784}"
+    new "「結構結構、でも気なんて全然利いてなかったわ！」"
+
+    old "{#ch1_end_64c0a3eb}"
+    new "「えっと……」"
+
+    old "{#ch1_end_15db327d}"
+    new "「その、いくつか提案したいことがあるのですが……」"
+
+    old "{#ch1_end_ebd6a743}"
+    new "「ふん」"
+
+    old "{#ch1_end_a87c36dd}"
+    new "「詩を気に入ってくれた人の提案なら、聞いてあげないこともなかったけどね」"
+
+    old "{#ch1_end_4466dbb0}"
+    new "「実際そういう人は{i}ちゃんと{/i}いるんだし」"
+
+    old "{#ch1_end_9a6ca7e3}"
+    new "「サヨリとか」"
+
+    old "{#ch1_end_0ea3372f}"
+    new "「それに[player]だって！」"
+
+    old "{#ch1_end_3afcd245}"
+    new "「それに、そもそもわたしからも是非提案したいことがあるわ」"
+
+    old "{#ch1_end_4fda8f5a}"
+    new "「まずねえ……」"
+
+    old "{#ch1_end_0b794b70}"
+    new "「すみません、あの……」"
+
+    old "{#ch1_end_166ab7be}"
+    new "「折角なのですが、この文体を確立するために私は長い時間をかけてきたんです」"
+
+    old "{#ch1_end_0d2b663b}"
+    new "「心を突き動かす何かに出会わない限りは、しばらくこのまま変わらないと思います」"
+
+    old "{#ch1_end_7cad6bf8}"
+    new "「そういうものにはまだ出会えていないのですけどね」"
+
+    old "{#ch1_end_8487fc0c}"
+    new "「なっ……！」"
+
+    old "{#ch1_end_f72b1c71}"
+    new "「それに[player]さんは私の詩も気に入って下さったみたいですよ」"
+
+    old "{#ch1_end_75dd3224}"
+    new "「感動したとまで言ってくださいましたし」"
+
+    old "{#ch1_end_a5061963}"
+    new "ナツキは突然席を立った。"
+
+    old "{#ch1_end_2824bf93}"
+    new "「なによ？」"
+
+    old "{#ch1_end_693f0dc5}"
+    new "「ユリってば新入部員とお近づきになりたくて必死だったなんて気がつかなかったわ」"
+
+    old "{#ch1_end_b63049e5}"
+    new "「え、ええっ！？」"
+
+    old "{#ch1_end_3df614f2}"
+    new "「そういうわけでは……！」"
+
+    old "{#ch1_end_803d0e3c}"
+    new "「うう……」"
+
+    old "{#ch1_end_acc94b27}"
+    new "「あ、あなただって……」"
+
+    old "{#ch1_end_6a5c0c7b}"
+    new "ユリも同じように席を立つ。"
+
+    old "{#ch1_end_fb24704f}"
+    new "「あなただって[player]さんがあなたより私のアドバイスを尊重したことに嫉妬してるのではないですか！？」"
+
+    old "{#ch1_end_ee52e8e3}"
+    new "「はん！ で、どうやってわたしのアドバイスより有難がってるって分かるのよ？」"
+
+    old "{#ch1_end_6d2144a0}"
+    new "「調子に乗りすぎなんじゃないの？」"
+
+    old "{#ch1_end_c1eb1e36}"
+    new "「私は……！」"
+
+    old "{#ch1_end_bfadd2bc}"
+    new "「違う……」"
+
+    old "{#ch1_end_8d1dcf35}"
+    new "「私が調子に乗っていたのなら……」"
+
+    old "{#ch1_end_5e4e458d}"
+    new "「私だってわざとらしくぶりっ子してますよ！」"
+
+    old "{#ch1_end_ccdb66db}"
+    new "「うううぐぐぐぐ……！」"
+
+    old "{#ch1_end_7e82068e}"
+    new "「あの、えっと！！」"
+
+    old "{#ch1_end_983f9fbc}"
+    new "「みんな大丈夫……？」"
+
+    old "{#ch1_end_f982a2f8}"
+    new "「じゃあ言うけどね！」"
+
+    old "{#ch1_end_09b7047e}"
+    new "「[player]が入ってから突然胸をワンサイズ盛りだしたのはどっちよ？！」"
+
+    old "{#ch1_end_9b07aefd}"
+    new "「な、ナツキちゃん！！」"
+
+    old "{#ch1_end_d6f8c030}"
+    new "「えっとナツキ、それはちょっと――」"
+
+    old "{#ch1_end_6f0acf5a}"
+    new "「部外者は黙ってて！」\n「部外者は黙っててください！」"
+
+    old "{#ch1_end_13234d47}"
+    new "「け、ケンカはダメだよ、みんな……！」"
+
+    old "{#ch1_end_92bd4b5a}"
+    new "突然二人は、俺がそこにいることに今気づいたようにこちらへ振り向いた。"
+
+    old "{#ch1_end_1e4f93b8}"
+    new "「[player]さん……！」"
+
+    old "{#ch1_end_470c0d03}"
+    new "「こ、この子が私の印象を悪くしようとしてるだけなんです……！」"
+
+    old "{#ch1_end_c5e00378}"
+    new "「違うでしょ！」"
+
+    old "{#ch1_end_0c50491a}"
+    new "「そっちが始めたんでしょうが！」"
+
+    old "{#ch1_end_7081a731}"
+    new "「もしユリが偏屈な態度を改めて、素直な文が一番効果的だって受け入れていれば……」"
+
+    old "{#ch1_end_38ebaf85}"
+    new "「最初からこんなことにはならなかったのよ！」"
+
+    old "{#ch1_end_927de68a}"
+    new "「なんであんたはいつも意味もなくややこしい文章にしちゃうのよ」"
+
+    old "{#ch1_end_ce57fb32}"
+    new "「趣旨ってのは考察させるものじゃなくて、読者の元へ飛び込むようなものであるべきなの」"
+
+    old "{#ch1_end_0cc9b929}"
+    new "「[player]もユリに説明してあげて！」"
+
+    old "{#ch1_end_b182fab9}"
+    new "「ま、待ってください！」"
+
+    old "{#ch1_end_871a6f95}"
+    new "「私たちの言葉に表現豊かで奥深いものが多いのには理由があるんですよ」"
+
+    old "{#ch1_end_31c575da}"
+    new "「入り組んだ感情や意味合いを伝えるにはそれしか方法がないですから」"
+
+    old "{#ch1_end_fb49746f}"
+    new "「折角のそれを避けてしまうだなんて、不必要に言葉を縛るどころか……無駄にしています！」"
+
+    old "{#ch1_end_1d6207cf}"
+    new "「あなたもそう思いますよね、[player]さん？」"
+
+    old "{#ch1_end_949bf05b}"
+    new "「えええ……！」"
+
+    old "{#ch1_end_7d732439}"
+    new "「どうなの？？」"
+
+    old "{#ch1_end_2b35b6fe}"
+    new "「……」"
+
+    old "{#ch1_end_7bcc12ff}"
+    new "そもそもどうして俺が巻き込まれてるんだ！？"
+
+    old "{#ch1_end_92ecde6c}"
+    new "書き物について特に詳しいわけでもないのに……"
+
+    old "{#ch1_end_a01de81d}"
+    new "でもどっちかに俺が賛成したら、きっとその子からは評価されるはずだ！"
+
+    old "{#ch1_end_90de9c4d}"
+    new "「よし、みんな！」"
+
+    old "{#ch1_end_a0d65f57}"
+    new "「そろそろ時間のようね」"
+
+    old "{#ch1_end_85aa30cf}"
+    new "「詩を交換してみてどうだった？」"
+
+    old "{#ch1_end_e548ca2d}"
+    new "「すごく楽しかったよ！」"
+
+    old "{#ch1_end_71f4c90a}"
+    new "「ええ、やってみる価値はあったと思います」"
+
+    old "{#ch1_end_5a3f1947}"
+    new "「良かったわ。まあ、そこそこ」"
+
+    old "{#ch1_end_4e8e7a24}"
+    new "「[player]君はどうだった？」"
+
+    old "{#ch1_end_ee94d4f4}"
+    new "「……ああ、同じく」"
+
+    old "{#ch1_end_ac5036c4}"
+    new "「みんなと交流するのには面白い題材だったよ」"
+
+    old "{#ch1_end_1bd97473}"
+    new "「良かった！」"
+
+    old "{#ch1_end_0c347b60}"
+    new "「それなら、明日もやってみよっか」"
+
+    old "{#ch1_end_255c071e}"
+    new "「あなたもみんなから何かを学び取れたかもしれないでしょ」"
+
+    old "{#ch1_end_f826e16b}"
+    new "「きっとより素敵な詩が書けるはずよ！」"
+
+    old "{#ch1_end_2b35b6fe_1}"
+    new "「……」"
+
+    old "{#ch1_end_30393e48}"
+    new "俺は考える。"
+
+    old "{#ch1_end_fa51c8c1}"
+    new "みんながどういう系統の詩が好みなのか少し分かってきた。"
+
+    old "{#ch1_end_653fb55d}"
+    new "運が良ければ、気になる人が感銘を受けてくれるようなものが作れるかもしれない。"
+
+    old "{#ch1_end_ef583e4f}"
+    new "新たな決意を抱きつつ、俺は頷いた。"
+
+    old "{#ch1_end_62e85122}"
+    new "「[player]！」"
+
+    old "{#ch1_end_7f035113}"
+    new "「帰りの支度できた？」"
+
+    old "{#ch1_end_13c4b998}"
+    new "「ああ、行こっか」"
+
+    old "{#ch1_end_e688cc67}"
+    new "「えへへ～」"
+
+    old "{#ch1_end_8301dff6}"
+    new "サヨリはニコニコしている。"
+
+    old "{#ch1_end_4020474b}"
+    new "サヨリと俺がこうやって一緒に過ごすのは随分久しぶりのことだった。"
+
+    old "{#ch1_end_d2aad54c}"
+    new "決して、俺も楽しんでない訳ではない。"
+
+    old "{#ch1_end_e87e0575}"
+    new "「サヨリ……」"
+
+    old "{#ch1_end_00d40828}"
+    new "「さっきの事なんだけどさ……」"
+
+    old "{#ch1_end_cebd3143}"
+    new "「え？ なんのこと？」"
+
+    old "{#ch1_end_ab70957b}"
+    new "「あー、ユリとナツキのことだ」"
+
+    old "{#ch1_end_83a291bc}"
+    new "「ああいうことってよくあるのか？」"
+
+    old "{#ch1_end_5b6266e8}"
+    new "「ないないない！」"
+
+    old "{#ch1_end_51e2edaa}"
+    new "「あんなにケンカしてるのはわたしも初めて見たよ……」"
+
+    old "{#ch1_end_e7e072a2}"
+    new "「二人ともほんと素敵な子だよ」"
+
+    old "{#ch1_end_972589c7}"
+    new "「二人のこと……嫌いになんかなってない、よね？」"
+
+    old "{#ch1_end_5130e1ef}"
+    new "「そんな、全然嫌ってないぞ！」"
+
+    old "{#ch1_end_f4dff198}"
+    new "「俺はただお前の意見を聞いてみたかっただけだ」"
+
+    old "{#ch1_end_08ee0a33}"
+    new "「あいつらがお前とウマが合いそうだってのは分かるんだ」"
+
+    old "{#ch1_end_4b14d678}"
+    new "「ふー……」"
+
+    old "{#ch1_end_4e43dbcd}"
+    new "「あのね、[player]……」"
+
+    old "{#ch1_end_db975472}"
+    new "「わたし、[player]と一緒に部活できて嬉しい」"
+
+    old "{#ch1_end_38b701db}"
+    new "「でもみんなと打ち解けてく[player]を見てるのが、わたしの一番の幸せなの」"
+
+    old "{#ch1_end_158077ca}"
+    new "「みんな、[player]のことがすっごく好きなんだもん！」"
+
+    old "{#ch1_end_783953b3}"
+    new "「それって――！」"
+
+    old "{#ch1_end_e688cc67_1}"
+    new "「えへへ～」"
+
+    old "{#ch1_end_c91bd0a4}"
+    new "「毎日がどんどん楽しくなっちゃいそう～」"
+
+    old "{#ch1_end_0a69f768}"
+    new "「はあ……」"
+
+    old "{#ch1_end_9266189c}"
+    new "未だにサヨリは俺がどういう状況に置かれているか理解していないようだ。"
+
+    old "{#ch1_end_b7681491}"
+    new "勿論みんなと親交を深めることは良いのだが……"
+
+    old "{#ch1_end_f9856566}"
+    new "……本当にそこで止めてしまって良いのだろうか？"
+
+    old "{#ch1_end_541bf745}"
+    new "「この先何が待ち構えているかは見ものだな、サヨリ」"
+
+    old "{#ch1_end_87c0a22e}"
+    new "俺はサヨリの肩をぽんと叩いた。"
+
+    old "{#ch1_end_59c79ef1}"
+    new "むしろ自分自身に放った言葉だが、時にサヨリは独りごとの相手として役に立つ。"
+
+    old "{#ch1_end_0e972831}"
+    new "「そうだね～！」"
+
+    old "{#ch1_end_4914da37}"
+    new "それじゃあ……"
+
+    old "{#ch1_end_74c5fcd0}"
+    new "がんばるぞ！"
+
+    old "{#ch1_end_natsuki_6b0ed824}"
+    new "「えっと……」"
+
+    old "{#ch1_end_natsuki_530f484c}"
+    new "「ユリ！」"
+
+    old "{#ch1_end_natsuki_2948d978}"
+    new "「お前には確かに才能がある」"
+
+    old "{#ch1_end_natsuki_cef5cdd2}"
+    new "「え？ そ、そう……」"
+
+    old "{#ch1_end_natsuki_22a83972}"
+    new "「だけどナツキの言うことも一理ある！」"
+
+    old "{#ch1_end_natsuki_238ab007}"
+    new "「俺が思うに……」"
+
+    old "{#ch1_end_natsuki_3f4021d6}"
+    new "俺は頭をフル回転させて言葉を紡ごうとする。"
+
+    old "{#ch1_end_natsuki_3b9ffb4a}"
+    new "「俺が思うに、短い言葉で感情を伝えることだって……」"
+
+    old "{#ch1_end_natsuki_c2d4bea8}"
+    new "「充分印象的になり得る！」"
+
+    old "{#ch1_end_natsuki_49009af5}"
+    new "「そうすることで読み手の想像力に委ねるんだ」"
+
+    old "{#ch1_end_natsuki_ea8608a3}"
+    new "「だからナツキの詩はその点では見事な出来栄えだ」"
+
+    old "{#ch1_end_natsuki_86a8805e}"
+    new "「……そうよ！」"
+
+    old "{#ch1_end_natsuki_02741fe7}"
+    new "「そうでしょ！？」"
+
+    old "{#ch1_end_natsuki_92b8c94a}"
+    new "「やったー！」"
+
+    old "{#ch1_end_natsuki_73e7cb3c}"
+    new "「ざまあみなさい！」"
+
+    old "{#ch1_end_natsuki_51b927a8}"
+    new "「そ、そんな……」"
+
+    old "{#ch1_end_natsuki_3aa42c3b}"
+    new "「ナツキ……」"
+
+    old "{#ch1_end_natsuki_d7abd363}"
+    new "「それぐらいでいいだろ」"
+
+    old "{#ch1_end_natsuki_afccc67b}"
+    new "「はあ？」"
+
+    old "{#ch1_end_natsuki_d355ffe4}"
+    new "「わたし？」"
+
+    old "{#ch1_end_natsuki_94f204ed}"
+    new "「でもユリが意地悪してきたのよ……！」"
+
+    old "{#ch1_end_natsuki_63711e82}"
+    new "ナツキは半泣きで声を上げる。"
+
+    old "{#ch1_end_natsuki_ff0f1aa3}"
+    new "「ほら……」"
+
+    old "{#ch1_end_natsuki_0b4a4df1}"
+    new "「俺たちが昨日言っていたことは的を射ていたんだ」"
+
+    old "{#ch1_end_natsuki_0211a0f3}"
+    new "「執筆というのは本当に個人的なことで」"
+
+    old "{#ch1_end_natsuki_0a897eb2}"
+    new "「それを共有しあうことは間違いなく難しいと言える」"
+
+    old "{#ch1_end_natsuki_cd66aa89}"
+    new "「俺たちは今日そんな教訓を得たんだ」"
+
+    old "{#ch1_end_natsuki_fe651b95}"
+    new "「ちょっとした批判でもムキになってしまいかねない」"
+
+    old "{#ch1_end_natsuki_3cb79211}"
+    new "俺は自分の肩越しにちらりと後ろを見る。 "
+
+    old "{#ch1_end_natsuki_b4126f31}"
+    new "サヨリがうんうんと頷いている。"
+
+    old "{#ch1_end_natsuki_3f908872}"
+    new "「だから、その……」"
+
+    old "{#ch1_end_natsuki_f07274fb}"
+    new "「お前はそんなに怯えなくても良いんじゃないかな」"
+
+    old "{#ch1_end_natsuki_1413b0f7}"
+    new "「お前は立派な書き手だからさ、ナツキ」"
+
+    old "{#ch1_end_natsuki_e41fc448}"
+    new "「あっ」"
+
+    old "{#ch1_end_natsuki_bd7f6044}"
+    new "ナツキは意外そうな声を出す。"
+
+    old "{#ch1_end_natsuki_b08cfab5}"
+    new "「……教えてくれてありがと」"
+
+    old "{#ch1_end_natsuki_1cc2aa55}"
+    new "辛うじて聞き取れる声で彼女はそう呟いた。"
+
+    old "{#ch1_end_natsuki_d90390e4}"
+    new "「ユリ……」"
+
+    old "{#ch1_end_natsuki_f9e2ab2a}"
+    new "「……？」"
+
+    old "{#ch1_end_natsuki_2da93ee0}"
+    new "ユリはしょげた様子で俺を見る。"
+
+    old "{#ch1_end_natsuki_e68e7bea}"
+    new "その面持ちを見ると、余計に罪悪感を感じてしまう。"
+
+    old "{#ch1_end_natsuki_08fd3e10}"
+    new "「ナツキはきっと本気で言った訳じゃないと思うぞ」"
+
+    old "{#ch1_end_natsuki_43de7911}"
+    new "「だからお前もそんなに怯えなくて大丈夫だ」"
+
+    old "{#ch1_end_natsuki_de41a4f9}"
+    new "「はい……」"
+
+    old "{#ch1_end_natsuki_aae9fe8e}"
+    new "「あなたがそう言うのでしたら……」"
+
+    old "{#ch1_end_natsuki_adc03d3c}"
+    new "「ねえ……！」"
+
+    old "{#ch1_end_natsuki_4ddde058}"
+    new "「わたしの代わりに謝らなくていいじゃない、[player]」"
+
+    old "{#ch1_end_natsuki_6fecb12a}"
+    new "「ったく」"
+
+    old "{#ch1_end_natsuki_700fd121}"
+    new "ナツキは息をついた。"
+
+    old "{#ch1_end_natsuki_5337a10e}"
+    new "「わたし……」"
+
+    old "{#ch1_end_natsuki_40e7592e}"
+    new "「その……」"
+
+    old "{#ch1_end_natsuki_e349a681}"
+    new "「うう……」"
+
+    old "{#ch1_end_natsuki_318a845f}"
+    new "ナツキは部屋を見回す。"
+
+    old "{#ch1_end_natsuki_d82c3958}"
+    new "「わたしの方をジロジロ見ないでくれる？？」"
+
+    old "{#ch1_end_natsuki_4d4ce7e2}"
+    new "当たり前だが、自慢していた時よりバツが悪そうにしている。"
+
+    old "{#ch1_end_natsuki_36414005}"
+    new "サヨリとモニカは目をそらした。"
+
+    old "{#ch1_end_natsuki_45914793}"
+    new "「ふん」"
+
+    old "{#ch1_end_natsuki_99ec11cf}"
+    new "「とにかく……！」"
+
+    old "{#ch1_end_natsuki_21071d4a}"
+    new "「あんたの胸のことに関しては何でもないわ、分かった？」"
+
+    old "{#ch1_end_natsuki_726a8413}"
+    new "「それだけよ」"
+
+    old "{#ch1_end_natsuki_91b851bb}"
+    new "ナツキは明後日の方向を向いて、誰とも目を合わせようとしない。"
+
+    old "{#ch1_end_natsuki_29c61c30}"
+    new "「そうそう！ ユリちゃんは元からキレイだよ！！」"
+
+    old "{#ch1_end_natsuki_04b993cf}"
+    new "「サヨリ！？」"
+
+    old "{#ch1_end_natsuki_71a86863}"
+    new "「……」"
+
+    old "{#ch1_end_natsuki_1b5f1f04}"
+    new "「お、お茶を淹れてきますね……」"
+
+    old "{#ch1_end_natsuki_a0361679}"
+    new "「え～？」"
+
+    old "{#ch1_end_natsuki_ebd4f509}"
+    new "「助け舟を出しただけなのにぃ！」"
+
+    old "{#ch1_end_natsuki_9f7b6d8e}"
+    new "「きっとユリは感謝してると思うぞ、サヨリ」"
+
+    old "{#ch1_end_natsuki_87c0a22e}"
+    new "俺はサヨリの肩をぽんと叩いた。"
+
+    old "{#ch1_end_natsuki_0a668bd6}"
+    new "「よし、この話はおしまいにして……」"
+
+    old "{#ch1_end_natsuki_09bd72e2}"
+    new "「みんなの詩は見せ合いっこできたわよね？」"
+
+    old "{#ch1_end_natsuki_bef0b23b}"
+    new "「みんなにとって価値のある試みとなったならいいな！」"
+
+    old "{#ch1_end_natsuki_63e99776}"
+    new "「特に[player]君にね！」"
+
+    old "{#ch1_end_natsuki_f262d45c}"
+    new "「それと、実は……」"
+
+    old "{#ch1_end_natsuki_b35f094a}"
+    new "「今まではちょっとのんびりしすぎちゃってたから、ペースを変えるには丁度良かったの」"
+
+    old "{#ch1_end_natsuki_0be65a41}"
+    new "「あははは！」"
+
+    old "{#ch1_end_natsuki_486594ac}"
+    new "「あー、俺が入部したせいで雰囲気ぶち壊しになっちゃったせいだな……」"
+
+    old "{#ch1_end_natsuki_9f47eaa8}"
+    new "「そんな、全然そんなことないわ！」"
+
+    old "{#ch1_end_natsuki_c0eea162}"
+    new "「帰りの時間までまだ余裕があるみたいね」"
+
+    old "{#ch1_end_natsuki_434768a2}"
+    new "「ちょっと休憩しましょう」"
+
+    old "{#ch1_end_natsuki_17703def}"
+    new "「もちろん部室内では、おしゃべりしながら文学関連のこともやるから……」"
+
+    old "{#ch1_end_natsuki_71c5632c}"
+    new "「読書や物書きに触れる良い機会になると思うわ」"
+
+    old "{#ch1_end_natsuki_9c2e4773}"
+    new "「何といっても、そのための部活だしね！」"
+
+    old "{#ch1_end_natsuki_6ec4e41b}"
+    new "「それは違うよ、モニカちゃん！」"
+
+    old "{#ch1_end_natsuki_4dea9d63}"
+    new "「え？ どのあたりが？」"
+
+    old "{#ch1_end_natsuki_80d3e081}"
+    new "「文芸部で一番大事なことはそれじゃないよ！」"
+
+    old "{#ch1_end_natsuki_3b646d1d}"
+    new "「一番大事なのは……」"
+
+    old "{#ch1_end_natsuki_528afc18}"
+    new "「楽しむこと！」"
+
+    old "{#ch1_end_natsuki_48b2a88f}"
+    new "「あはは、そうね……」"
+
+    old "{#ch1_end_natsuki_e27c2b2d}"
+    new "「まあ、あなたが副部長なのも納得だわ、サヨリ」"
+
+    old "{#ch1_end_natsuki_5b525ad4}"
+    new "「えへへ……」"
+
+    old "{#ch1_end_natsuki_80c6af4f}"
+    new "だが結局のところ、モニカが正しい。"
+
+    old "{#ch1_end_natsuki_0e6c35d6}"
+    new "文芸部に所属するからには、俺は何もしないわけにはいかない。"
+
+    old "{#ch1_end_natsuki_24e861c2}"
+    new "でもやっぱり……"
+
+    old "{#ch1_end_natsuki_70780fb7}"
+    new "……今のところそれだけの価値はあると思っている。"
+
+    old "{#ch1_end_yuri_9659bc81}"
+    new "「ナツキ」"
+
+    old "{#ch1_end_yuri_d81c8e78}"
+    new "「お前の詩が好きってのは確かだ」"
+
+    old "{#ch1_end_yuri_2d9714a4}"
+    new "「ほらね？？」"
+
+    old "{#ch1_end_yuri_8b5e620a}"
+    new "「待った！」"
+
+    old "{#ch1_end_yuri_edf31e07}"
+    new "「だからと言って意地悪していい訳じゃないんだ」"
+
+    old "{#ch1_end_yuri_75b3fe90}"
+    new "「誰かと意見が食い違ったとして、それがケンカして良い理由にはならない」"
+
+    old "{#ch1_end_yuri_b56b2122}"
+    new "「そうじゃないわよ！」"
+
+    old "{#ch1_end_yuri_31979c34}"
+    new "「ユリはわたしの詩をまともにとり合ってくれないのに！」"
+
+    old "{#ch1_end_yuri_48b99b4e}"
+    new "「うーん……」"
+
+    old "{#ch1_end_yuri_83495ed0}"
+    new "「分かった」"
+
+    old "{#ch1_end_yuri_1e4625b7}"
+    new "「ユリ」"
+
+    old "{#ch1_end_yuri_4729869b}"
+    new "「えっ？」"
+
+    old "{#ch1_end_yuri_b2a3413d}"
+    new "「お前は本当に才能のある書き手だ」"
+
+    old "{#ch1_end_yuri_afe77c34}"
+    new "「俺が感動したのは隠すまでもない」"
+
+    old "{#ch1_end_yuri_ba5ada9a}"
+    new "「そ、そう、その……」"
+
+    old "{#ch1_end_yuri_0045dfbc}"
+    new "「だが俺が言いたいのは」"
+
+    old "{#ch1_end_yuri_6ba215bf}"
+    new "「どんなに単純で洗練された文体であっても……」"
+
+    old "{#ch1_end_yuri_d2525a4d}"
+    new "「その中にはやっぱり想いが込められていて、それは至って私的なものなんだ」"
+
+    old "{#ch1_end_yuri_8fcbadf1}"
+    new "「だからかわいいと言われたときにナツキは脅かされたと感じたんじゃないか」"
+
+    old "{#ch1_end_yuri_b150645d}"
+    new "「なるほど……」"
+
+    old "{#ch1_end_yuri_39b1ea43}"
+    new "「気づけなくてその……」"
+
+    old "{#ch1_end_yuri_5683b46a}"
+    new "「ごめんなさい……」"
+
+    old "{#ch1_end_yuri_9f719d9d}"
+    new "「ううう……」"
+
+    old "{#ch1_end_yuri_48c7e0a8}"
+    new "「でもナツキ、お前は過剰反応しすぎだ！」"
+
+    old "{#ch1_end_yuri_4e6d87c6}"
+    new "「ユリは善かれと思ってやったんだし、もしお前がどういう想いか彼女に話していれば……」"
+
+    old "{#ch1_end_yuri_b0d9bf22}"
+    new "「初めからこんなことにはならなかったんじゃないか」"
+
+    old "{#ch1_end_yuri_d5127d63}"
+    new "「バカにしてるの？」"
+
+    old "{#ch1_end_yuri_d9b46044}"
+    new "「ちゃんとそうしたじゃないの！」"
+
+    old "{#ch1_end_yuri_09d725af}"
+    new "「それだってあいつが……」"
+
+    old "{#ch1_end_yuri_c6fe493e}"
+    new "「ナツキ、それ位にしときましょ」"
+
+    old "{#ch1_end_yuri_399d2173}"
+    new "「あなたたち二人ともそういうつもりじゃなかったって言ったわよね」"
+
+    old "{#ch1_end_yuri_05f0c03e}"
+    new "「ユリは謝ったわ。今度はあなたの番じゃない？」"
+
+    old "{#ch1_end_yuri_29595ec8}"
+    new "「うぬぬ……！」"
+
+    old "{#ch1_end_yuri_20eeda7a}"
+    new "ナツキは拳を握りしめる。"
+
+    old "{#ch1_end_yuri_940dea9a}"
+    new "とうとう、彼女の味方はいなくなってしまった。"
+
+    old "{#ch1_end_yuri_7434a905}"
+    new "窮地に立たされた彼女は、プレッシャーに耐えられないばかりに喧嘩腰になっている。"
+
+    old "{#ch1_end_yuri_c5360e5d}"
+    new "俺はナツキがかわいそうになってきた。"
+
+    old "{#ch1_end_yuri_56e59f03}"
+    new "「え、えっと！」"
+
+    old "{#ch1_end_yuri_9e8a9d04}"
+    new "「わたしが傷ついたときは……」"
+
+    old "{#ch1_end_yuri_b3751fb5}"
+    new "「散歩して頭の中をスッキリさせるよ！」"
+
+    old "{#ch1_end_yuri_84376b43}"
+    new "「サヨリ、こいつには必要ない――」"
+
+    old "{#ch1_end_yuri_60fe5771}"
+    new "「ああそうね」"
+
+    old "{#ch1_end_yuri_6bdde6a4}"
+    new "「そうしてくる」"
+
+    old "{#ch1_end_yuri_93173112}"
+    new "「あんたたちの顔を拝むのももううんざりだわ」"
+
+    old "{#ch1_end_yuri_441f711c}"
+    new "なんの前触れなく、ナツキは机にある自分の詩を取り上げ部屋から飛び出した。"
+
+    old "{#ch1_end_yuri_7cf2345f}"
+    new "出て行く際に彼女は、その詩をくしゃくしゃに丸めゴミ箱に投げ込む。"
+
+    old "{#ch1_end_yuri_e7a740d1}"
+    new "「ナツキちゃん……」"
+
+    old "{#ch1_end_yuri_7ba2c629}"
+    new "「そこまでする必要ないのに……」"
+
+    old "{#ch1_end_yuri_73c0fb35}"
+    new "俺は部屋を見渡す。"
+
+    old "{#ch1_end_yuri_5ae422b9}"
+    new "ユリは視線を机に落とし、手で口を覆っている。"
+
+    old "{#ch1_end_yuri_1b68bff2}"
+    new "俺は恐る恐る彼女に近づき、隣の席に座る。"
+
+    old "{#ch1_end_yuri_ad226d63}"
+    new "「はあ……」"
+
+    old "{#ch1_end_yuri_f8c4c766}"
+    new "「大丈夫か？」"
+
+    old "{#ch1_end_yuri_85b7dd24}"
+    new "「自分が情けないです……」"
+
+    old "{#ch1_end_yuri_ba8e7514}"
+    new "「あんな風に振舞ってしまうなんて」"
+
+    old "{#ch1_end_yuri_718a2f22}"
+    new "「きっとあなたに嫌われてしまいましたね……」"
+
+    old "{#ch1_end_yuri_dcf6cb7d}"
+    new "「そんなことない――ユリ！」"
+
+    old "{#ch1_end_yuri_fa231374}"
+    new "「あんな風に言われて不満を抱かない奴がいると思うか？」"
+
+    old "{#ch1_end_yuri_5e1844ee}"
+    new "「お前はできるだけ我慢したじゃないか」"
+
+    old "{#ch1_end_yuri_4ca7c420}"
+    new "「嫌ったりなんかしないよ」"
+
+    old "{#ch1_end_yuri_de41a4f9}"
+    new "「そう……」"
+
+    old "{#ch1_end_yuri_f5f2a22d}"
+    new "「……それなら、あなたの言葉を信じます」"
+
+    old "{#ch1_end_yuri_79444b65}"
+    new "「ありがとうございます、[player]さん。あなたはとても優しいんですね」"
+
+    old "{#ch1_end_yuri_38de4bb8}"
+    new "「部活の一員になっていただいて感謝しています」"
+
+    old "{#ch1_end_yuri_310f394c}"
+    new "「そんな――何てことないさ」"
+
+    old "{#ch1_end_yuri_04235200}"
+    new "「それともう一つ……」"
+
+    old "{#ch1_end_yuri_cee713e7}"
+    new "「その、ナツキちゃんが言ってたことで……」"
+
+    old "{#ch1_end_yuri_e47d1cac}"
+    new "「あの……ええと……」"
+
+    old "{#ch1_end_yuri_667a6ce4}"
+    new "「そんな破廉恥なことは……決してしないので……」"
+
+    old "{#ch1_end_yuri_87f9f194}"
+    new "「ですので……」"
+
+    old "{#ch1_end_yuri_26aa6c42}"
+    new "「……えっ？」"
+
+    old "{#ch1_end_yuri_5b75b814}"
+    new "「ナツキが何か言ったか？」"
+
+    old "{#ch1_end_yuri_3bf2b8ba}"
+    new "「――！」"
+
+    old "{#ch1_end_yuri_d782d4e1}"
+    new "「あ、あの！」"
+
+    old "{#ch1_end_yuri_92ab898a}"
+    new "「その、なんでもありません……」"
+
+    old "{#ch1_end_yuri_f2c4c677}"
+    new "「お、お茶を淹れてきますね……」"
+
+    old "{#ch1_end_yuri_49d0bbb5}"
+    new "「ああ、いいんじゃないか」"
+
+    old "{#ch1_end_yuri_e26add62}"
+    new "「人数分用意してきてくれ、な？」"
+
+    old "{#ch1_end_yuri_f0f5c095}"
+    new "「わ、分かりました」"
+
+    old "{#ch1_end_sayori_86d1bc42}"
+    new "「な、ナツキ……」"
+
+    old "{#ch1_end_sayori_b65d9f5e}"
+    new "ナツキに睨まれ、俺は一言も発せなくなる。"
+
+    old "{#ch1_end_sayori_791e2b5d}"
+    new "その代わりにユリの方を向く。"
+
+    old "{#ch1_end_sayori_d90390e4}"
+    new "「ユリ……」"
+
+    old "{#ch1_end_sayori_1588679c}"
+    new "「……」"
+
+    old "{#ch1_end_sayori_4bfbf76f}"
+    new "しかし彼女の表情が無防備すぎて、俺は言うのをためらってしまう。"
+
+    old "{#ch1_end_sayori_2b35b6fe}"
+    new "「……」"
+
+    old "{#ch1_end_sayori_5b165481}"
+    new "「……サヨリ！」"
+
+    old "{#ch1_end_sayori_acb5ef4d}"
+    new "「えっ！？」"
+
+    old "{#ch1_end_sayori_0eb6a980}"
+    new "「……そうだ！」"
+
+    old "{#ch1_end_sayori_7fd71ad4}"
+    new "「お前たちがケンカするからサヨリが困っているじゃないか」"
+
+    old "{#ch1_end_sayori_b4d080d8}"
+    new "「お前たちは友達がこんな風に感じていてもケンカをやめないつもりなのか？」"
+
+    old "{#ch1_end_sayori_ef24e809}"
+    new "「[player]……」"
+
+    old "{#ch1_end_sayori_a6b4c29f}"
+    new "「その……それはサヨリの問題でしょ！ そっちは関係ないじゃない」"
+
+    old "{#ch1_end_sayori_eced5cbe}"
+    new "「そ、そうですよ……」"
+
+    old "{#ch1_end_sayori_766ba12b}"
+    new "「私たちの言い合いに他人の感情を持ち込むのはお門違いではありませんか」"
+
+    old "{#ch1_end_sayori_2ed45361}"
+    new "「まあ、ユリは高慢ちきだってサヨリが教えたいのなら話は別だけど」"
+
+    old "{#ch1_end_sayori_23912704}"
+    new "「サヨリちゃんはそんなこと絶対に……！」"
+
+    old "{#ch1_end_sayori_52ec56bd}"
+    new "「そもそもあなたの幼稚さがサヨリちゃんを煩わせているのでしょう！」"
+
+    old "{#ch1_end_sayori_42241b7e}"
+    new "「ちょっといい？」"
+
+    old "{#ch1_end_sayori_6479962c}"
+    new "「どういうことか分かってて言っているの？」"
+
+    old "{#ch1_end_sayori_1d2fa79b}"
+    new "「そういう所がまさに……」"
+
+    old "{#ch1_end_sayori_455f4a18}"
+    new "「誰もあんたを好きに――」"
+
+    old "{#ch1_end_sayori_3adeb13a}"
+    new "「やめて！！」"
+
+    old "{#ch1_end_sayori_e653000f}"
+    new "「――」"
+
+    old "{#ch1_end_sayori_6240666a}"
+    new "「ナツキちゃん！ ユリちゃん！」"
+
+    old "{#ch1_end_sayori_38a648d2}"
+    new "「二人はわたしの友達なの！」"
+
+    old "{#ch1_end_sayori_76b4b721}"
+    new "「た、ただわたしはみんな仲良く楽しくなってほしいだけ！」"
+
+    old "{#ch1_end_sayori_0f177121}"
+    new "「わたしの友達は素敵な人たちで……」"
+
+    old "{#ch1_end_sayori_526b5d77}"
+    new "「みんなそれぞれ違う所があるから大好きなんだもん！」"
+
+    old "{#ch1_end_sayori_686b868d}"
+    new "「ナツキちゃんの詩はね……」"
+
+    old "{#ch1_end_sayori_1912e29b}"
+    new "「ほんの少しの言葉で色んな気持ちを表現しちゃうからすごいの！」"
+
+    old "{#ch1_end_sayori_5e0af94b}"
+    new "「そしてユリちゃんの詩は頭の中にキレイな絵を描けちゃうからすごいの！」"
+
+    old "{#ch1_end_sayori_2ae6cad8}"
+    new "「みんなすごい才能の持ち主なのに……」"
+
+    old "{#ch1_end_sayori_fb76c44c}"
+    new "「なんでケンカしちゃうの……？」"
+
+    old "{#ch1_end_sayori_c4672663}"
+    new "「な、なんでって……」"
+
+    old "{#ch1_end_sayori_ae7f22e8}"
+    new "「ええっと……」"
+
+    old "{#ch1_end_sayori_238c7a6b}"
+    new "「とにかく！」"
+
+    old "{#ch1_end_sayori_ddff02c9}"
+    new "「ナツキちゃんはかわいいから何も問題ないよ！」"
+
+    old "{#ch1_end_sayori_86bdd4d9}"
+    new "「あとユリちゃんの胸はいつも通りだよ！」"
+
+    old "{#ch1_end_sayori_62779f02}"
+    new "「大きくてキレイだもん！」"
+
+    old "{#ch1_end_sayori_2d032434}"
+    new "「……」"
+
+    old "{#ch1_end_sayori_58a53015}"
+    new "「……」"
+
+    old "{#ch1_end_sayori_e87e0575}"
+    new "「サヨリ……」"
+
+    old "{#ch1_end_sayori_d255fe0f}"
+    new "サヨリは誇らしげに立っている。"
+
+    old "{#ch1_end_sayori_82fb35f0}"
+    new "モニカはその後ろで、混乱した様子で立っている。"
+
+    old "{#ch1_end_sayori_1be1e038}"
+    new "「お茶を……淹れてきます……」"
+
+    old "{#ch1_end_sayori_6bd77772}"
+    new "ユリは飛び出す。"
+
+    old "{#ch1_end_sayori_94e8be2c}"
+    new "ナツキは放心した表情で席に着き、虚空を眺めている。"
+
+    old "{#ch1_end_sayori_7fc95ed7}"
+    new "「まあ、サヨリが副部長なのも納得だな……」"
+
+    old "{#ch1_end_sayori_aeb009e1}"
+    new "俺はモニカにささやく。"
+
+    old "{#ch1_end_sayori_4467525d}"
+    new "彼女も頷く。"
+
+    old "{#ch1_end_sayori_d2418739}"
+    new "「正直ね……」"
+
+    old "{#ch1_end_sayori_3e359faf}"
+    new "「私は良い部長のように見せたり、活動を計画したりはできるんだけど……」"
+
+    old "{#ch1_end_sayori_d9387db7}"
+    new "「人間関係を良くするのはあまり得意じゃないの……」"
+
+    old "{#ch1_end_sayori_603ffd99}"
+    new "「仲介役もできなかったしね」"
+
+    old "{#ch1_end_sayori_de2b2608}"
+    new "「部長として、なんか情けないわ」"
+
+    old "{#ch1_end_sayori_f06e3a51}"
+    new "「あはは……」"
+
+    old "{#ch1_end_sayori_fa3ab68b}"
+    new "「いやあ……」"
+
+    old "{#ch1_end_sayori_9f8ebf5d}"
+    new "「そりゃあしょうがないさ」"
+
+    old "{#ch1_end_sayori_ba2a31f9}"
+    new "「俺だって何も言えなかったんだ」"
+
+    old "{#ch1_end_sayori_d3107ef6}"
+    new "「まあその……」"
+
+    old "{#ch1_end_sayori_ff212328}"
+    new "「サヨリにも彼女なりのすごい部分があるってことよね？」"
+
+    old "{#ch1_end_sayori_fbeffde4}"
+    new "「そうなのかもな」"
+
+    old "{#ch1_end_sayori_f9167286}"
+    new "「頭空っぽに見えるけど、時々不自然なくらい行動に抜け目がなかったりするんだ」"
+
+    old "{#ch1_end_sayori_950f75ec}"
+    new "「そうなのね～」"
+
+    old "{#ch1_end_sayori_ef746270}"
+    new "「サヨリのこと、よろしくね？」"
+
+    old "{#ch1_end_sayori_de07f7a1}"
+    new "「あの子が傷つくところ見たくないからね」"
+
+    old "{#ch1_end_sayori_8c567b2c}"
+    new "「俺もそうさ……」"
+
+    old "{#ch1_end_sayori_f4589107}"
+    new "「俺に任せとけって」"
+
+    old "{#ch1_end_sayori_e16c6dbb}"
+    new "モニカは優しく微笑むが、何かが俺の中にわだかまりを残す。"
+
+    old "{#ch1_end_sayori_9d604853}"
+    new "彼女がどう言おうとも、部長にはこんな誠実な人が望ましいのだ。"
+
+    old "{#ch1_end_sayori_46cf2648}"
+    new "俺にももう少し彼女と話す機会さえあれば……"
