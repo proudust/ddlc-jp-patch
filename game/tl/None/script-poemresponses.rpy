@@ -1,4 +1,10 @@
 translate None strings:
+    old "最初に詩を見せるのは誰にしようか？"
+    new "Who should I show my poem to first?"
+
+    old "次に詩を見せるのは誰にしようか？"
+    new "Who should I show my poem to next?"
+
     old "{#poemresponse_start2_aa080a54}"
     new "I'm definitely most comfortable sharing it with Sayori first."
 

@@ -3,6 +3,7 @@ init python:
         if h.kind != "adv": return
 
         identifier = renpy.game.context().translate_identifier
+        if identifier is None: return
         h.what = "{#" + identifier + "}"
 
         if len(_history_list) and _history_list[-1].what == h.what: _history_list.pop(-1)
