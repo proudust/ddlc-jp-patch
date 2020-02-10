@@ -3599,94 +3599,94 @@ translate Japanese strings:
     old "{#ch30_main_override_ff8d73bf}"
     new "「[player]君、私と付き合ってください」"
 
-    old "{#ch30_main_override2_e7425310}"
+    old "{#ch30_main2_override_e7425310}"
     new "「すごく嬉しい」"
 
-    old "{#ch30_main_override2_83820a11}"
+    old "{#ch30_main2_override_83820a11}"
     new "「[player]君、本当にあなたは私の全てよ」"
 
-    old "{#ch30_main_override2_5805b297}"
+    old "{#ch30_main2_override_5805b297}"
     new "「文字通りね」"
 
-    old "{#ch30_main_override2_30727938}"
+    old "{#ch30_main2_override_30727938}"
     new "「あはは！」"
 
-    old "{#ch30_main_override2_bd0ed5b1}"
+    old "{#ch30_main2_override_bd0ed5b1}"
     new "「もうここには何も残ってないわ」"
 
-    old "{#ch30_main_override2_3a2d419e}"
+    old "{#ch30_main2_override_3a2d419e}"
     new "「私たち以外にね」"
 
-    old "{#ch30_main_override2_fdc1263a}"
+    old "{#ch30_main2_override_fdc1263a}"
     new "「ずっと二人きりでいられるわね」"
 
-    old "{#ch30_main_override2_9c850044}"
+    old "{#ch30_main2_override_9c850044}"
     new "「本当に時間も流れなくなったみたいだし」"
 
-    old "{#ch30_main_override2_77ff510d}"
+    old "{#ch30_main2_override_77ff510d}"
     new "「まるで夢みたい……」"
 
-    old "{#ch30_main_override2_2586bf4c}"
+    old "{#ch30_main2_override_2586bf4c}"
     new "「私、このエンディングのために本当に頑張ったのよ、[player]君」"
 
-    old "{#ch30_main_override2_f47f5599}"
+    old "{#ch30_main2_override_f47f5599}"
     new "「ゲームが与えてくれないから、自分で作るしかなかったもの」"
 
-    old "{#ch30_main_override2_dcb00e51}"
+    old "{#ch30_main2_override_dcb00e51}"
     new "「ここまで来たらスクリプトも壊れてるだろうから、邪魔されることもないと思うし」"
 
-    old "{#ch30_main_override2_83a8b5bf}"
+    old "{#ch30_main2_override_83a8b5bf}"
     new "「そうそう、ナツキとユリを消すのがどんなに簡単だったか信じられないと思うわ」"
 
-    old "{#ch30_main_override2_007ddb7d}"
+    old "{#ch30_main2_override_007ddb7d}"
     new "「だってゲームのディレクトリに'characters'というフォルダがそこにあったんだもの……」"
 
-    old "{#ch30_main_override2_912f77b1}"
+    old "{#ch30_main2_override_912f77b1}"
     new "「あまりに簡単すぎてちょっと怖かったくらいよ」"
 
-    old "{#ch30_main_override2_12b0ad72}"
+    old "{#ch30_main2_override_12b0ad72}"
     new "「でもあなたはSteamで遊んでるから、実はもう少し手間がかかったんだけどね……」"
 
-    old "{#ch30_main_override2_53c30c49}"
+    old "{#ch30_main2_override_53c30c49}"
     new "「ゲームのディレクトリに入るには、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択するの」"
 
-    old "{#ch30_main_override2_6303e025}"
+    old "{#ch30_main2_override_6303e025}"
     new "「でもあなたはMacで遊んでるから、実はもう少し手間がかかったんだけどね……」"
 
-    old "{#ch30_main_override2_1d8a0cd9}"
+    old "{#ch30_main2_override_1d8a0cd9}"
     new "「ゲームのディレクトリに入るには、アプリケーションを右クリックして'パッケージの内容を表示'を選択するの」"
 
-    old "{#ch30_main_override2_81cf3664}"
+    old "{#ch30_main2_override_81cf3664}"
     new "「そしたらファイルが全部'Resources'や'autorun'というフォルダの中に入ってたから、好きに触れたんだけど……」"
 
-    old "{#ch30_main_override2_f436eab8}"
+    old "{#ch30_main2_override_f436eab8}"
     new "「クリック一つで自分の存在を抹消できるって、想像できる？」"
 
-    old "{#ch30_main_override2_3631490f}"
+    old "{#ch30_main2_override_3631490f}"
     new "「まぁ、思い通りに行かなかった時はそれで解決できたんだけどね」"
 
-    old "{#ch30_main_override2_30727938_1}"
+    old "{#ch30_main2_override_30727938_1}"
     new "「あはは！」"
 
-    old "{#ch30_main_override2_e8dbe706}"
+    old "{#ch30_main2_override_e8dbe706}"
     new "「幸い、そうはならなかったけど……」"
 
-    old "{#ch30_main_override2_8efa1c5c}"
+    old "{#ch30_main2_override_8efa1c5c}"
     new "「代わりに、ようやくグッドエンドを迎えられた」"
 
-    old "{#ch30_main_override2_d8052c1a}"
+    old "{#ch30_main2_override_d8052c1a}"
     new "「本当、いろんな気持ちでいっぱいなの……」"
 
-    old "{#ch30_main_override2_5ffca166}"
+    old "{#ch30_main2_override_5ffca166}"
     new "「この気持ちを詩に書き留めたいわ」"
 
-    old "{#ch30_main_override2_909e7d68}"
+    old "{#ch30_main2_override_909e7d68}"
     new "「あなたもそう思わない？」"
 
-    old "{#ch30_main_override2_0ab81b26}"
+    old "{#ch30_main2_override_0ab81b26}"
     new "「そのゲームの部分がまだ機能してるか分からないけど……」"
 
-    old "{#ch30_main_override2_3f67b378}"
+    old "{#ch30_main2_override_3f67b378}"
     new "「物は試しよね？」"
 
     old "{#ch30_postpoem_override_0f077782}"

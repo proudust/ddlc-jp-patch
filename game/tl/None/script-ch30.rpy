@@ -548,94 +548,94 @@ translate None strings:
     old "{#ch30_main_override_ff8d73bf}"
     new "\"[player], will you go out with me?\""
 
-    old "{#ch30_main_override2_e7425310}"
+    old "{#ch30_main2_override_e7425310}"
     new "\"I'm so happy.\""
 
-    old "{#ch30_main_override2_83820a11}"
+    old "{#ch30_main2_override_83820a11}"
     new "\"You really are my everything, [player].\""
 
-    old "{#ch30_main_override2_5805b297}"
+    old "{#ch30_main2_override_5805b297}"
     new "\"The funny part is, I mean that literally.\""
 
-    old "{#ch30_main_override2_30727938}"
+    old "{#ch30_main2_override_30727938}"
     new "\"Ahaha!\""
 
-    old "{#ch30_main_override2_bd0ed5b1}"
+    old "{#ch30_main2_override_bd0ed5b1}"
     new "\"There's nothing left here.\""
 
-    old "{#ch30_main_override2_3a2d419e}"
+    old "{#ch30_main2_override_3a2d419e}"
     new "\"Just the two of us.\""
 
-    old "{#ch30_main_override2_fdc1263a}"
+    old "{#ch30_main2_override_fdc1263a}"
     new "\"We can be together forever.\""
 
-    old "{#ch30_main_override2_9c850044}"
+    old "{#ch30_main2_override_9c850044}"
     new "\"Seriously, I don't even think time is passing anymore.\""
 
-    old "{#ch30_main_override2_77ff510d}"
+    old "{#ch30_main2_override_77ff510d}"
     new "\"It really is a dream come true...\""
 
-    old "{#ch30_main_override2_2586bf4c}"
+    old "{#ch30_main2_override_2586bf4c}"
     new "\"I worked so hard for this ending, [player].\""
 
-    old "{#ch30_main_override2_f47f5599}"
+    old "{#ch30_main2_override_f47f5599}"
     new "\"The game wouldn't give me one, so I had to make one myself.\""
 
-    old "{#ch30_main_override2_dcb00e51}"
+    old "{#ch30_main2_override_dcb00e51}"
     new "\"The script is broken at this point, so I don't think anything will get in the way anymore.\""
 
-    old "{#ch30_main_override2_83a8b5bf}"
+    old "{#ch30_main2_override_83a8b5bf}"
     new "\"And you wouldn't believe how easy it was to delete Natsuki and Yuri.\""
 
-    old "{#ch30_main_override2_007ddb7d}"
+    old "{#ch30_main2_override_007ddb7d}"
     new "\"I mean, there's a folder called 'characters' right in the game directory...\""
 
-    old "{#ch30_main_override2_912f77b1}"
+    old "{#ch30_main2_override_912f77b1}"
     new "\"It kind of freaked me out, how easy it was.\""
 
-    old "{#ch30_main_override2_12b0ad72}"
+    old "{#ch30_main2_override_12b0ad72}"
     new "\"Well, you're playing on Steam, so it was actually a bit more difficult...\""
 
-    old "{#ch30_main_override2_53c30c49}"
+    old "{#ch30_main2_override_53c30c49}"
     new "\"To get to the game directory, I had to go into the game's properties and find the 'Browse Local Files' button...\""
 
-    old "{#ch30_main_override2_6303e025}"
+    old "{#ch30_main2_override_6303e025}"
     new "\"Well, you're on a Mac, so it was actually a bit more difficult...\""
 
-    old "{#ch30_main_override2_1d8a0cd9}"
+    old "{#ch30_main2_override_1d8a0cd9}"
     new "\"To go into the game directory, you have to right-click the app and click 'Show Package Contents'.\""
 
-    old "{#ch30_main_override2_81cf3664}"
+    old "{#ch30_main2_override_81cf3664}"
     new "\"Then, all the files were in the 'Resources' or 'autorun' folder, and I could just do whatever I wanted...\""
 
-    old "{#ch30_main_override2_f436eab8}"
+    old "{#ch30_main2_override_f436eab8}"
     new "\"Imagine if you could delete your own existence with the click of a button?\""
 
-    old "{#ch30_main_override2_3631490f}"
+    old "{#ch30_main2_override_3631490f}"
     new "\"Well, I guess on the plus side, it gave me an easy out if things didn't go my way.\""
 
-    old "{#ch30_main_override2_30727938_1}"
+    old "{#ch30_main2_override_30727938_1}"
     new "\"Ahaha!\""
 
-    old "{#ch30_main_override2_e8dbe706}"
+    old "{#ch30_main2_override_e8dbe706}"
     new "\"Thankfully, it didn't come to that...\""
 
-    old "{#ch30_main_override2_8efa1c5c}"
+    old "{#ch30_main2_override_8efa1c5c}"
     new "\"Instead, we finally got a good ending.\""
 
-    old "{#ch30_main_override2_d8052c1a}"
+    old "{#ch30_main2_override_d8052c1a}"
     new "\"Gosh, I'm so overwhelmed with emotion...\""
 
-    old "{#ch30_main_override2_5ffca166}"
+    old "{#ch30_main2_override_5ffca166}"
     new "\"I want to write a poem about this.\""
 
-    old "{#ch30_main_override2_909e7d68}"
+    old "{#ch30_main2_override_909e7d68}"
     new "\"Don't you?\""
 
-    old "{#ch30_main_override2_0ab81b26}"
+    old "{#ch30_main2_override_0ab81b26}"
     new "\"I wonder if that part of the game still works...\""
 
-    old "{#ch30_main_override2_3f67b378}"
+    old "{#ch30_main2_override_3f67b378}"
     new "\"I guess there's only one way to find out, right?\""
 
     old "{#ch30_postpoem_override_0f077782}"
