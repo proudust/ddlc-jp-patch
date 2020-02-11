@@ -14,7 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+
+      - name: Checkout via SSH
+        run: git clone git@github.com:${{ github.repository }}.git .
 
       - name: Download translate file
         run: |
@@ -23,7 +28,7 @@ jobs:
           rm scripts.zip
 
       - name: Create Pull Request
-        uses: proudust/create-pull-request@using-ssh
+        uses: peter-evans/create-pull-request@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           deploy-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
