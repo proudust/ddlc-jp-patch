@@ -136,6 +136,7 @@ translate None screen:
                         textbutton _("Poem") action ToggleField(persistent, 'jpmode_auto_poem', true_value=True, false_value=False)
 
                     vbox:
+                        style_prefix "check"
                         label ("")
                         textbutton _("Uninstall") action [Show(screen="confirm", message="Would you like to uninstall jp patch and quit?", yes_action=Function(Uninstall), no_action=Hide("confirm"))]
                         python:
