@@ -79,12 +79,9 @@ style monika_credits_text_Japanese is monika_credits_text:
 
 translate Japanese python:
     # 接頭詞・接尾詞の設定
-    mc = DynamicCharacter('player + "{w}"', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    s = DynamicCharacter('s_name', image='sayori', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    m = DynamicCharacter('m_name', image='monika', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    n = DynamicCharacter('n_name', image='natsuki', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    y = DynamicCharacter('y_name', image='yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
-    ny = Character('Nat & Yuri', what_prefix='', what_suffix='', ctc="ctc", ctc_position="fixed")
+    for char in [mc, s, m, n, y, ny]:
+        char.what_prefix = ''
+        char.what_suffix = ''
 
     # .chrの差し替え
     recreate_character('sayori')
@@ -92,8 +89,8 @@ translate Japanese python:
     recreate_character('natsuki')
     recreate_character('yuri')
 
-    # 文字化け用文字列の差し替え
-    nonunicode = "¡¢£¤¥¦¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽž"
+    # 文字化け用文字列から§を削除
+    nonunicode = nonunicode.replace('§', '')
 
     # ヘルプファイルの変更
     readme_file = "README_jp.html"
