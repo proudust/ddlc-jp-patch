@@ -1,3 +1,13 @@
+init 1 python:
+    # 台詞の表示中に monika.chr を削除すると例外が発生する不具合の修正
+    # 他の MOD によってタイトルが変更されている場合は何もしない
+    if config.name == "Doki Doki Literature Club!":
+        slow_nodismiss_original = slow_nodismiss
+        def slow_nodismiss_override(event, **kwargs):
+            if event != "slow_done":
+                slow_nodismiss_original(event, **kwargs)
+        slow_nodismiss = slow_nodismiss_override
+
 translate None label:
     label ch30_main:
         jump ch30_main_override
