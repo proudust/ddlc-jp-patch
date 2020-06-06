@@ -1478,7 +1478,7 @@ translate Japanese natsuki_exclusive_2_ch3_22eb0e44:
     "二人で前回と同じ場所に座り込み、俺は２巻を開いた。"
 
 translate Japanese natsuki_exclusive_2_ch3_810de178:
-    "ナツキの機嫌はすぐに回復し、笑ったりマンガの内容を指摘しだした。"
+    "ナツキの機嫌はすぐに回復し、笑ったりマンガの内容を指摘したりしだした。"
 
 translate Japanese natsuki_exclusive_2_ch3_98c65fde:
     "彼女は驚くほど鋭かった。捉えにくい繰り返されるジョークや背景の要素など、覚えておくべき箇所を教えてくれた。"
@@ -2997,7 +2997,7 @@ translate Japanese strings:
     new "二人で前回と同じ場所に座り込み、俺は２巻を開いた。"
 
     old "{#natsuki_exclusive_2_ch3_810de178}"
-    new "ナツキの機嫌はすぐに回復し、笑ったりマンガの内容を指摘しだした。"
+    new "ナツキの機嫌はすぐに回復し、笑ったりマンガの内容を指摘したりしだした。"
 
     old "{#natsuki_exclusive_2_ch3_98c65fde}"
     new "彼女は驚くほど鋭かった。捉えにくい繰り返されるジョークや背景の要素など、覚えておくべき箇所を教えてくれた。"

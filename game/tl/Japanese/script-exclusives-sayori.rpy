@@ -689,7 +689,7 @@ translate Japanese sayori_exclusive_2_0286134c:
     s 2j "「{i}足元で……{/i}」"
 
 translate Japanese sayori_exclusive_2_bb922589:
-    s "「{i}最後の花が私を招く{/I}」"
+    s "「{i}最後の花が私を招く{/i}」"
 
 translate Japanese sayori_exclusive_2_05ce6477:
     s 1c "「{i}茎をねじり、根の束縛から解放し……{/i}」"
@@ -740,7 +740,7 @@ translate Japanese sayori_exclusive_2_6d8aa85e:
     mc "「ただ、いつもの可愛らしいお前とまったく雰囲気が違うというか」"
 
 translate Japanese sayori_exclusive_2_25cb994e:
-    s "「あはは！ そういう言われると照れちゃうよ～！」"
+    s "「あはは！ そう言われると照れちゃうよ～！」"
 
 translate Japanese sayori_exclusive_2_2e362b7a:
     s 4y "「でもそれって上手くできてるってことだよねぇ～」"
@@ -1965,7 +1965,7 @@ translate Japanese strings:
     new "「{i}足元で……{/i}」"
 
     old "{#sayori_exclusive_2_bb922589}"
-    new "「{i}最後の花が私を招く{/I}」"
+    new "「{i}最後の花が私を招く{/i}」"
 
     old "{#sayori_exclusive_2_05ce6477}"
     new "「{i}茎をねじり、根の束縛から解放し……{/i}」"
@@ -2016,7 +2016,7 @@ translate Japanese strings:
     new "「ただ、いつもの可愛らしいお前とまったく雰囲気が違うというか」"
 
     old "{#sayori_exclusive_2_25cb994e}"
-    new "「あはは！ そういう言われると照れちゃうよ～！」"
+    new "「あはは！ そう言われると照れちゃうよ～！」"
 
     old "{#sayori_exclusive_2_2e362b7a}"
     new "「でもそれって上手くできてるってことだよねぇ～」"
