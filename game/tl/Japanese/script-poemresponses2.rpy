@@ -830,7 +830,7 @@ translate Japanese ch22_y_good_shared_c60c5441:
     y "「[player]さん……」"
 
 translate Japanese ch22_y_good_shared_4e94ed3b:
-    y 2t "「昨日のより良いかもしれません……」"
+    y 2t "「昨日よりもさらに良くなってます……」"
 
 translate Japanese ch22_y_good_shared_0b22d8b2:
     y "「……どうやってこんなに早くここまでのレベルに？」"
@@ -2139,7 +2139,7 @@ translate Japanese strings:
     new "「[player]さん……」"
 
     old "{#ch22_y_good_shared_4e94ed3b}"
-    new "「昨日のより良いかもしれません……」"
+    new "「昨日よりもさらに良くなってます……」"
 
     old "{#ch22_y_good_shared_0b22d8b2}"
     new "「……どうやってこんなに早くここまでのレベルに？」"

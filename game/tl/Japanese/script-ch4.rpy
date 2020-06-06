@@ -3581,7 +3581,7 @@ translate Japanese ch4_end_yes_fce3df4a:
     "俺はサヨリのその言葉の意味が分からない。"
 
 translate Japanese ch4_end_yes_c0973791:
-    mc "「サヨリ、お前は今悲しくなったと言うことか？」"
+    mc "「サヨリ、お前は今悲しくなったと言っているのか？」"
 
 translate Japanese ch4_end_yes_26ee72dd:
     s 4bk "「よ、よく分からない……」"
@@ -7383,7 +7383,7 @@ translate Japanese strings:
     new "俺はサヨリのその言葉の意味が分からない。"
 
     old "{#ch4_end_yes_c0973791}"
-    new "「サヨリ、お前は今悲しくなったと言うことか？」"
+    new "「サヨリ、お前は今悲しくなったと言っているのか？」"
 
     old "{#ch4_end_yes_26ee72dd}"
     new "「よ、よく分からない……」"

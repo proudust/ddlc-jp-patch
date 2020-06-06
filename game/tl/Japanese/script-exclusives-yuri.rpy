@@ -224,7 +224,7 @@ translate Japanese yuri_exclusive_1_cbb32f29:
     y "「周りに配慮することを忘れてしまうんです……」"
 
 translate Japanese yuri_exclusive_1_1b4a2d9b:
-    y 3t "「なのでもし変なことを言ったらごめんなさい！」"
+    y 3t "「なので、もし変なことを言ったらごめんなさい！」"
 
 translate Japanese yuri_exclusive_1_7e573792:
     y "「あと、喋りすぎていたら遠慮なく止めてください！」"
@@ -1617,7 +1617,7 @@ translate Japanese strings:
     new "「周りに配慮することを忘れてしまうんです……」"
 
     old "{#yuri_exclusive_1_1b4a2d9b}"
-    new "「なのでもし変なことを言ったらごめんなさい！」"
+    new "「なので、もし変なことを言ったらごめんなさい！」"
 
     old "{#yuri_exclusive_1_7e573792}"
     new "「あと、喋りすぎていたら遠慮なく止めてください！」"

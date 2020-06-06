@@ -107,7 +107,7 @@ translate Japanese ch40_main_73917420:
     mc "「部活はもうほぼ決めた」"
 
 translate Japanese ch40_main_33f39455:
-    s 1m "「ほんと？！」"
+    s 1m "「ほんと！？」"
 
 translate Japanese ch40_main_87e83572:
     s 1r "「どこどこ？ 教えて！」"
@@ -1047,7 +1047,7 @@ translate Japanese strings:
     new "「部活はもうほぼ決めた」"
 
     old "{#ch40_main_33f39455}"
-    new "「ほんと？！」"
+    new "「ほんと！？」"
 
     old "{#ch40_main_87e83572}"
     new "「どこどこ？ 教えて！」"

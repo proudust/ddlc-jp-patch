@@ -341,7 +341,7 @@ translate Japanese yuri_exclusive2_1_ch22_e241e6b4:
     "俺はユリの方を向く。"
 
 translate Japanese yuri_exclusive2_1_ch22_c5bc1b32:
-    "どうやら自分の本ではなく、俺の本から読んでいるようだ……"
+    "どうやら自分の本ではなく、俺の本を読んでいるようだ――"
 
 translate Japanese yuri_exclusive2_1_ch22_510cdaf3:
     y "「ご、ごめんなさい！」"
@@ -1875,7 +1875,7 @@ translate Japanese strings:
     new "俺はユリの方を向く。"
 
     old "{#yuri_exclusive2_1_ch22_c5bc1b32}"
-    new "どうやら自分の本ではなく、俺の本から読んでいるようだ……"
+    new "どうやら自分の本ではなく、俺の本を読んでいるようだ――"
 
     old "{#yuri_exclusive2_1_ch22_510cdaf3}"
     new "「ご、ごめんなさい！」"
