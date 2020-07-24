@@ -2081,10 +2081,10 @@ translate Japanese ch2_n_good_sharedwithch3_07910798:
     n 5s "「なんであんたが下手っぴじゃないのよ？」"
 
 translate Japanese ch2_n_good_sharedwithch3_90c281e0:
-    n "「わたしの詩が{i}あんた{/i}を関心させても、その逆なんてあり得ないはずなのに！」"
+    n "「わたしの詩が{i}あんた{/i}を感心させても、その逆なんてあり得ないはずなのに！」"
 
 translate Japanese ch2_n_good_sharedwithch3_5551b30c:
-    mc "「俺を関心させようとしてたのか？」"
+    mc "「俺を感心させようとしてたのか？」"
 
 translate Japanese ch2_n_good_sharedwithch3_7de53070:
     n 12c "「当たり前でしょ！ ユリの詩の方が楽しめただなんて言わせないんだから！」"
@@ -2096,7 +2096,7 @@ translate Japanese ch2_n_good_sharedwithch3_c14c584c:
     mc "「そうか……」"
 
 translate Japanese ch2_n_good_sharedwithch3_b7135225:
-    mc "「それなら、俺がお前を関心させることに何の問題があるんだ？」"
+    mc "「それなら、俺がお前を感心させることに何の問題があるんだ？」"
 
 translate Japanese ch2_n_good_sharedwithch3_8a25ddee:
     n 1e "「あのねぇ！ あんた――」"
@@ -2984,7 +2984,7 @@ translate Japanese ch1_s_med_eb6dee34:
     s 2q "「えへへ、それもそうだね～」"
 
 translate Japanese ch1_s_med_1f10f4cb:
-    s 1q "「でも余計に関心しちゃった！」"
+    s 1q "「でも余計に感心しちゃった！」"
 
 translate Japanese ch1_s_med_0f23c547:
     s 1d "「正直に言うと……」"
@@ -8517,10 +8517,10 @@ translate Japanese strings:
     new "「なんであんたが下手っぴじゃないのよ？」"
 
     old "{#ch2_n_good_sharedwithch3_90c281e0}"
-    new "「わたしの詩が{i}あんた{/i}を関心させても、その逆なんてあり得ないはずなのに！」"
+    new "「わたしの詩が{i}あんた{/i}を感心させても、その逆なんてあり得ないはずなのに！」"
 
     old "{#ch2_n_good_sharedwithch3_5551b30c}"
-    new "「俺を関心させようとしてたのか？」"
+    new "「俺を感心させようとしてたのか？」"
 
     old "{#ch2_n_good_sharedwithch3_7de53070}"
     new "「当たり前でしょ！ ユリの詩の方が楽しめただなんて言わせないんだから！」"
@@ -8532,7 +8532,7 @@ translate Japanese strings:
     new "「そうか……」"
 
     old "{#ch2_n_good_sharedwithch3_b7135225}"
-    new "「それなら、俺がお前を関心させることに何の問題があるんだ？」"
+    new "「それなら、俺がお前を感心させることに何の問題があるんだ？」"
 
     old "{#ch2_n_good_sharedwithch3_8a25ddee}"
     new "「あのねぇ！ あんた――」"
@@ -9420,7 +9420,7 @@ translate Japanese strings:
     new "「えへへ、それもそうだね～」"
 
     old "{#ch1_s_med_1f10f4cb}"
-    new "「でも余計に関心しちゃった！」"
+    new "「でも余計に感心しちゃった！」"
 
     old "{#ch1_s_med_0f23c547}"
     new "「正直に言うと……」"
