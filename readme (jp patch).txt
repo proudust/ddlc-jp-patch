@@ -1,4 +1,4 @@
-Doki Doki Literature Club 日本語化パッチ(20/06/06)
+Doki Doki Literature Club 日本語化パッチ(20/07/25)
 ------------------------------------------------------------
 
 
@@ -96,6 +96,9 @@ https://github.com/proudust/ddlc-jp-patch
 
 
 更新履歴：
+200725
+・誤字の訂正
+
 200606
 ・翻訳の修正
 ・ch30_main2 のヒストリーが表示されない不具合を修正
