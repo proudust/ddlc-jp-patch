@@ -1,6 +1,6 @@
 name: Build
 
-on: [push]
+on: [push, pull_request]
 
 env:
   BASE_VERSION: "v1.1.1"
@@ -8,14 +8,18 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: >
+      github.event_name == 'push' ||
+      github.event.pull_request.head.repo.full_name != github.repository
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Get Git describe version and set to env
         run: |
-          git fetch --prune --unshallow
           PATCH_VERSION=`git describe --tags`
           ARTIFACT_NAME=DDLC_JP_$PATCH_VERSION
           echo ::set-env name=PATCH_VERSION::$PATCH_VERSION
@@ -25,7 +29,7 @@ jobs:
         run: chmod -R +x ./tools/*.sh && ./tools/distribute.sh
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: ${{ env.ARTIFACT_NAME }}
           path: ${{ env.ARTIFACT_NAME }}
@@ -43,7 +47,7 @@ jobs:
 
       - name: Upload Release Asset
         if: startsWith(github.ref, 'refs/tags/')
-        uses: actions/upload-release-asset@master
+        uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -54,13 +58,16 @@ jobs:
 
   check-translate:
     runs-on: ubuntu-latest
+    if: >
+      github.event_name == 'push' ||
+      github.event.pull_request.head.repo.full_name != github.repository
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Check translates
-        run: chmod -R +x ./tools/*.sh && python3 -c 'from tools.check_translate import main; main()'
+        run: chmod -R +x ./tools/*.sh && python3 tools/check_translate.py
 
       - if: failure()
         name: Upload build artifact

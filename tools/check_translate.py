@@ -81,3 +81,6 @@ def main():
             for error in errors:
                 report.writelines('\t'.join(map(str, error)) + '\n')
         sys.exit(1)
+
+if __name__ == '__main__':
+    main()
