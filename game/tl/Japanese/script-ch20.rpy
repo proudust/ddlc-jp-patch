@@ -44,7 +44,7 @@ translate Japanese ch20_main2_9a60ad41:
     mc "「……モニカ？」"
 
 translate Japanese ch20_main2_0fbdca71:
-    m 1b "「やっぱりね、ここで会えるとは思わなかったわ！」"
+    m 1b "「良かった、こんなところで会えるとは思わなかったわ！」"
 
 translate Japanese ch20_main2_a80abc6a:
     m 5 "「久しぶり、よね？」"
@@ -934,7 +934,7 @@ translate Japanese strings:
     new "「……モニカ？」"
 
     old "{#ch20_main2_0fbdca71}"
-    new "「やっぱりね、ここで会えるとは思わなかったわ！」"
+    new "「良かった、こんなところで会えるとは思わなかったわ！」"
 
     old "{#ch20_main2_a80abc6a}"
     new "「久しぶり、よね？」"
